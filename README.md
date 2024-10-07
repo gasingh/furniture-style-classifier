@@ -3,7 +3,7 @@ Final project for the Building AI course
 
 ## Summary
 
-I found an interesting book in a booksale in London which is a pictorial guide from the 1990s teaching people how to identify furniture styles. The book is meant as a concise resource for curators, furniture collectors, and connoisseurs, as well as students of history and decorative arts. The book also provides  My idea and fascniation is that if a person can read a book and learn to identify furniture styles, can an AI do it as well? 
+I found an interesting book in a booksale in London which is a pictorial guide from the 1990s teaching people how to identify furniture styles. The book is meant as a concise resource for curators, furniture collectors, and connoisseurs, as well as students of history and decorative arts. The book provide one page descriptions and images for 36 styles ranging from 1600s to 1900s. My idea and fascniation is that if a person can read a book and learn to identify furniture styles, can an AI do it as well? 
 
 ## Background
 
@@ -21,6 +21,7 @@ The idea will be to be able to send a picture to the application, and the AI app
 
 In the future, the AI should able to read descriptive page scans about furniture classification and typology building and learn from it:
 <img src="https://i.pinimg.com/736x/4b/b6/42/4bb6427371d007215fd60268b71972a0.jpg" width="500">
+
 [source](https://in.pinterest.com/pin/28288303900156751/)
 
 ## Data sources and AI methods
@@ -45,7 +46,4 @@ How could your project grow and become something even more? What kind of skills,
 ## Acknowledgments
 
 * list here the sources of inspiration 
-* do not use code, images, data etc. from others without permission
-* when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
-* etc
+* * etc

@@ -50,8 +50,14 @@ Ethical Considerations: Ethically any images which are still in copyright should
 Can this project grow and become something even more? 
 I love browsing design and furniture shops, and an AI like that could be a cool tool to have on a mobile phone. Ideally a mobile phone app!
 
+## Skills & Knowledge Learning
+
 What kind of skills, what kind of assistance would I need to move on?
 I would need to learn how to classify images using a **CNN**. I have learned that these are the kind of neural networks which can be trained to classify images.
+
+<img src="https://media.licdn.com/dms/image/D5612AQFnSLkzkkXIqg/article-cover_image-shrink_720_1280/0/1687713196637?e=2147483647&v=beta&t=2pX0mP5aH9rt-_IDYh6S3fRioMwcq30Oo9MBjkhhxlU" width="600"> <br>
+
+<img src="https://www.researchgate.net/publication/336805909/figure/fig1/AS:817888827023360@1572011300751/Schematic-diagram-of-a-basic-convolutional-neural-network-CNN-architecture-26.ppm" width="600"> <br>
 
 ## Acknowledgments
 

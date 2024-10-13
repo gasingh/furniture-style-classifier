@@ -38,11 +38,6 @@ In the future, the developed AI tool should able to read descriptive page scans 
 Limitations: The project doesnot look to solve 
 Ethical Considerations: Ethically any images which are still in copyright should be utilized only after procuring permissions/  a solution like this? -->
 
-## What next?
-
-Can this project grow and become something even more? 
-I love browsing design and furniture shops, and an AI like that could be a cool tool to have on a mobile phone. Ideally a mobile phone app!
-
 ## AI methods: Skills, Knowledge Acquisition and Learning
 
 _What kind of skills, what kind of assistance would I need to move on?_
@@ -160,33 +155,35 @@ I found a few datasources online:
 </details>
 
 
-# Data sources: Stylization references (analog)
+## Data sources: Stylization references (analog)
 
 A few interesting webpages which talk about and illustrate various futniture styles.
 
 <details> <summary> Literature Review 04: Stylization References </summary>
 
 * 1. Classifying Wardrobes
-    <img src="https://i.pinimg.com/736x/4b/b6/42/4bb6427371d007215fd60268b71972a0.jpg" height="300"> <br>
+    <br><img src="https://i.pinimg.com/736x/4b/b6/42/4bb6427371d007215fd60268b71972a0.jpg" height="300"> <br>
     [source](https://in.pinterest.com/pin/28288303900156751/)
 * 2. Chair Styles
-     <img src="https://cdn.shopify.com/s/files/1/0845/8923/files/furniture-design-timeline_2048x2048.jpg?2354855286364133834" width = "500"> <br>
-    [How To Identify Antique Furniture | Buyer's Guide | Styylish](https://styylish.com/how-to-identify-antique-furniture/)
-    [FURNITURE DESIGN HISTORY | ebarza Modern Furniture in Abu Dhabi & Dubai](https://www.ebarza.com/pages/famous-designers)
-    [furniture-design-timeline_2048x2048.jpg (1814×1148)](https://cdn.shopify.com/s/files/1/0845/8923/files/furniture-design-timeline_2048x2048.jpg?2354855286364133834)
-* An interesting book looking at visual aspects of identifying furniture from 1985.
-   <img src= "https://m.media-amazon.com/images/I/81Xutlgn5VL._SL1500_.jpg" width= "500"> <br>
-   [American Antique Furniture Styles (A Roundtable Press book): Amazon.co.uk: Butler, Joseph T., Johnson, Kathleen Eagen: 9780816010080: Books](https://www.amazon.co.uk/American-Antique-Furniture-Styles-Roundtable/dp/0816010080)
-* 
-
-* 
+     <br><img src="https://cdn.shopify.com/s/files/1/0845/8923/files/furniture-design-timeline_2048x2048.jpg?2354855286364133834" width = "500"> <br>
+    * [How To Identify Antique Furniture | Buyer's Guide | Styylish](https://styylish.com/how-to-identify-antique-furniture/)
+* 3. Famous Designers
+     ![furniture-design-timeline_2048x2048.jpg (1814×1148)](https://cdn.shopify.com/s/files/1/0845/8923/files/furniture-design-timeline_2048x2048.jpg?2354855286364133834)
+    * [FURNITURE DESIGN HISTORY | ebarza Modern Furniture in Abu Dhabi & Dubai](https://www.ebarza.com/pages/famous-designers)
+    
+* 4. An interesting book looking at visual aspects of identifying furniture from 1985.
+   <img src= "https://m.media-amazon.com/images/I/91NIvFMx4BL._AC_UF894,1000_QL80_.jpg" width= "500"> <br>
+   <!-- <img src= "https://m.media-amazon.com/images/I/81Xutlgn5VL._SL1500_.jpg" width= "500"> <br> -->
+   * [American Antique Furniture Styles (A Roundtable Press book): Amazon.co.uk: Butler, Joseph T., Johnson, Kathleen Eagen: 9780816010080: Books](https://www.amazon.co.uk/American-Antique-Furniture-Styles-Roundtable/dp/0816010080)
+   * [Field Guide to American Antique Furniture: A Unique Visual System for Identifying the Style of Virtually Any Piece of American Antique Furniture: Amazon.co.uk: Butler, Joseph T., Skibinski, Ray: Books](https://www.amazon.co.uk/Field-Guide-American-Antique-Furniture/dp/B0013TMMZI)
+ 
 </details>
 
 
 
-## AI & Ethics: the ethical concerns around publicly accessible datasets for training AI Models
+## AI & Ethics
 
-Since the original inspiration for my project is a book, I also investigated the various ethical and legal implications which arise, and should be understood, if one were to simply digitize a book for building an AI application. Although this is not what we are doing for this project, I nevertheless delved deep into this aspect, as it is something very contemporary and definitely related to a project which involves training an AI model on publically available images online. 
+The ethical concerns around use of online images for training AI Models. Since the original inspiration for my project is a book, I also investigated the various ethical and legal implications which arise, and should be understood, if one were to simply digitize a book for building an AI application. Although this is not what we are doing for this project, I nevertheless delved deep into this aspect, as it is something very contemporary and definitely related to a project which involves training an AI model on publically available images online. 
 
 In my research online, I found that it might be fine to takeup such a pursuit for purely educational, research and non-commercial purposes: under **fair use**. Given that the book is already accessible the public domain on the Internet Archive.
 
@@ -221,5 +218,9 @@ In my research online, I found that it might be fine to takeup such a pursuit fo
 
 </details>
 
-However, my learning pursuit would be better served if I were to learn the fundamentals of Image recognition and then learning how to apply those learnings and knowledge and work towards building my own custom tailored AI system.
+However, my learning pursuit would be better served if I were to learn the fundamentals of Image recognition and then learning how to apply those learnings and knowledge and work towards building my own custom tailored AI system. Hence the research on finding appropriate opensource image training sets online. Please refer Sections: _**Data sources: AI training datasets (digital)**_.
 
+## What next?
+
+Can this project grow and become something even more? 
+I love browsing design and furniture shops, and an AI like that could be a cool tool to have on a mobile phone. Ideally a mobile phone app!

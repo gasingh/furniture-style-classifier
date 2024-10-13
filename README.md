@@ -44,7 +44,7 @@ _What kind of skills, what kind of assistance would I need to move on?_
 
 I would need to learn how to classify images using a **CNN**. I have learned that these are the kind of neural networks which can be trained to classify images. Below are two sections which assimilate some visual and textual searches and some preliminary research conducted on the subject. This should serve as a ready reference for me to start working on my project further. 
 
-<details> <summary> Literature Review Section 1 </summary>  
+<details> <summary> Literature Review 01: Understanding CNNs </summary>  
 
   <br>**Google Search 01**: _cnn image classification diagram_
   [cnn image classification diagram - Google Search](https://www.google.com/search?sca_esv=81b62b241f3359c7&rlz=1C1GCEB_enGB1045GB1045&sxsrf=ADLYWIJA4sPq0NGHOn2zctn4R8i_ehBPTQ:1728608543687&q=cnn+image+classification+diagram&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J_86uWOeqwdnV0yaSF-x2jon2iao6KWCaVjfn7ahz_sfz4kQc-hbvsXJ2gNx0RnV2nl305mvoek0YK94ylYY2a4b3Q-OEwW5lKppi2wujywZWmdIJVp8wrsv_g-eh5sWEDXx8JNpgmjsiKj2mZMvftPlZJZz&sa=X&ved=2ahUKEwjR3M7RkIWJAxUo3wIHHRD1KZMQtKgLegQIDhAB&biw=1383&bih=747&dpr=2.5#vhid=H2hl3BjvD5pswM&vssid=mosaic) <br>
@@ -102,7 +102,7 @@ I would need to learn how to classify images using a **CNN**. I have learned tha
 
 </details> 
 
-<details> <summary> Literature Review Section 2 </summary>  
+<details> <summary> Literature Review 02: CNN Classification & Logic </summary>  
 
   <br> **Google Search 02** : _cnn image classification logic explained_
   <br>[cnn image classification logic explained - Google Search](https://www.google.com/search?sca_esv=0ddce2aac02c1925&rlz=1C1GCEB_enGB1045GB1045&sxsrf=ADLYWIL7FDPMsDphMXEHum_LcnsV1SZhfQ:1728830101591&q=cnn+image+classification+logic+explained&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWfbQph1uib-VfD_izZO2Y5sC3UdQE5x8XNnxUO1qJLaQWdrk7tnb4cmEQUUbePQeEPt1o3RbA2PBoOOMJ3T4YmNHjUWP9fTrmSj74dymHzutB84oF5TSmO6C32fnEW8r36y461mhVKj_KdcRWfsjRkNsZzVwY13qpaW5CEVFIaryiYRoM&sa=X&ved=2ahUKEwjcg9SAyouJAxVQUUEAHcgGKI4QtKgLegQIEBAB&biw=1383&bih=747&dpr=2.5) <br>
@@ -142,6 +142,60 @@ I would need to learn how to classify images using a **CNN**. I have learned tha
 
 </details>
 
+<details> <summary> Literature Review 03: CNN Code Samples and Mathematics Explained </summary>  
+
+  <br> **Google Search 03** : _cnn image classification logic explained_
+
+  * **i. Image Similarity using Cosine Distance** 
+    <br><img src= "https://miro.medium.com/v2/resize:fit:1100/format:webp/0*sAw6h-uU0o9xsG8_.png" width = "200"> <br>
+    [Image Similarity using CNN feature embeddings | by fareid | Medium](https://medium.com/@f.a.reid/image-similarity-using-feature-embeddings-357dc01514f8) <br>
+    Code Reference for an Image2Vec Class:<br>
+    [ImageSimilarity/src/ImgSim/image_similarity.py at main · totogot/ImageSimilarity](https://github.com/totogot/ImageSimilarity/blob/main/src/ImgSim/image_similarity.py)
+  
+  * **ii. MNIST DataSet identification using a CNN**
+    <br> <img src= "https://cdn.analyticsvidhya.com/wp-content/uploads/2024/06/image-29.png" width = "500"><br> 
+    [Image Classification Using CNN](https://www.analyticsvidhya.com/blog/2020/02/learn-image-classification-cnn-convolutional-neural-networks-3-datasets/)
+
+  * **iii. Introduction to Deep Learning | Mathworks UK** 
+    <br> <img src="https://www.mathworks.com/videos/introduction-to-deep-learning-what-are-convolutional-neural-networks--1489512765771/_jcr_content/thumbnail.adapt.1200.medium.jpg/1692945517181.jpg" width = "500"> <br>
+    [What Are Convolutional Neural Networks? | Introduction to Deep Learning - MATLAB](https://uk.mathworks.com/videos/introduction-to-deep-learning-what-are-convolutional-neural-networks--1489512765771.html?gclid=CjwKCAjw9p24BhB_EiwA8ID5BgM-Z1P_irHJVX-sgf7yURAMJa6FLDN24UporL4_hAPeeRACNPGdZBoCvqMQAvD_BwE&ef_id=CjwKCAjw9p24BhB_EiwA8ID5BgM-Z1P_irHJVX-sgf7yURAMJa6FLDN24UporL4_hAPeeRACNPGdZBoCvqMQAvD_BwE:G:s&s_kwcid=AL!8664!3!604136203113!b!!g!!%2Bconvolutional%20%2Bneural%20%2Bnetworks&s_eid=psn_52858618944&q=+convolutional++neural++networks&gad_source=1)
+  
+  * **iv. What is a Convolutional Neural Network? | Mathworks UK**
+    <br><img src = "https://uk.mathworks.com/discovery/convolutional-neural-network/_jcr_content/mainParsys/band_copy_copy/mainParsys/lockedsubnav/mainParsys/columns/a32c7d5d-8012-4de1-bc76-8bd092f97db8/image_2109075398_cop.adapt.full.medium.jpg/1726854213002.jpg" width = "800" > <br>
+    Example of a network with many convolutional layers. Filters are applied to each training image at different resolutions, and the output of each convolved image is used as the input to the next layer. <br>
+    [What Is a Convolutional Neural Network? | 3 things you need to know - MATLAB & Simulink](https://uk.mathworks.com/discovery/convolutional-neural-network.html)
+  
+  * **v. Understanding of the CNN Matrix Math | Miro: Raghav Prabhu**
+    <br><img src= "https://miro.medium.com/v2/resize:fit:1100/format:webp/1*4yv0yIH0nVhSOv3AkLUIiw.png" width = "300"> <br>
+    Consider a 5 x 5 whose image pixel values are 0, 1 and filter matrix 3 x 3
+    <br><img src= "https://miro.medium.com/v2/resize:fit:640/format:webp/1*MrGSULUtkXc0Ou07QouV8A.gif" width = "300"> <br>
+    Then the convolution of 5 x 5 image matrix multiplies with 3 x 3 filter matrix which is called “Feature Map” as output. Annotated above as the Convolved Feature.
+    <br><img src= "https://miro.medium.com/v2/resize:fit:828/format:webp/1*uJpkfkm2Lr72mJtRaqoKZg.png" width = "300"> <br>
+    Convolution of an image with different filters can perform operations such as edge detection, blur and sharpen by applying filters. The below example shows various convolution image after applying different types of filters (Kernels). <br>
+    <br> <img src = "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*4GLv7_4BbKXnpc6BRb0Aew.png" width = "500" ><br>
+    Summary
+        - Provide input image into convolution layer
+        - Choose parameters, apply filters with strides, padding if requires. Perform convolution on the image and apply ReLU activation to the matrix.
+        - Perform pooling to reduce dimensionality size
+        - Add as many convolutional layers until satisfied
+        - Flatten the output and feed into a fully connected layer (FC Layer)
+        - Output the class using an activation function (Logistic Regression with cost functions) and classifies images.
+    <br>
+    [Understanding of Convolutional Neural Network (CNN) — Deep Learning | by Prabhu Raghav | Medium](https://medium.com/@RaghavPrabhu/understanding-of-convolutional-neural-network-cnn-deep-learning-99760835f148) <br>
+
+  * **vi. CNN Architectures | Miro: Raghav Prabhu**
+    <br><img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*HyaPKtxU07iVzZ4RjJJlUQ.png" width = "500"> <br>
+    [CNN Architectures — LeNet, AlexNet, VGG, GoogLeNet and ResNet | by Prabhu Raghav | Medium](https://medium.com/@RaghavPrabhu/cnn-architectures-lenet-alexnet-vgg-googlenet-and-resnet-7c81c017b848) <br>
+
+  * vii.
+    
+
+[CNN in combination with KNN - Deep Learning - fast.ai Course Forums](https://forums.fast.ai/t/cnn-in-combination-with-knn/4280)
+
+
+
+</details>
+
 
 ## Data sources: AI training datasets (digital)
 
@@ -149,7 +203,7 @@ The Idea is to be able to build an AI Model which can automatically learn to rec
 
 I found a few datasources online:
 
-<details> <summary> Literature Review 03: AI Training Datasets Online </summary>
+<details> <summary> Literature Review 04: AI Training Datasets Online </summary>
 
 
 </details>
@@ -159,7 +213,7 @@ I found a few datasources online:
 
 A few interesting webpages which talk about and illustrate various futniture styles.
 
-<details> <summary> Literature Review 04: Stylization References </summary>
+<details> <summary> Literature Review 05: Stylization References </summary>
 
 * 1. Classifying Wardrobes
     <br><img src="https://i.pinimg.com/736x/4b/b6/42/4bb6427371d007215fd60268b71972a0.jpg" height="300"> <br>
@@ -187,7 +241,7 @@ The ethical concerns around use of online images for training AI Models. Since t
 
 In my research online, I found that it might be fine to takeup such a pursuit for purely educational, research and non-commercial purposes: under **fair use**. Given that the book is already accessible the public domain on the Internet Archive.
 
-<details> <summary> Literature Review 05: AI and Ethics around use of images for training AI models </summary>
+<details> <summary> Literature Review 06: AI and Ethics around use of images for training AI models </summary>
   
   * SET 1
     * [Identifying American furniture : a pictorial guide to styles and terms, Colonial to contemporary : Naeve, Milo M : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/identifyingameri00milo/page/96/mode/2up)

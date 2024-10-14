@@ -348,6 +348,25 @@ _**Excellent Articles**_
 
 <details> <summary> <mark>  Literature Review 05: HISTORY MODULE: AlexNet and ImageNet: The Birth of Deep Learning | 2006 </mark> </summary>
 
+<br><img src = "https://viso.ai/wp-content/uploads/2024/04/ImageNet.jpg" width = "500"> <br>
+[Img Source: t-SNE visualization of CNN codes](https://cs.stanford.edu/people/karpathy/cnnembed/)<br>
+[alexnet - Google Search](https://www.google.com/search?q=alexnet&rlz=1C1GCEB_enGB1045GB1045&oq=alexnet&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg9MgYIAhBFGDzSAQgyODQzajBqN6gCALACAA&sourceid=chrome&ie=UTF-8) <br>
+[AlexNet: A Revolutionary Deep Learning Architecture - viso.ai](https://viso.ai/deep-learning/alexnet/#:~:text=AlexNet%20is%20an%20Image%20Classification,from%2026.2%25%20to%2015.3%25.) <br>
+
+<br><img src= "https://github.com/gasingh/furniture-style-classifier/blob/main/imagenet_info1_.JPG" width = "500">
+<br><img src= "https://github.com/gasingh/furniture-style-classifier/blob/main/imagenet_info2.JPG" width = "500"> <br>
+[ImageNet Definition | DeepAI](https://deepai.org/machine-learning-glossary-and-terms/imagenet#:~:text=ImageNet%20was%20created%20by%20Dr,way%20that%20machines%20could%20understand.) <br>
+[Convolutional Neural Network Definition | DeepAI](https://deepai.org/machine-learning-glossary-and-terms/convolutional-neural-network) <br>
+
+<br> <img src= "https://github.com/gasingh/furniture-style-classifier/blob/main/ALEXNET_01.JPG" width = "500">
+<br> <img src= "https://github.com/gasingh/furniture-style-classifier/blob/main/ALEXNET_00.JPG" width = "500">
+<br> <img src= "https://github.com/gasingh/furniture-style-classifier/blob/main/alexnet_02.JPG" width = "500">
+<br> <img src= "https://github.com/gasingh/furniture-style-classifier/blob/main/alexnet_03.JPG" width = "500">
+<br>
+[alexnet - Google Search](https://www.google.com/search?q=alexnet&rlz=1C1GCEB_enGB1045GB1045&oq=alexnet&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg9MgYIAhBFGDzSAQgyODQzajBqN6gCALACAA&sourceid=chrome&ie=UTF-8) <br>
+[AlexNet: A Revolutionary Deep Learning Architecture - viso.ai](https://viso.ai/deep-learning/alexnet/#:~:text=AlexNet%20is%20an%20Image%20Classification,from%2026.2%25%20to%2015.3%25.)  <br>
+[Convolutional Neural Networks (CNNs): A 2024 Deep Dive - viso.ai](https://viso.ai/deep-learning/convolutional-neural-networks/) <br>
+
 
 
 </details>

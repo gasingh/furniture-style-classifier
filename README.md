@@ -188,7 +188,7 @@ I would need to learn how to classify images using a **CNN**. I have learned tha
     [CNN Architectures — LeNet, AlexNet, VGG, GoogLeNet and ResNet | by Prabhu Raghav | Medium](https://medium.com/@RaghavPrabhu/cnn-architectures-lenet-alexnet-vgg-googlenet-and-resnet-7c81c017b848) <br>
 </details>
 
-<details> <summary> Literature Review 04: CNN Details and various mathematical data extraction layers of the algorithm </summary>  
+<details> <summary> Literature Review 04.0: CNN Details and various mathematical data extraction layers of the algorithm </summary>  
 
 <br> **Google Search 04** : _pooling to reduce dimensions in CNN_
   <br>[pooling to reduce dimensions in CNN - Google Search](https://www.google.com/search?sca_esv=778fd8ccaca240ed&rlz=1C1GCEB_enGB1045GB1045&sxsrf=ADLYWILPtdUmBQRzcTnLjhp_uTU-VzsQLg:1728858943390&q=pooling+to+reduce+dimensions+in+CNN&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J_86uWOeqwdnV0yaSF-x2jon2iao6KWCaVjfn7ahz_sfz4kQc-hbvsXJ2gNx0RnV2nl305mvoek0YK94ylYY2a4b3Q-OEwW5lKppi2wujywZWmdIJVp8wrsv_g-eh5sWEDXx8JNpgmjsiKj2mZMvftPlZJZz&sa=X&ved=2ahUKEwik5L-5tYyJAxWq8LsIHd6UFVkQtKgLegQIFBAB&biw=1383&bih=747&dpr=2.5#vhid=BGrXRMr3gYeZXM&vssid=mosaic) <br>
@@ -242,7 +242,7 @@ I would need to learn how to classify images using a **CNN**. I have learned tha
 
 </details>
 
-<details> <summary> <mark> Literature Review 04_EXTRAs_01: CNN Explainer & 2d Convolutions </mark> </summary>
+<details> <summary> <mark> Literature Review 04.1_EXTRAs: CNN Explainer & 2d Convolutions </mark> </summary>
 
 _**Super Useful Links from OpenCV CNN Webpage!!**_
   
@@ -290,7 +290,7 @@ _**Super Useful Links from OpenCV CNN Webpage!!**_
   * 01:02 14/10/2024
 </details>
 
-<details> <summary> <mark>  Literature Review 04_EXTRAs_02: Google Photos using CNNs & the ImageNet Competition and Paper by Google Research </mark> </summary>
+<details> <summary> <mark>  Literature Review 04.2_EXTRAs: Google Photos using CNNs & the ImageNet Competition and Paper by Google Research | 2012 </mark> </summary>
 
 _**Excellent Articles**_
 
@@ -334,6 +334,11 @@ _**Excellent Articles**_
     [ImageNet](https://www.image-net.org/challenges/LSVRC/2012/) <br>
     [imagenet.pdf](https://www.cs.toronto.edu/~fritz/absps/imagenet.pdf) <br>
       
+</details>
+
+
+<details> <summary> <mark>  Literature Review 04.3_EXTRAs: An Excellent Paper on understanding the mathematics of a CNN | | 2017 </mark> </summary>
+[CNN.pdf](https://jasoncantarella.com/downloads/CNN.pdf)
 </details>
 
 ## Data sources: AI training datasets (digital)

@@ -348,6 +348,19 @@ _**Excellent Articles**_
 
 <details> <summary> <mark>  Literature Review 05: HISTORY MODULE: AlexNet and ImageNet: The Birth of Deep Learning | 2006 </mark> </summary>
 
+  
+_**Some key dates in the birth and adoption of CNNs**_
+<br>
+
+| Innovation  | Inventor | Year | Location | Paper | URL | 
+| ------------- | ------------- |------------- | ------------- | ------------- | ------------- |
+| LeNet (CNN) | Yann LeCun | 1998 | AT&T Bell Labs | Backpropagation Applied to Handwritten Zip Code Recognition (Optical character recognition using CNNs) | [https://en.wikipedia.org/wiki/LeNet](https://en.wikipedia.org/wiki/LeNet#:~:text=because%20of%20that.-,Yann%20LeCun%20et%20al.,the%20architecture%20of%20the%20network._), [Author](https://en.wikipedia.org/wiki/Yann_LeCun)|  
+| ImageNet (Database) | Fei-Fei Li | 2009 | Stanford Vision Lab | ImageNet: A large-scale hierarchical image database | [https://en.wikipedia.org/wiki/ImageNet](https://en.wikipedia.org/wiki/ImageNet), [Paper](https://ieeexplore.ieee.org/document/5206848), [Credits](https://www.image-net.org/about.php), [Author](https://en.wikipedia.org/wiki/Fei-Fei_Li)|  
+| AlexNet (CNN) |  Alex Krizhevsky, Ilya Sutskever, Geoffrey Hinton | 2012 | Uni of Toronto |  ImageNet Classification with Deep Convolutional Neural Networks |  [https://en.wikipedia.org/wiki/AlexNet](https://en.wikipedia.org/wiki/AlexNet),[Paper](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf), [Author](https://en.wikipedia.org/wiki/Geoffrey_Hinton) | 
+
+<br>
+04:16 14/10/2024 <br>
+
 * **ImageNet (2009) and AlexNet (2012) | Visio.AI**
   <br><img src = "https://viso.ai/wp-content/uploads/2024/04/ImageNet.jpg" width = "500"> <br>
   [Img Source: t-SNE visualization of CNN codes](https://cs.stanford.edu/people/karpathy/cnnembed/)<br>

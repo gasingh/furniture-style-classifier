@@ -361,6 +361,9 @@ _**Some key dates in the birth and adoption of CNNs**_
 
 _04:16 14/10/2024_ <br>
 
+<br><img src = "https://github.com/gasingh/furniture-style-classifier/blob/main/cifar10_vs_mnist.JPG" width = "500">
+<br><img src = "https://github.com/gasingh/furniture-style-classifier/blob/main/cifar10_vs_imageNet.JPG" width = "500"> <br>
+
 * **ImageNet (2009) and AlexNet (2012) | Visio.AI**
   <br><img src = "https://viso.ai/wp-content/uploads/2024/04/ImageNet.jpg" width = "500"> <br>
   [Img Source: t-SNE visualization of CNN codes](https://cs.stanford.edu/people/karpathy/cnnembed/)<br>

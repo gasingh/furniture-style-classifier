@@ -337,9 +337,21 @@ _**Excellent Articles**_
 </details>
 
 
-<details> <summary> <mark>  Literature Review 04.3_EXTRAs: An Excellent Paper on understanding the mathematics of a CNN | | 2017 </mark> </summary>
-[CNN.pdf](https://jasoncantarella.com/downloads/CNN.pdf)
+<details> <summary> <mark>  Literature Review 04.3_EXTRAs: An Excellent Paper on understanding the mathematics of a CNN | National Key Lab of Novel Software Technology, China | 2017 </mark> </summary>
+
+  <br><img src= "https://github.com/gasingh/furniture-style-classifier/blob/main/introToCNN_paper_00.JPG" width = "500"> <br>
+  <br><img src= "https://github.com/gasingh/furniture-style-classifier/blob/main/introToCNN_paper_01.JPG" width = "500"> <br>
+  * [CNN.pdf](https://jasoncantarella.com/downloads/CNN.pdf)
+
 </details>
+
+
+<details> <summary> <mark>  Literature Review 05: HISTORY MODULE: AlexNet and ImageNet: The Birth of Deep Learning | 2006 </mark> </summary>
+
+
+
+</details>
+
 
 ## Data sources: AI training datasets (digital)
 
@@ -376,6 +388,7 @@ A few interesting webpages which talk about and illustrate various futniture sty
    * [Field Guide to American Antique Furniture: A Unique Visual System for Identifying the Style of Virtually Any Piece of American Antique Furniture: Amazon.co.uk: Butler, Joseph T., Skibinski, Ray: Books](https://www.amazon.co.uk/Field-Guide-American-Antique-Furniture/dp/B0013TMMZI)
  
 </details>
+
 
 
 

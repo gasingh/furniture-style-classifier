@@ -358,6 +358,8 @@ _**Excellent Articles**_
   <br><img src= "https://github.com/gasingh/furniture-style-classifier/blob/main/imagenet_info1_.JPG" width = "500">
   <br><img src= "https://github.com/gasingh/furniture-style-classifier/blob/main/imagenet_info2.JPG" width = "500"> <br>
   [ImageNet Definition | DeepAI](https://deepai.org/machine-learning-glossary-and-terms/imagenet#:~:text=ImageNet%20was%20created%20by%20Dr,way%20that%20machines%20could%20understand.) <br>
+  <br><img src= "https://github.com/gasingh/furniture-style-classifier/blob/main/cnn_history_00.JPG" width = "500">
+  <br><img src= "https://github.com/gasingh/furniture-style-classifier/blob/main/cnn_history_01.JPG" width = "500">
   [Convolutional Neural Network Definition | DeepAI](https://deepai.org/machine-learning-glossary-and-terms/convolutional-neural-network) <br>
   
   <br> <img src= "https://github.com/gasingh/furniture-style-classifier/blob/main/ALEXNET_01.JPG" width = "500">

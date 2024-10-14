@@ -367,7 +367,7 @@ _**Excellent Articles**_
   <br>
   [alexnet - Google Search](https://www.google.com/search?q=alexnet&rlz=1C1GCEB_enGB1045GB1045&oq=alexnet&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg9MgYIAhBFGDzSAQgyODQzajBqN6gCALACAA&sourceid=chrome&ie=UTF-8) <br>
   <br> <img src= "https://github.com/gasingh/furniture-style-classifier/blob/main/alexnet_05_article_deepAI.JPG" width = "500">
-  <br> <img src= "https://viso.ai/wp-content/uploads/2024/04/alexNet.jpg" width = "500">
+  <br> <img src= "https://viso.ai/wp-content/uploads/2024/04/alexNet.jpg" width = "500"> <br>
   <mark>[AlexNet: A Revolutionary Deep Learning Architecture - viso.ai](https://viso.ai/deep-learning/alexnet/#:~:text=AlexNet%20is%20an%20Image%20Classification,from%2026.2%25%20to%2015.3%25.) </mark> <br>
 
 * **AlexNet 2012 Explained | DeepAI**
@@ -381,6 +381,12 @@ _**Excellent Articles**_
   <br><img src = "https://github.com/gasingh/furniture-style-classifier/blob/main/alexnet_04_writing%20from%20scratch%20in%20pytorch.JPG" width = "500"> <br>
   [Writing AlexNet from Scratch in PyTorch | DigitalOcean](https://www.digitalocean.com/community/tutorials/alexnet-pytorch)<br>
 
+* **CNN & ImageNet Search **
+  * [when was the imagenet paper written by hinton - Google Search](https://www.google.com/search?q=when+was+the+imagenet+pqper+written+by+hinton&sca_esv=8e018ca7fa204961&rlz=1C1GCEB_enGB1045GB1045&sxsrf=ADLYWIKVinH0CTQDOHIy9S7XDG2YW7QBhg%3A1728869335346&ei=13MMZ-TtFNaW9u8PjKDVuA8&ved=0ahUKEwikteKU3IyJAxVWi_0HHQxQFfcQ4dUDCA8&uact=5&oq=when+was+the+imagenet+pqper+written+by+hinton&gs_lp=Egxnd3Mtd2l6LXNlcnAiLXdoZW4gd2FzIHRoZSBpbWFnZW5ldCBwcXBlciB3cml0dGVuIGJ5IGhpbnRvbjIHECEYoAEYCjIHECEYoAEYCkjvYVCTDVjOV3ABeAGQAQCYAW-gAfQOqgEEMjMuMbgBA8gBAPgBAZgCGaAC8Q_CAgoQABiwAxjWBBhHwgIEECMYJ8ICCBAAGIAEGKIEwgIFECEYoAHCAgUQIRifBcICBhAhGBUYCpgDAIgGAZAGCJIHBDIzLjKgB5F0&sclient=gws-wiz-serp)
+  * [AlexNet and ImageNet: The Birth of Deep Learning | Pinecone](https://www.pinecone.io/learn/series/image-search/imagenet/)
+  * [ImageNet: A large-scale hierarchical image database | IEEE Conference Publication | IEEE Xplore](https://ieeexplore.ieee.org/document/5206848)
+    <br><img src = "https://github.com/gasingh/furniture-style-classifier/blob/main/cnn%20and%20wikipedia-definition.JPG" width = "500"> <br>
+  * [Convolutional neural network - Wikipedia](https://en.wikipedia.org/wiki/Convolutional_neural_network#:~:text=Although%20CNNs%20were%20invented%20in,be%20greatly%20accelerated%20on%20GPUs.)
 
 </details>
 

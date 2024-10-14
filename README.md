@@ -47,7 +47,7 @@ I would need to learn how to classify images using a **CNN**. I have learned tha
 <details> <summary> Literature Review 01: Understanding CNNs </summary>  
 
   <br>**Google Search 01**: _cnn image classification diagram_
-  [cnn image classification diagram - Google Search](https://www.google.com/search?sca_esv=81b62b241f3359c7&rlz=1C1GCEB_enGB1045GB1045&sxsrf=ADLYWIJA4sPq0NGHOn2zctn4R8i_ehBPTQ:1728608543687&q=cnn+image+classification+diagram&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J_86uWOeqwdnV0yaSF-x2jon2iao6KWCaVjfn7ahz_sfz4kQc-hbvsXJ2gNx0RnV2nl305mvoek0YK94ylYY2a4b3Q-OEwW5lKppi2wujywZWmdIJVp8wrsv_g-eh5sWEDXx8JNpgmjsiKj2mZMvftPlZJZz&sa=X&ved=2ahUKEwjR3M7RkIWJAxUo3wIHHRD1KZMQtKgLegQIDhAB&biw=1383&bih=747&dpr=2.5#vhid=H2hl3BjvD5pswM&vssid=mosaic) <br>
+  <br>[cnn image classification diagram - Google Search](https://www.google.com/search?sca_esv=81b62b241f3359c7&rlz=1C1GCEB_enGB1045GB1045&sxsrf=ADLYWIJA4sPq0NGHOn2zctn4R8i_ehBPTQ:1728608543687&q=cnn+image+classification+diagram&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J_86uWOeqwdnV0yaSF-x2jon2iao6KWCaVjfn7ahz_sfz4kQc-hbvsXJ2gNx0RnV2nl305mvoek0YK94ylYY2a4b3Q-OEwW5lKppi2wujywZWmdIJVp8wrsv_g-eh5sWEDXx8JNpgmjsiKj2mZMvftPlZJZz&sa=X&ved=2ahUKEwjR3M7RkIWJAxUo3wIHHRD1KZMQtKgLegQIDhAB&biw=1383&bih=747&dpr=2.5#vhid=H2hl3BjvD5pswM&vssid=mosaic) <br>
    
   * **i. Understanding CNNs for Image Classification**
     <br><img src="https://media.licdn.com/dms/image/D5612AQFnSLkzkkXIqg/article-cover_image-shrink_720_1280/0/1687713196637?e=2147483647&v=beta&t=2pX0mP5aH9rt-_IDYh6S3fRioMwcq30Oo9MBjkhhxlU" width="600"> <br>
@@ -248,9 +248,10 @@ _**Super Useful Links from OpenCV CNN Webpage!!**_
   
   * <mark>**CNN Explainer** </mark>
     <br><img src = "https://poloclub.github.io/cnn-explainer/assets/figures/preview.png" width = "500"><br>
-    [**CNN Explainer**](https://poloclub.github.io/cnn-explainer/)
+    [**CNN Explainer**](https://poloclub.github.io/cnn-explainer/) <br>
     [**Demo Video "CNN Explainer: Learning Convolutional Neural Networks with Interactive Visualization" - YouTube**](https://www.youtube.com/watch?v=HnWIHWFbuUQ)
     <br>
+    [20-vis-cnnexplainer.pdf](https://poloclub.github.io/papers/20-vis-cnnexplainer.pdf)<br>
   * **2D Convolution Explained**
     <br> <img src = "https://i.ytimg.com/vi/yb2tPt0QVPY/maxresdefault.jpg" width = "500"> <br>
     [2D Convolution Explained: Fundamental Operation in Computer Vision - YouTube](https://www.youtube.com/watch?v=yb2tPt0QVPY) <br>

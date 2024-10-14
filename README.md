@@ -186,16 +186,149 @@ I would need to learn how to classify images using a **CNN**. I have learned tha
   * **vi. CNN Architectures | Miro: Raghav Prabhu**
     <br><img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*HyaPKtxU07iVzZ4RjJJlUQ.png" width = "500"> <br>
     [CNN Architectures — LeNet, AlexNet, VGG, GoogLeNet and ResNet | by Prabhu Raghav | Medium](https://medium.com/@RaghavPrabhu/cnn-architectures-lenet-alexnet-vgg-googlenet-and-resnet-7c81c017b848) <br>
+</details>
+
+<details> <summary> Literature Review 04: CNN Details and various mathematical data extraction layers of the algorithm </summary>  
+
+<br> **Google Search 04** : _pooling to reduce dimensions in CNN_
+  <br>[pooling to reduce dimensions in CNN - Google Search](https://www.google.com/search?sca_esv=778fd8ccaca240ed&rlz=1C1GCEB_enGB1045GB1045&sxsrf=ADLYWILPtdUmBQRzcTnLjhp_uTU-VzsQLg:1728858943390&q=pooling+to+reduce+dimensions+in+CNN&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J_86uWOeqwdnV0yaSF-x2jon2iao6KWCaVjfn7ahz_sfz4kQc-hbvsXJ2gNx0RnV2nl305mvoek0YK94ylYY2a4b3Q-OEwW5lKppi2wujywZWmdIJVp8wrsv_g-eh5sWEDXx8JNpgmjsiKj2mZMvftPlZJZz&sa=X&ved=2ahUKEwik5L-5tYyJAxWq8LsIHd6UFVkQtKgLegQIFBAB&biw=1383&bih=747&dpr=2.5#vhid=BGrXRMr3gYeZXM&vssid=mosaic) <br>
+  
+  * **i. Convolutional Neural Network: A Complete Guide | OpenCV | PyTorch** 
+    <br><img src= "https://learnopencv.com/wp-content/uploads/2023/01/Convolutional-Neural-Networks.png" width = "800" > <br>
+    <br><img src= "https://github.com/gasingh/furniture-style-classifier/blob/main/Capture_OpenCV_PyTorch%20CNN%20Tutorial.JPG" width = "800" > <br>
+    <br>
+    OpenCV University has CNN tutorials in PyTorch. This is great!
+    <br><br>
+    Convolutional Neural Network (CNN) forms the basis of computer vision and image processing. In this post, we will learn about Convolutional Neural Networks in the context of an image classification problem. We first cover the basic structure of CNNs and then go into the detailed operations of the various layer types commonly used. The above diagram shows the network architecture of a well-known CNN called VGG-16 for illustration purposes. It also shows the general structure of a CNN, which typically includes a series of convolutional blocks followed by a number of fully connected layers.
+    <br><br>
+    The convolutional blocks extract meaningful features from the input image, passing through the fully connected layers for the classification task. <br> <br>
+    [Convolutional Neural Network: A Complete Guide](https://learnopencv.com/understanding-convolutional-neural-networks-cnn/)
+    <br>    
+  * <mark>**ii. Guide to CNNs | Saturn Cloud**</mark>
+    <br><img src= "https://saturncloud.io/images/blog/a-cnn-sequence-to-classify-handwritten-digits.webp" width = "500"> <br>
+    A CNN sequence to classify handwritten digits <br> <br>
+    A Convolutional Neural Network (ConvNet/CNN) is a Deep Learning algorithm that can take in an input image, assign importance (learnable weights and biases) to various aspects/objects in the image, and be able to differentiate one from the other. The pre-processing required in a ConvNet is much lower as compared to other classification algorithms. While in primitive methods filters are hand-engineered, with enough training, ConvNets have the ability to learn these filters/characteristics.
+    <br><br>
+    The architecture of a ConvNet is analogous to that of the connectivity pattern of Neurons in the Human Brain and was inspired by the organization of the Visual Cortex. Individual neurons respond to stimuli only in a restricted region of the visual field known as the Receptive Field. A collection of such fields overlap to cover the entire visual area.
+    <br><br>
+    A ConvNet is able to successfully capture the Spatial and Temporal dependencies in an image through the application of relevant filters. The architecture performs a better fitting to the image dataset due to the reduction in the number of parameters involved and the reusability of weights. In other words, the network can be trained to understand the sophistication of the image better. <br> <br>
+    <br> <img src = "https://saturncloud.io/images/blog/types-of-pooling.webp" width = "500"> <br>
+    [A Guide to Convolutional Neural Networks — the ELI5 way | Saturn Cloud Blog](https://saturncloud.io/blog/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way/)
+    
+  * iii. <mark>**A Comprehensive Guide: What are Convolutional Neural Networks | BasicAI's Blog** </mark>
+    <br><img src= "https://static.wixstatic.com/media/4c4fd6_ca524a49ba784a208a4326f20eadb73d~mv2.jpg/v1/fill/w_1600,h_900,al_c,q_85/4c4fd6_ca524a49ba784a208a4326f20eadb73d~mv2.jpg" width = "500"> <br>
+    While browsing through images on social media or using facial recognition to unlock your smartphone, have you ever wondered what technology makes these seemingly simple everyday actions possible? Behind all this is the powerful technology of Convolutional Neural Networks (CNNs). CNNs are not only the cornerstone of modern computer vision but also a key driver in advancing artificial intelligence. <br>
+    <br>Applications of CNNs: <br><br>
+    Image Recognition and Classification: This is the most traditional and widespread application of CNNs. They have shown exceptional performance in tasks like recognizing faces on social media and identifying abnormalities in medical imaging. For instance, Google Photos uses CNNs for image content recognition and classification, distinguishing thousands of objects and scenes with over 90% accuracy. In healthcare, CNNs are used for assisting diagnoses, such as identifying skin cancer, matching the accuracy of professional dermatologists.
+    <br><br>
+    Object Detection and Segmentation: CNNs can not only recognize objects within images but also determine their location and size (object detection) and even precisely segment each object within an image (image segmentation). In autonomous vehicle technology, such as Tesla's Autopilot system, CNNs are used for real-time detection of vehicles, pedestrians, and various obstacles on the road, with an accuracy rate exceeding 95%. In retail, CNNs enhance efficiency and accuracy in object recognition and inventory management. <br> <br>
+    [A Comprehensive Guide: What are Convolutional Neural Networks | BasicAI's Blog](https://www.basic.ai/blog-post/a-comprehensive-guide-to-convolutional-neural-networks)
+    <br>
+  * **iv. CNN Guide | Microsoft | PyTorch | CIFAR10 dataset** <br>
+    ![img](https://learn.microsoft.com/en-us/training/achievements/pytorch-computer-vision.svg)
+    <br>Here, you'll build a basic convolution neural network (CNN) to classify the images from the CIFAR10 dataset.
+    <br>
+    [Introduction to Computer Vision with PyTorch - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/intro-computer-vision-pytorch/)
+    [Use PyTorch to train your image classification model | Microsoft Learn](https://learn.microsoft.com/en-us/windows/ai/windows-ml/tutorials/pytorch-train-model)
+
+  
+
+
 
   * vii.
     
 
 [CNN in combination with KNN - Deep Learning - fast.ai Course Forums](https://forums.fast.ai/t/cnn-in-combination-with-knn/4280)
 
-
-
 </details>
 
+<details> <summary> <mark> Literature Review 04_EXTRAs: Super Useful Links from OpenCV CNN Webpage!! </mark> </summary>
+  
+  * <mark>**CNN Explainer** </mark>
+    <br><img src = "https://poloclub.github.io/cnn-explainer/assets/figures/preview.png" width = "500"><br>
+    [**CNN Explainer**](https://poloclub.github.io/cnn-explainer/)
+    [**Demo Video "CNN Explainer: Learning Convolutional Neural Networks with Interactive Visualization" - YouTube**](https://www.youtube.com/watch?v=HnWIHWFbuUQ)
+    <br>
+  * **2D Convolution Explained**
+    <br> <img src = "https://i.ytimg.com/vi/yb2tPt0QVPY/maxresdefault.jpg" width = "500"> <br>
+    [2D Convolution Explained: Fundamental Operation in Computer Vision - YouTube](https://www.youtube.com/watch?v=yb2tPt0QVPY) <br>
+  * <mark>**6 basic things to know about Convolution | 2D Convolution explained by applying Convolution Matrices in Numpy ** </mark> 
+    <br> <img src = "https://miro.medium.com/v2/resize:fit:928/0*e-SMFTzO8r7skkpc" width = "500"> <br>
+    Convolution Operation on a 7x7 matrix with a 3x3 kernel <br>
+      * 1. In mathematics, convolution is an operation performed on two functions (f and g) to produce a third function. Convolution is one of the most important operations in signal and image processing. It could operate in 1D (e.g. speech processing), 2D (e.g. image processing) or 3D (video processing). <br>
+      * 2. In image processing, convolution is the process of transforming an image by applying a kernel over each pixel and its local neighbors across the entire image. The kernel is a matrix of values whose size and values determine the transformation effect of the convolution process. <br>
+      * 3. The Convolution Process involves these steps. (1)It places the Kernel Matrix over each pixel of the image (ensuring that the full Kernel is within the image), multiplies each value of the Kernel with the corresponding pixel it is over. (2)Then, sums the resulting multiplied values and returns the resulting value as the new value of the center pixel. (3) This process is repeated across the entire image. <br>
+      * 4. As we see in the picture, a 3x3 kernel is convoluted over a 7x7 source image. Center Element of the kernel is placed over the source pixel. The source pixel is then replaced with a weighted sum of itself and surrounding pixels. The output is placed in the destination pixel value. In this example, at the first position, we have 0 in source pixel and 4 in the kernel. 4x0 is 0, then moving to the next pixel we have 0 and 0 in both places. 0x0 is 0. Then again 0x0 is 0. Next at the center there is 1 in the source image and 0 in the corresponding position of kernel. 0x1 is 0. Then again 0x1 is 0. Then 0x0 is 0 and 0x1 is 0 and at the last position it is -4x2 which is -8. Now summing up all these results we get -8 as the answer so the output of this convolution operation is -8. This result is updated in the Destination image. <br>
+      * 5. The output of the convolution process changes with the changing kernel values.
+          * IDENTITY KERNEL: For example, an Identity Kernel shown below, when applied to an image through convolution, will have no effect on the resulting image. Every pixel will retain its original value as shown in the following figure. <br>
+          <img src = "https://miro.medium.com/v2/resize:fit:186/format:webp/0*r5ARjKpVERojnPFu" width = "100"><br>
+          Identity Kernel <br>
+          <img src = "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*ukrsCZSyKUYsX9hR2ItJog.png" width = "300" > <br>
+          Original Image(Left) and Image after applying Identity Filter of size 3x3(Right) <br>
+          * SHARPEN KERNEL: A Sharpen Kernel like this when applied to an image through convolution, will have an image sharpening effect to the resulting image. The precise values can be customized for varying levels of sharpness as shown in the following figure. <br>
+          <br><img src = "https://miro.medium.com/v2/resize:fit:1100/format:webp/1*DZyIk0Gx2K174hkZym0mmg.png" width = "300"> <br>
+          Sharpen Kernel <br>
+          <img src = "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*VWCiLmwKi-EEeUYQ-tA7gQ.png" width = "500"> <br>
+          Original Image(Left) and Image after applying Sharpen Filter of size 3x3 (Right) <br>
+          * GAUSSIAN BLUR KERNEL: The Gaussian Blur Kernel like this when applied to an image through convolution, will apply a Gaussian Blurring effect to the resulting image.
+          <br><img src = "https://miro.medium.com/v2/resize:fit:640/format:webp/0*ovFlOqxpw8NVOPEC" width = "300"> <br>
+          <br><img src = "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*eOlu2cCsALcbWn0tqANDaA.png" width = "500"> <br>
+          Just as how the values of the Kernel can be varied for different levels of effects, the size of the Kernel can also be altered to shape the effect of the convolution.By increasing the size of the Kernel Matrix, the spatial locality influencing each pixel’s resulting value is increased as pixels from further away are being pulled into the equation. There are many more Kernels that are used in image processing such as edge detection, embossing, rotation, etc. <br>
+      * 6. Convolution is the key concept in Convolutional Neural Networks. Convolutional Neural Networks (CNN) are a type of Deep Neural Network. A CNN comprises of Convolutional Layer, Pooling Layer, and Fully-Connected Layer. At the Convolution layer, a CNN applies convolution on to its inputs using a Kernel Matrix that it calibrates through training. For this reason, CNNs are very good at feature matching in images and object classification. The convolution layer parameters consist of a set of learnable kernels. Every kernel is small matrix that extends through the full depth of the input volume. During the forward pass, we convolve each kernel across the width and height of the input image and compute dot products between the pixel values of the source and kernel at corresponding positions.
+      <br>
+    [6 basic things to know about Convolution | by Madhushree Basavarajaiah | Medium](https://medium.com/@bdhuma/6-basic-things-to-know-about-convolution-daef5e1bc411) <br>
+    Numpy Code <br>
+    [Convolution](https://gist.github.com/MadhushreeB/620a27aceb3088885546bc5b5a88245f#file-convolution-py) <br>
+  * <mark>**What Is a Convolution? How To Teach Machines To See Images** </mark>
+    <br> <img src= "https://assets.8thlight.com/images/insights/posts/2022-03-25-what-is-a-convolution/padding_example.png" width = "500" > <br>
+    [Image Classification: An Introduction to Artificial Intelligence | 8th Light](https://8thlight.com/insights/image-classification-an-introduction-to-artificial-intelligence)
+    [What Is a Convolution? How To Teach Machines To See Images | 8th Light](https://8thlight.com/insights/what-is-a-convolution-how-to-teach-machines-to-see-images)
+  * **Above 4 links based on a subsequent Google Search** : _2D Convolution Explained: Fundamental Operation in Computer Vision_
+    [2D Convolution Explained: Fundamental Operation in Computer Vision - Google Search](https://www.google.com/search?sca_esv=778fd8ccaca240ed&rlz=1C1GCEB_enGB1045GB1045&sxsrf=ADLYWIJxNef7cUzatRZ3gqBHF2ASFG3p6w:1728862557474&q=2D+Convolution+Explained:+Fundamental+Operation+in+Computer+Vision&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWfbQph1uib-VfD_izZO2Y5sC3UdQE5x8XNnxUO1qJLaTV4c8WUZIVpqotNJgZT-nG6tsHwc3BxYJ7SJsoRXGGNwEIXpA7OZG7ZaHhjSESTEISdWI9c-9iMZIuDuLLcLeXPAcrvS050xiLHdT_XEfYYSw3K4Imoc20bsa6YY0FtgSBNRMi&sa=X&ved=2ahUKEwjg9-n0woyJAxVZnf0HHWJiAGIQtKgLegQIDRAB&biw=1383&bih=747&dpr=2.5#vhid=cr7CSy_DCtOU5M&vssid=mosaic)
+  * 01:02 14/10/2024
+</details>
+
+<details> <summary> <mark> EXTRAs from BASIC AI Blog | Excellent Articles </mark> </summary>
+
+* **A Comprehensive Guide: What are Convolutional Neural Networks | BasicAI's Blog**
+
+    <br><img scr= "https://github.com/gasingh/furniture-style-classifier/blob/main/Capture_BasicAI_Image%20Recognition.JPG" width = "500"> <br>
+    
+    [A Comprehensive Guide: What are Convolutional Neural Networks | BasicAI's Blog](https://www.basic.ai/blog-post/a-comprehensive-guide-to-convolutional-neural-networks)
+
+* **Revolutionizing Vision: The Rise and Impact of Image Recognition Technology | BasicAI's Blog**
+
+    <br><img scr = "https://static.wixstatic.com/media/4c4fd6_997a209ead334aa7a5b019564856b2d2~mv2.jpg/v1/fill/w_1120,h_630,al_c,q_90,enc_auto/4c4fd6_997a209ead334aa7a5b019564856b2d2~mv2.jpg" width = "500">  <br>
+    [Revolutionizing Vision: The Rise and Impact of Image Recognition Technology | BasicAI's Blog](https://www.basic.ai/blog-post/image-recognition)
+
+* **CNN Algorithm used in Google Photos | Reference Google Research Blog & ImageNet Paper at University of Toronto**
+  
+    <br><img scr= "https://github.com/gasingh/furniture-style-classifier/blob/main/Capture_BasicAI_Google%20uses%20CNNs%20for%20Image%20Recognition.JPG" width = "500">
+    <br><img scr= "https://github.com/gasingh/furniture-style-classifier/blob/main/Capture_BasicAI_Google%20uses%20CNNs%20for%20Image%20Recognition_02.JPG" width = "500">
+    <br><img scr= "https://github.com/gasingh/furniture-style-classifier/blob/main/Capture_BasicAI_Google%20uses%20CNNs%20for%20Image%20Recognition_03_IMAGENET.JPG" width = "500">
+    <br><img scr= "https://github.com/gasingh/furniture-style-classifier/blob/main/Capture_BasicAI_Google%20uses%20CNNs%20for%20Image%20Recognition_04_IMAGENET.JPG" width = "300">
+    <br><img scr= "https://github.com/gasingh/furniture-style-classifier/blob/main/Capture_BasicAI_Google%20uses%20CNNs%20for%20Image%20Recognition_05_IMAGENET-PAPER.JPG" width = "500">
+    
+    [Which algorithm is used in Google Photos app for classification/labeling? - Quora](https://www.quora.com/Which-algorithm-is-used-in-Google-Photos-app-for-classification-labeling#:~:text=Google%20photos%20makes%20use%20of,number%20of%20classes%20and%20training.)
+    [How is Machine Learning applied to Google Photos? - Quora](https://www.quora.com/How-is-Machine-Learning-applied-to-Google-Photos)
+  
+* **Google Photos Makes Use of CNNs** <br>
+
+    Google photos makes use of an convolutional neural network architecture similar to that used by Geoffrey Hinton's team in the ImageNet Large Scale Visual Recognition competition. The difference is only in terms of number of classes and training.
+    <br> <br>
+    In contrast to the 1000 visual classes made use in the competition,Google made use of 2000 visual classes based on the popular labels on google+ photos. They used labels which seemed to have visual effect on humans i.e photos which humans could recognize visually.
+    <br> <br>
+    They make use of FreebaseEntities which is the basis for knowledge graph in google search. These entities are used to identify elements in language independent way.In English when we encounter the word “jaguar”, it is hard to determine if it represents the animal or the car manufacturer. Entities assign a unique ID to each, removing that ambiguity.
+    Google used more images to train than that used in the ImageNet competition. They also refined the classes from 2000 to 1100 to improve precision.
+    Using this approach Google photos achieved double the precision that is normally achieved using other methods.
+    <br> <br>
+    Link to the architecture used by Geoffrey Hinton's team in ImageNet competition: Page on toronto.edu
+    <br> <br>
+    Source: Research Blog <br>
+    [ImageNet](https://www.image-net.org/challenges/LSVRC/2012/) <br>
+    [imagenet.pdf](https://www.cs.toronto.edu/~fritz/absps/imagenet.pdf)
+      
+</details>
 
 ## Data sources: AI training datasets (digital)
 
@@ -203,7 +336,7 @@ The Idea is to be able to build an AI Model which can automatically learn to rec
 
 I found a few datasources online:
 
-<details> <summary> Literature Review 04: AI Training Datasets Online </summary>
+<details> <summary> Literature Review 05: AI Training Datasets Online </summary>
 
 
 </details>
@@ -213,7 +346,7 @@ I found a few datasources online:
 
 A few interesting webpages which talk about and illustrate various futniture styles.
 
-<details> <summary> Literature Review 05: Stylization References </summary>
+<details> <summary> Literature Review 06: Stylization References </summary>
 
 * 1. Classifying Wardrobes
     <br><img src="https://i.pinimg.com/736x/4b/b6/42/4bb6427371d007215fd60268b71972a0.jpg" height="300"> <br>
@@ -241,7 +374,7 @@ The ethical concerns around use of online images for training AI Models. Since t
 
 In my research online, I found that it might be fine to takeup such a pursuit for purely educational, research and non-commercial purposes: under **fair use**. Given that the book is already accessible the public domain on the Internet Archive.
 
-<details> <summary> Literature Review 06: AI and Ethics around use of images for training AI models </summary>
+<details> <summary> Literature Review 07: AI and Ethics around use of images for training AI models </summary>
   
   * SET 1
     * [Identifying American furniture : a pictorial guide to styles and terms, Colonial to contemporary : Naeve, Milo M : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/identifyingameri00milo/page/96/mode/2up)

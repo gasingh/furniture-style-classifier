@@ -238,11 +238,13 @@ I would need to learn how to classify images using a **CNN**. I have learned tha
   * vii.
     
 
-[CNN in combination with KNN - Deep Learning - fast.ai Course Forums](https://forums.fast.ai/t/cnn-in-combination-with-knn/4280)
+[CNN in combination with KNN - Deep Learning - fast.ai Course Forums | Specific Algorithm tweak for Furniture Classification Tasks](https://forums.fast.ai/t/cnn-in-combination-with-knn/4280)
 
 </details>
 
-<details> <summary> <mark> Literature Review 04_EXTRAs: Super Useful Links from OpenCV CNN Webpage!! </mark> </summary>
+<details> <summary> <mark> Literature Review 04_EXTRAs_01: CNN Explainer & 2d Convolutions </mark> </summary>
+
+_**Super Useful Links from OpenCV CNN Webpage!!**_
   
   * <mark>**CNN Explainer** </mark>
     <br><img src = "https://poloclub.github.io/cnn-explainer/assets/figures/preview.png" width = "500"><br>
@@ -288,28 +290,29 @@ I would need to learn how to classify images using a **CNN**. I have learned tha
   * 01:02 14/10/2024
 </details>
 
-<details> <summary> <mark> EXTRAs from BASIC AI Blog | Excellent Articles </mark> </summary>
+<details> <summary> <mark>  Literature Review 04_EXTRAs_02: Google Photos using CNNs & the ImageNet Competition and Paper by Google Research </mark> </summary>
+
+_**Excellent Articles**_
 
 * **A Comprehensive Guide: What are Convolutional Neural Networks | BasicAI's Blog**
 
-    <br><img scr= "https://github.com/gasingh/furniture-style-classifier/blob/main/Capture_BasicAI_Image%20Recognition.JPG" width = "500"> <br>
+    <br><img src= "https://github.com/gasingh/furniture-style-classifier/blob/main/Capture_BasicAI_Google%20uses%20CNNs%20for%20Image%20Recognition.JPG" width = "500">
     
     [A Comprehensive Guide: What are Convolutional Neural Networks | BasicAI's Blog](https://www.basic.ai/blog-post/a-comprehensive-guide-to-convolutional-neural-networks)
 
 * **Revolutionizing Vision: The Rise and Impact of Image Recognition Technology | BasicAI's Blog**
 
-    <br><img scr = "https://static.wixstatic.com/media/4c4fd6_997a209ead334aa7a5b019564856b2d2~mv2.jpg/v1/fill/w_1120,h_630,al_c,q_90,enc_auto/4c4fd6_997a209ead334aa7a5b019564856b2d2~mv2.jpg" width = "500">  <br>
+    <br><img src = "https://static.wixstatic.com/media/4c4fd6_997a209ead334aa7a5b019564856b2d2~mv2.jpg/v1/fill/w_1120,h_630,al_c,q_90,enc_auto/4c4fd6_997a209ead334aa7a5b019564856b2d2~mv2.jpg" width = "500">
+    <br><img src= "https://github.com/gasingh/furniture-style-classifier/blob/main/Capture_BasicAI_Image%20Recognition.JPG" width = "500"> <br>
+    
     [Revolutionizing Vision: The Rise and Impact of Image Recognition Technology | BasicAI's Blog](https://www.basic.ai/blog-post/image-recognition)
 
 * **CNN Algorithm used in Google Photos | Reference Google Research Blog & ImageNet Paper at University of Toronto**
-  
-    <br><img scr= "https://github.com/gasingh/furniture-style-classifier/blob/main/Capture_BasicAI_Google%20uses%20CNNs%20for%20Image%20Recognition.JPG" width = "500">
-    <br><img scr= "https://github.com/gasingh/furniture-style-classifier/blob/main/Capture_BasicAI_Google%20uses%20CNNs%20for%20Image%20Recognition_02.JPG" width = "500">
-    <br><img scr= "https://github.com/gasingh/furniture-style-classifier/blob/main/Capture_BasicAI_Google%20uses%20CNNs%20for%20Image%20Recognition_03_IMAGENET.JPG" width = "500">
-    <br><img scr= "https://github.com/gasingh/furniture-style-classifier/blob/main/Capture_BasicAI_Google%20uses%20CNNs%20for%20Image%20Recognition_04_IMAGENET.JPG" width = "300">
-    <br><img scr= "https://github.com/gasingh/furniture-style-classifier/blob/main/Capture_BasicAI_Google%20uses%20CNNs%20for%20Image%20Recognition_05_IMAGENET-PAPER.JPG" width = "500">
+
+    <br><img src= "https://github.com/gasingh/furniture-style-classifier/blob/main/Capture_BasicAI_Google%20uses%20CNNs%20for%20Image%20Recognition_02_pre.JPG" width = "500">
+    <br><img src= "https://github.com/gasingh/furniture-style-classifier/blob/main/Capture_BasicAI_Google%20uses%20CNNs%20for%20Image%20Recognition_02.JPG" width = "500">
     
-    [Which algorithm is used in Google Photos app for classification/labeling? - Quora](https://www.quora.com/Which-algorithm-is-used-in-Google-Photos-app-for-classification-labeling#:~:text=Google%20photos%20makes%20use%20of,number%20of%20classes%20and%20training.)
+    [Which algorithm is used in Google Photos app for classification/labeling? - Quora](https://www.quora.com/Which-algorithm-is-used-in-Google-Photos-app-for-classification-labeling#:~:text=Google%20photos%20makes%20use%20of,number%20of%20classes%20and%20training.) <br>
     [How is Machine Learning applied to Google Photos? - Quora](https://www.quora.com/How-is-Machine-Learning-applied-to-Google-Photos)
   
 * **Google Photos Makes Use of CNNs** <br>
@@ -325,8 +328,11 @@ I would need to learn how to classify images using a **CNN**. I have learned tha
     Link to the architecture used by Geoffrey Hinton's team in ImageNet competition: Page on toronto.edu
     <br> <br>
     Source: Research Blog <br>
+    <br><img src= "https://github.com/gasingh/furniture-style-classifier/blob/main/Capture_BasicAI_Google%20uses%20CNNs%20for%20Image%20Recognition_03_IMAGENET.JPG" width = "500">
+    <br><img src= "https://github.com/gasingh/furniture-style-classifier/blob/main/Capture_BasicAI_Google%20uses%20CNNs%20for%20Image%20Recognition_04_IMAGENET.JPG" width = "500">
+    <br><img src= "https://github.com/gasingh/furniture-style-classifier/blob/main/Capture_BasicAI_Google%20uses%20CNNs%20for%20Image%20Recognition_05_IMAGENET-PAPER.JPG" width = "500"> <br>
     [ImageNet](https://www.image-net.org/challenges/LSVRC/2012/) <br>
-    [imagenet.pdf](https://www.cs.toronto.edu/~fritz/absps/imagenet.pdf)
+    [imagenet.pdf](https://www.cs.toronto.edu/~fritz/absps/imagenet.pdf) <br>
       
 </details>
 

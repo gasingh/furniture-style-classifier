@@ -251,7 +251,11 @@ _**Super Useful Links from OpenCV CNN Webpage!!**_
     [**CNN Explainer**](https://poloclub.github.io/cnn-explainer/) <br>
     [**Demo Video "CNN Explainer: Learning Convolutional Neural Networks with Interactive Visualization" - YouTube**](https://www.youtube.com/watch?v=HnWIHWFbuUQ)
     <br>
-    [20-vis-cnnexplainer.pdf](https://poloclub.github.io/papers/20-vis-cnnexplainer.pdf)<br>
+    <br><img src = "https://github.com/gasingh/furniture-style-classifier/blob/main/cnnExplainer_01.JPG" width = "800"><br>
+    <br><img src = "https://github.com/gasingh/furniture-style-classifier/blob/main/cnnExplainer_02.JPG" width = "500"><br>
+    <br><img src = "https://github.com/gasingh/furniture-style-classifier/blob/main/cnnExplainer_03.JPG" width = "500"><br>    
+    [**Paper: 20-vis-cnnexplainer.pdf**](https://poloclub.github.io/papers/20-vis-cnnexplainer.pdf)<br>
+    [**(Paper: LocalCopy: CNN Explainer)**](https://github.com/gasingh/furniture-style-classifier/blob/main/cnnExplainer_PAPER_20-vis-cnnexplainer.pdf) <br>
   * **2D Convolution Explained**
     <br> <img src = "https://i.ytimg.com/vi/yb2tPt0QVPY/maxresdefault.jpg" width = "500"> <br>
     [2D Convolution Explained: Fundamental Operation in Computer Vision - YouTube](https://www.youtube.com/watch?v=yb2tPt0QVPY) <br>
@@ -297,21 +301,21 @@ _**Excellent Articles**_
 
 * **A Comprehensive Guide: What are Convolutional Neural Networks | BasicAI's Blog**
 
-    <br><img src= "https://github.com/gasingh/furniture-style-classifier/blob/main/Capture_BasicAI_Google%20uses%20CNNs%20for%20Image%20Recognition.JPG" width = "500">
+    <br><img src= "https://github.com/gasingh/furniture-style-classifier/blob/main/Capture_BasicAI_Google%20uses%20CNNs%20for%20Image%20Recognition.JPG" width = "800">
     
     [A Comprehensive Guide: What are Convolutional Neural Networks | BasicAI's Blog](https://www.basic.ai/blog-post/a-comprehensive-guide-to-convolutional-neural-networks)
 
 * **Revolutionizing Vision: The Rise and Impact of Image Recognition Technology | BasicAI's Blog**
 
-    <br><img src = "https://static.wixstatic.com/media/4c4fd6_997a209ead334aa7a5b019564856b2d2~mv2.jpg/v1/fill/w_1120,h_630,al_c,q_90,enc_auto/4c4fd6_997a209ead334aa7a5b019564856b2d2~mv2.jpg" width = "500">
-    <br><img src= "https://github.com/gasingh/furniture-style-classifier/blob/main/Capture_BasicAI_Image%20Recognition.JPG" width = "500"> <br>
+    <br><img src = "https://static.wixstatic.com/media/4c4fd6_997a209ead334aa7a5b019564856b2d2~mv2.jpg/v1/fill/w_1120,h_630,al_c,q_90,enc_auto/4c4fd6_997a209ead334aa7a5b019564856b2d2~mv2.jpg" width = "800">
+    <br><img src= "https://github.com/gasingh/furniture-style-classifier/blob/main/Capture_BasicAI_Image%20Recognition.JPG" width = "800"> <br>
     
     [Revolutionizing Vision: The Rise and Impact of Image Recognition Technology | BasicAI's Blog](https://www.basic.ai/blog-post/image-recognition)
 
 * **CNN Algorithm used in Google Photos | Reference Google Research Blog & ImageNet Paper at University of Toronto**
 
-    <br><img src= "https://github.com/gasingh/furniture-style-classifier/blob/main/Capture_BasicAI_Google%20uses%20CNNs%20for%20Image%20Recognition_02_pre.JPG" width = "500">
-    <br><img src= "https://github.com/gasingh/furniture-style-classifier/blob/main/Capture_BasicAI_Google%20uses%20CNNs%20for%20Image%20Recognition_02.JPG" width = "500">
+    <br><img src= "https://github.com/gasingh/furniture-style-classifier/blob/main/Capture_BasicAI_Google%20uses%20CNNs%20for%20Image%20Recognition_02_pre.JPG" width = "800">
+    <br><img src= "https://github.com/gasingh/furniture-style-classifier/blob/main/Capture_BasicAI_Google%20uses%20CNNs%20for%20Image%20Recognition_02.JPG" width = "800">
     
     [Which algorithm is used in Google Photos app for classification/labeling? - Quora](https://www.quora.com/Which-algorithm-is-used-in-Google-Photos-app-for-classification-labeling#:~:text=Google%20photos%20makes%20use%20of,number%20of%20classes%20and%20training.) <br>
     [How is Machine Learning applied to Google Photos? - Quora](https://www.quora.com/How-is-Machine-Learning-applied-to-Google-Photos)
@@ -329,9 +333,9 @@ _**Excellent Articles**_
     Link to the architecture used by Geoffrey Hinton's team in ImageNet competition: Page on toronto.edu
     <br> <br>
     Source: Research Blog <br>
-    <br><img src= "https://github.com/gasingh/furniture-style-classifier/blob/main/Capture_BasicAI_Google%20uses%20CNNs%20for%20Image%20Recognition_03_IMAGENET.JPG" width = "500">
-    <br><img src= "https://github.com/gasingh/furniture-style-classifier/blob/main/Capture_BasicAI_Google%20uses%20CNNs%20for%20Image%20Recognition_04_IMAGENET.JPG" width = "500">
-    <br><img src= "https://github.com/gasingh/furniture-style-classifier/blob/main/Capture_BasicAI_Google%20uses%20CNNs%20for%20Image%20Recognition_05_IMAGENET-PAPER.JPG" width = "500"> <br>
+    <br><img src= "https://github.com/gasingh/furniture-style-classifier/blob/main/Capture_BasicAI_Google%20uses%20CNNs%20for%20Image%20Recognition_03_IMAGENET.JPG" width = "800">
+    <br><img src= "https://github.com/gasingh/furniture-style-classifier/blob/main/Capture_BasicAI_Google%20uses%20CNNs%20for%20Image%20Recognition_04_IMAGENET.JPG" width = "800">
+    <br><img src= "https://github.com/gasingh/furniture-style-classifier/blob/main/Capture_BasicAI_Google%20uses%20CNNs%20for%20Image%20Recognition_05_IMAGENET-PAPER.JPG" width = "800"> <br>
     [ImageNet](https://www.image-net.org/challenges/LSVRC/2012/) <br>
     [imagenet.pdf](https://www.cs.toronto.edu/~fritz/absps/imagenet.pdf) <br>
       
@@ -340,8 +344,8 @@ _**Excellent Articles**_
 
 <details> <summary> <mark>  Literature Review 04.3_EXTRAs: An Excellent Paper on understanding the mathematics of a CNN | National Key Lab of Novel Software Technology, China | 2017 </mark> </summary>
 
-  <br><img src= "https://github.com/gasingh/furniture-style-classifier/blob/main/introToCNN_paper_00.JPG" width = "500"> 
-  <br><img src= "https://github.com/gasingh/furniture-style-classifier/blob/main/introToCNN_paper_01.JPG" width = "500"> <br>
+  <br><img src= "https://github.com/gasingh/furniture-style-classifier/blob/main/introToCNN_paper_00.JPG" width = "800"> 
+  <br><img src= "https://github.com/gasingh/furniture-style-classifier/blob/main/introToCNN_paper_01.JPG" width = "800"> <br>
   * [CNN.pdf](https://jasoncantarella.com/downloads/CNN.pdf)
 
 </details>

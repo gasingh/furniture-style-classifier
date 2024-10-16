@@ -215,7 +215,7 @@ I would need to learn how to classify images using a **CNN**. I have learned tha
     <br> <img src = "https://saturncloud.io/images/blog/types-of-pooling.webp" width = "500"> <br>
     [A Guide to Convolutional Neural Networks — the ELI5 way | Saturn Cloud Blog](https://saturncloud.io/blog/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way/)
     
-  * iii. <mark>**A Comprehensive Guide: What are Convolutional Neural Networks | BasicAI's Blog** </mark>
+  * <mark> **iii. A Comprehensive Guide: What are Convolutional Neural Networks | BasicAI's Blog** </mark>
     <br><img src= "https://static.wixstatic.com/media/4c4fd6_ca524a49ba784a208a4326f20eadb73d~mv2.jpg/v1/fill/w_1600,h_900,al_c,q_85/4c4fd6_ca524a49ba784a208a4326f20eadb73d~mv2.jpg" width = "500"> <br>
     While browsing through images on social media or using facial recognition to unlock your smartphone, have you ever wondered what technology makes these seemingly simple everyday actions possible? Behind all this is the powerful technology of Convolutional Neural Networks (CNNs). CNNs are not only the cornerstone of modern computer vision but also a key driver in advancing artificial intelligence. <br>
     <br>Applications of CNNs: <br><br>
@@ -242,11 +242,14 @@ I would need to learn how to classify images using a **CNN**. I have learned tha
 
 </details>
 
+<details> <summary> <b> Literature Review 04 EXTRAs  </b> </summary>
+
 <details> <summary> <mark> Literature Review 04.1_EXTRAs: CNN Explainer & 2d Convolutions </mark> </summary>
 
 _**Super Useful Links from OpenCV CNN Webpage!!**_
   
-  * <mark>**CNN Explainer** </mark>
+  * <mark>**CNN Explainer**</mark>
+
     <br><img src = "https://poloclub.github.io/cnn-explainer/assets/figures/preview.png" width = "500"><br>
     [**CNN Explainer**](https://poloclub.github.io/cnn-explainer/) <br>
     [**Demo Video "CNN Explainer: Learning Convolutional Neural Networks with Interactive Visualization" - YouTube**](https://www.youtube.com/watch?v=HnWIHWFbuUQ)
@@ -256,11 +259,16 @@ _**Super Useful Links from OpenCV CNN Webpage!!**_
     <br><img src = "https://github.com/gasingh/furniture-style-classifier/blob/main/cnnExplainer_03.JPG" width = "500"><br>    
     [**Paper: 20-vis-cnnexplainer.pdf**](https://poloclub.github.io/papers/20-vis-cnnexplainer.pdf)<br>
     [**(Paper: LocalCopy: CNN Explainer)**](https://github.com/gasingh/furniture-style-classifier/blob/main/cnnExplainer_PAPER_20-vis-cnnexplainer.pdf) <br>
+  
   * **2D Convolution Explained**
+  
     <br> <img src = "https://i.ytimg.com/vi/yb2tPt0QVPY/maxresdefault.jpg" width = "500"> <br>
     [2D Convolution Explained: Fundamental Operation in Computer Vision - YouTube](https://www.youtube.com/watch?v=yb2tPt0QVPY) <br>
-  * <mark>**6 basic things to know about Convolution | 2D Convolution explained by applying Convolution Matrices in Numpy ** </mark> 
-    <br> <img src = "https://miro.medium.com/v2/resize:fit:928/0*e-SMFTzO8r7skkpc" width = "500"> <br>
+    <br>
+  
+  * <mark>**6 basic things to know about Convolution | 2D Convolution explained by applying Convolution Matrices in Numpy**</mark> 
+  
+    <br><img src = "https://miro.medium.com/v2/resize:fit:928/0*e-SMFTzO8r7skkpc" width = "500"> <br>
     Convolution Operation on a 7x7 matrix with a 3x3 kernel <br>
       * 1. In mathematics, convolution is an operation performed on two functions (f and g) to produce a third function. Convolution is one of the most important operations in signal and image processing. It could operate in 1D (e.g. speech processing), 2D (e.g. image processing) or 3D (video processing). <br>
       * 2. In image processing, convolution is the process of transforming an image by applying a kernel over each pixel and its local neighbors across the entire image. The kernel is a matrix of values whose size and values determine the transformation effect of the convolution process. <br>
@@ -404,13 +412,36 @@ _04:16 14/10/2024_ <br>
   <br><img src = "https://github.com/gasingh/furniture-style-classifier/blob/main/alexnet_04_writing%20from%20scratch%20in%20pytorch.JPG" width = "500"> <br>
   [Writing AlexNet from Scratch in PyTorch | DigitalOcean](https://www.digitalocean.com/community/tutorials/alexnet-pytorch)<br>
 
-* **CNN & ImageNet Search **
+* **CNN & ImageNet Search**
+  
   * [when was the imagenet paper written by hinton - Google Search](https://www.google.com/search?q=when+was+the+imagenet+pqper+written+by+hinton&sca_esv=8e018ca7fa204961&rlz=1C1GCEB_enGB1045GB1045&sxsrf=ADLYWIKVinH0CTQDOHIy9S7XDG2YW7QBhg%3A1728869335346&ei=13MMZ-TtFNaW9u8PjKDVuA8&ved=0ahUKEwikteKU3IyJAxVWi_0HHQxQFfcQ4dUDCA8&uact=5&oq=when+was+the+imagenet+pqper+written+by+hinton&gs_lp=Egxnd3Mtd2l6LXNlcnAiLXdoZW4gd2FzIHRoZSBpbWFnZW5ldCBwcXBlciB3cml0dGVuIGJ5IGhpbnRvbjIHECEYoAEYCjIHECEYoAEYCkjvYVCTDVjOV3ABeAGQAQCYAW-gAfQOqgEEMjMuMbgBA8gBAPgBAZgCGaAC8Q_CAgoQABiwAxjWBBhHwgIEECMYJ8ICCBAAGIAEGKIEwgIFECEYoAHCAgUQIRifBcICBhAhGBUYCpgDAIgGAZAGCJIHBDIzLjKgB5F0&sclient=gws-wiz-serp)
   * [AlexNet and ImageNet: The Birth of Deep Learning | Pinecone](https://www.pinecone.io/learn/series/image-search/imagenet/)
   * [ImageNet: A large-scale hierarchical image database | IEEE Conference Publication | IEEE Xplore](https://ieeexplore.ieee.org/document/5206848)
-    <br><img src = "https://github.com/gasingh/furniture-style-classifier/blob/main/cnn%20and%20wikipedia-definition.JPG" width = "500"> <br>
+    <br><br><img src = "https://github.com/gasingh/furniture-style-classifier/blob/main/cnn%20and%20wikipedia-definition.JPG" width = "500"> <br><br>
   * [Convolutional neural network - Wikipedia](https://en.wikipedia.org/wiki/Convolutional_neural_network#:~:text=Although%20CNNs%20were%20invented%20in,be%20greatly%20accelerated%20on%20GPUs.)
 
+</details>
+
+</details>
+
+## Frameworks
+
+PyTorch could be a possible framework to build such a classifier.
+
+<details> <summary> <b> Learning Resources for PyTorch  </b> </summary>
+  
+  **Here a collection of nice links for learning PyTorch!**
+  
+  <details> <summary> <mark> ABCD </mark> </summary>
+  
+  </details>
+  <details> <summary> <mark> ABCD </mark> </summary>
+  
+  </details>
+  <details> <summary> <mark> ABCD </mark> </summary>
+  
+  </details>
+  
 </details>
 
 

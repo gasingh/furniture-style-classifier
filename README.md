@@ -424,6 +424,7 @@ _04:16 14/10/2024_ <br>
 
 </details>
 
+ 
 ## Frameworks
 
 PyTorch could be a possible framework to build such a classifier.
@@ -527,3 +528,28 @@ However, my learning pursuit would be better served if I were to learn the funda
 
 Can this project grow and become something even more? 
 I love browsing design and furniture shops, and an AI like that could be a cool tool to have on a mobile phone. Ideally a mobile phone app!
+
+
+
+
+<!-- 
+## Frameworks
+
+PyTorch could be a possible framework to build such a classifier.
+
+<details> <summary> <b> Learning Resources for PyTorch  </b> </summary>
+  
+  **Here a collection of nice links for learning PyTorch!**
+  
+  <details> <summary> <mark> ABCD </mark> </summary>
+  
+  </details>
+  <details> <summary> <mark> ABCD </mark> </summary>
+  
+  </details>
+  <details> <summary> <mark> ABCD </mark> </summary>
+  
+  </details>
+  
+</details>
+--->

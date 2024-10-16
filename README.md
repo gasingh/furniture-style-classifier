@@ -510,12 +510,10 @@ In my research online, I found that it might be fine to takeup such a pursuit fo
     * [Fair Use in Action at the Internet Archive | Internet Archive Blogs](https://blog.archive.org/2024/03/01/fair-use-in-action-at-the-internet-archive/)
     * [Rights – Internet Archive Help Center](https://help.archive.org/help/rights/)
     * [Code of Best Practices in Fair Use for Scholarly Research in Communication - Center for Media and Social Impact](https://cmsimpact.org/code/code-best-practices-fair-use-scholarly-research-communication/)
-
- <img src= "https://github.com/gasingh/furniture-style-classifier/blob/main/Capture_241013_fairUse_GoogleSearch.JPG" width="500"><br>
- ![IMG](https://github.com/gasingh/furniture-style-classifier/blob/main/Capture_241013_fairUse_GoogleSearch_highlightGoogle.JPG)
- 
-   * [Internet Archive Loses Copyright Lawsuit: What to Know | TIME](https://time.com/6266147/internet-archive-copyright-infringement-books-lawsuit/)
-   * [Copyright related to research - LibAnswers](https://libanswers.kcl.ac.uk/faq/226572#:~:text=%E2%80%9CFair%20dealing%E2%80%9D%20is%20a%20legal,a%20work%20may%20be%20used.)
+    * <img src= "https://github.com/gasingh/furniture-style-classifier/blob/main/Capture_241013_fairUse_GoogleSearch.JPG" width="500"><br>
+    * ![IMG](https://github.com/gasingh/furniture-style-classifier/blob/main/Capture_241013_fairUse_GoogleSearch_highlightGoogle.JPG) <br>
+    * [Internet Archive Loses Copyright Lawsuit: What to Know | TIME](https://time.com/6266147/internet-archive-copyright-infringement-books-lawsuit/)
+    * [Copyright related to research - LibAnswers](https://libanswers.kcl.ac.uk/faq/226572#:~:text=%E2%80%9CFair%20dealing%E2%80%9D%20is%20a%20legal,a%20work%20may%20be%20used.)
        * ![img](https://github.com/gasingh/furniture-style-classifier/blob/main/Capture_241013_fairUse_GoogleSearch_guide.JPG)
        * [Exceptions to copyright](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/375954/Research.pdf)
 

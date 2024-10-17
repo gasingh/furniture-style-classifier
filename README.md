@@ -445,11 +445,13 @@ PyTorch could be a possible framework to build such a classifier.
   * [Deep Learning Institute and Training Solutions | NVIDIA](https://www.nvidia.com/en-gb/training/)
   * [Getting Started with Deep Learning | NVIDIA: Deep Learning Institute](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-01+V1)
   * [Building A Brain in 10 Minutes | NVIDIA: Deep Learning Institute](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+T-FX-01+V1)
-
   </details>
-  <details> <summary> <mark> ABCD </mark> </summary>
+  <details> <summary>  <h4>  OpenCV Courses </h4> </summary>
+  COURSES FROM OPENCV
+  * [Getting Started with PyTorch | LearnOpenCV](https://learnopencv.com/getting-started-with-pytorch/)
+  * [Pytorch Tutorial For Beginners - All the Basics](https://learnopencv.com/pytorch-for-beginners-basics/)
+  </details>
   
-  </details>
   <details> <summary> <mark> ABCD </mark> </summary>
   
   </details>

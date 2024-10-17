@@ -429,12 +429,23 @@ _04:16 14/10/2024_ <br>
 
 PyTorch could be a possible framework to build such a classifier.
 
-<details> <summary> <b> Learning Resources for PyTorch  </b> </summary>
+<details> <summary> <h3> Learning Resources for PyTorch </h3> </summary>
+  Here a collection of nice links for learning PyTorch!
+  <details> <summary> <h4> Building AI Community </h4> </summary>
+
+  WORKSHOPS FROM UNI HELSINKI
+  * [Workshop: Image Classification with AI Models🤖 | Elements of AI](https://community.elementsofai.com/c/tips-and-learning-resources/workshop-1-image-classification-with-ai-models)
+  * [Perceptron on MNIST - Elements of AI Workshop 1 - YouTube](https://www.youtube.com/watch?v=V3hRPhEnCRo)
+  * [CNN on MNIST - Elements of AI Workshop 1 - YouTube](https://www.youtube.com/watch?v=_CCH5NYtwxo)
+  * [Logistic Regresison on MNIST - Elements of AI Workshop 1 - YouTube](https://www.youtube.com/watch?v=jbmqZ7X3z_k)
+  * [Elements of AI demo 1: Image classification - Colab](https://colab.research.google.com/drive/1J53qWaOc4buNwPDtJ-JBz2UvM1-8cO8U?usp=sharing#scrollTo=X7QUztKTLyUT)
   
-  **Here a collection of nice links for learning PyTorch!**
-  
-  <details> <summary> <mark> ABCD </mark> </summary>
-  
+  WORKSHOPS FROM NVIDIA 
+  * [Introduction to "Learning Deep Learning" | GTC Digital Spring 2023 | NVIDIA On-Demand](https://www.nvidia.com/en-us/on-demand/session/gtcspring23-dlit52044/?playlistId=playList-5906792e-0f3d-436b-bc30-3abf911a95a6)
+  * [Deep Learning Institute and Training Solutions | NVIDIA](https://www.nvidia.com/en-gb/training/)
+  * [Getting Started with Deep Learning | NVIDIA: Deep Learning Institute](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-01+V1)
+  * [Building A Brain in 10 Minutes | NVIDIA: Deep Learning Institute](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+T-FX-01+V1)
+
   </details>
   <details> <summary> <mark> ABCD </mark> </summary>
   

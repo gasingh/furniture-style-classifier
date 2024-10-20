@@ -48,27 +48,25 @@ Below are two images illustraing the intent of the exercise. The first image bel
 <p align="center" width="100%">
   <br> <b> <i> THE PREMISE: AN AI (MACHINE LEARNING MODEL) INSTEAD OF A "TRAINED" HUMAN EXPERT </i> </b> <br> <br>
   <img src= "https://www.shutterstock.com/image-vector/machine-vs-human-difference-between-600nw-2121658835.jpg" width = "300"> <br> 
-  a1. The theorerical premise: an AI system vs a human expert teaching a system to classify <br>
+  <i> a1. The theorerical premise: an AI system vs a human expert teaching a system to classify </i> <br>
   <img src= "https://raw.githubusercontent.com/gasingh/furniture-style-classifier/refs/heads/main/Research-overview-deep-learning-based-interior-design-style-detection-for-design_%5BStochastic%20Detection%20of%20Interior%20Design%20Styles%20Using%20a%20Deep-Learning%20Model%20for%20Re%5D.png" width = "500"> <br>
-  a2. Interpretations of an AI versus a Human towards world perception <br>
+  <i> a2. Interpretations of an AI versus a Human towards world perception </i> <br>
   <br> <b> <i> THE GENERAL ARCHITECTURE OF A NEURAL NETWORK TO CLASSIFY IMAGES </i> </b> <br> <br>
   <img src="https://miro.medium.com/v2/resize:fit:1400/1*XbuW8WuRrAY5pC4t-9DZAQ.jpeg" width="500"> <br>
-  b. CNN to identify Cars! <br>  
+  <i> b. CNN to identify Cars!</i> <br>  
   <img src= "https://developers.google.com/static/machine-learning/practica/image-classification/images/cnn_architecture.svg" width = "500" > <br>
-  c. CNN to identify Cats! <br>
+  <i> c. CNN to identify Cats! </i> <br>
   <img src= "https://jaydevs.com/wp-content/uploads/2021/06/8.png" width = "500"> <br>
-  d. CNN to identify a Chair! <br>
+  <i> <mark> d. CNN to identify a Chair! </mark> </i> <br>
   <img src= "fruit classification using GoogleNet CNN_crop.jpg" width = "500"> <br>
-  e. CNN to identify Fruits! <br>
+  <i> e. CNN to identify Fruits! </i> <br>
   <img src= "https://editor.analyticsvidhya.com/uploads/94787Convolutional-Neural-Network.jpeg" width = "500"> <br>
-  f. CNN to identify Digits (MNIST)! <br>
+  <i> f. CNN to identify Digits (MNIST)! </i> <br>
   <img src= "https://goodboychan.github.io/images/CNN_MNIST.png" width = "500"> <br>
-  g. CNN to identify Digits (MNIST)! <br>
-
-
+  <i> g. CNN to identify Digits (MNIST)! </i> <br>
 </p>
 
-<details> <summary> img sources </summary>
+<details> <summary> <i>(Image Sources)</i> </summary>
  
 * Img Source a1: [Stochastic Detection of Interior Design Styles Using a Deep-Learning Model for Reference Images](https://www.researchgate.net/figure/Research-overview-deep-learning-based-interior-design-style-detection-for-design_fig1_346281080) <br>
 * Img Source a2: [Machine Vs Human Difference Between Robot Stock Vector (Royalty Free) 2121658835 | Shutterstock](https://www.shutterstock.com/image-vector/machine-vs-human-difference-between-robot-2121658835)

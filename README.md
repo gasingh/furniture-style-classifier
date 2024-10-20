@@ -514,6 +514,29 @@ PyTorch could be a possible framework to build such a classifier.
   * [PyTorch Pocket Reference: PDF!](https://netinfo.click/books/prog/PyTorch%20Pocket%20Reference.pdf)
   * [joe-papa/pytorch-book: Code included in the book, PyTorch Pocket Reference](https://github.com/joe-papa/pytorch-book)
 
+  **WOLFRAM RESOURCES FOR LEARNING NEURAL NETWORKS**
+  * [1421506455-d04c68c78e41fd96f4cbe95a00152d7487e3da49b5229d30669c233d79b6db8f-d_640 (640×360)](https://i.vimeocdn.com/video/1421506455-d04c68c78e41fd96f4cbe95a00152d7487e3da49b5229d30669c233d79b6db8f-d_640?f=webp)
+  * [Exploring the Wolfram Neural Network Framework from Building to Training - YouTube](https://www.youtube.com/watch?app=desktop&v=6dlZQdhQ7EA)
+  * [Convolutional Neural Networks - Wolfram|Alpha](https://www.wolframalpha.com/input/?i=Convolutional+Neural+Networks)
+  * [ConvolutionLayer—Wolfram Language Documentation](https://reference.wolfram.com/language/ref/ConvolutionLayer.html)
+  * [New Tab](chrome://newtab/)
+  * [Machine Learning—Wolfram Language Documentation](https://reference.wolfram.com/language/guide/MachineLearning.html)
+  * [Neural Networks—Wolfram Language Documentation](https://reference.wolfram.com/language/guide/NeuralNetworks.html)
+  * [Neural Network Layers—Wolfram Language Documentation](https://reference.wolfram.com/language/guide/NeuralNetworkLayers.html)
+  * [Neural Network Construction & Properties—Wolfram Language Documentation](https://reference.wolfram.com/language/guide/NeuralNetworkConstruction.html)
+
+  **PROBABILITY & MACHINE LEARNING TUTORIALS | BOSTON UNIVERSITY: COMPUTER SCIENCE**
+  * [bernoulli distribution and other distributions illustrated pdf - Google Search](https://www.google.com/search?sca_esv=8dd9f03442370aca&rlz=1C1GCEB_enGB1045GB1045&sxsrf=ADLYWILbEHqjbQjS6mzeqw4dWUBGKaBGkw:1729189949183&q=bernoulli+distribution+and+other+distributions+illustrated+pdf&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J_86uWOeqwdnV0yaSF-x2jo53SdZJqTJ803niQI1SUQB9UrIUD4vRSbyyusN_ME-yIpZF7Z-hsxxwxtNhlRxfJXBS5NHASF9E_6N2-VbmozjiG1m-BMMHGDP_erhtoQiXlcvvbvfvIzD_qLBo7peyJkrl2ym&sa=X&ved=2ahUKEwiJgK7FhpaJAxV4W0EAHS39EVEQtKgLegQIERAB&biw=1537&bih=830&dpr=2.25#vhid=kYoUX2P2sSxWDM&vssid=mosaic)
+  * [Lecture 11 -- Random Variables, Special Distributions](https://www.cs.bu.edu/fac/snyder/cs237/Lectures%20and%20Materials/Lecture%2011%20--%20Random%20Variables,%20Special%20Distributions.pdf)
+  * [CS 237 Probability in Computing](https://www.cs.bu.edu/fac/snyder/cs237/)
+  * [CS 4100](https://www.cs.bu.edu/fac/snyder/cs237/tutorials/LearningPython.html)
+  * [What is Probability | Randomness | Uncertainty | Belief](https://www.probabilitycourse.com/chapter1/1_1_0_what_is_probability.php)
+  * [Courses](https://www.probabilitycourse.com/courses.php)
+  * [Brief Introduction to Machine Learning (No Coding):](https://www.probabilitycourse.com/ml/intro.php)
+  * [Brief Intro to Machine Learning (No Coding) - YouTube PLAYLIST ](https://www.youtube.com/playlist?list=PL-qA2peRUQ6owRDwOYUQPheHU2Muc1xHr)
+  * [Boston University Department of Computer Science | Computer Science](https://www.bu.edu/cs/)
+
+
   <!-- <details> <summary>  <h4>  OpenCV Courses </h4> </summary>
   </details> --->
 
@@ -528,7 +551,14 @@ The Idea is to be able to build an AI Model which can automatically learn to rec
 I found a few datasources online:
 
 <details> <summary> Literature Review 05: AI Training Datasets Online </summary>
-
+<br>
+  
+  **VISUAL CLASSIFICATION OF FURNITURE STYLES**
+  * [classify furniture neural network - Google Search](https://www.google.com/search?q=classify+furniture+neural+network&sca_esv=8dd9f03442370aca&rlz=1C1GCEB_enGB1045GB1045&udm=2&biw=1537&bih=830&sxsrf=ADLYWIJu268IEguV1i5AyDvrR95qIul6GQ%3A1729190109401&ei=3VgRZ7mUGIfWhbIPz9_PwQw&ved=0ahUKEwj59uCRh5aJAxUHa0EAHc_vM8gQ4dUDCBA&uact=5&oq=classify+furniture+neural+network&gs_lp=Egxnd3Mtd2l6LXNlcnAiIWNsYXNzaWZ5IGZ1cm5pdHVyZSBuZXVyYWwgbmV0d29ya0i4JFDLBljAInADeACQAQCYAVegAdgHqgECMTa4AQPIAQD4AQGYAgGgAk7CAgQQIxgnwgIGEAAYHhgPwgIGEAAYBRgewgIGEAAYCBgemAMAiAYBkgcBMaAHkgk&sclient=gws-wiz-serp#vhid=VEXzVDa2WbfJEM&vssid=mosaic)
+  * [Visual Classification of Furniture Styles | Semantic Scholar](https://www.semanticscholar.org/paper/Visual-Classification-of-Furniture-Styles-Hu-Wen/9241b103b76a3bdae157038b71783d7d372c71e9)
+  * [Visual Classification of Furniture Styles | Semantic Scholar](https://www.semanticscholar.org/paper/Visual-Classification-of-Furniture-Styles-Hu-Wen/9241b103b76a3bdae157038b71783d7d372c71e9)
+  * [PAPER: Using deep learning techniques furniture image classification](https://dergipark.org.tr/en/download/article-file/3213124)
+  * [images (222×227)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAu6OwLvGLx0UjaiRky3emar3_qR2GL7KVFQ&s)
 
 </details>
 

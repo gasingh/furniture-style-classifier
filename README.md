@@ -4,6 +4,7 @@ Final project for the Building AI course
 <img src="https://github.com/gasingh/furniture-style-classifier/blob/main/project_cover_image.JPG" alt="project_cover_img" width="1000">
 
 ## Story and Motivation
+The idea for the project emerged during a walk in London, during a weekend.
 
 I was wandering around in the streets of London, and stumbled across a book outside a bookshop in a sale. It was a pictorial guide from the 1990s teaching people how to identify furniture styles. The book is meant as a concise resource for curators, furniture collectors, and connoisseurs, as well as students of history and decorative arts. The book provide one page descriptions and images for 36 styles ranging from 1600s to 1900s. Almost instantly, I was fascinated by the idea that if a person can be trained to read a book and learn to identify furniture styles, can an AI do it as well? 
 
@@ -594,14 +595,21 @@ In my research online, I found that it might be fine to takeup such a pursuit fo
 
 However, my learning pursuit would be better served if I were to learn the fundamentals of Image recognition and then learning how to apply those learnings and knowledge and work towards building my own custom tailored AI system. Hence the research on finding appropriate opensource image training sets online. Please refer Sections: _**Data sources: AI training datasets (digital)**_.
 
+## Limitations
+
+One of the limitations of the furniture classifier is that the CNN requires a lot of images for training! It would great to find a method/ algorithm/ machine learning model which can be able to identify images with less training data! A nice below from the internet illustrates this aspect of the current machine learning model. 
+
+<p align="center" width="100%">
+<img src = "machineVSchild_deepLearningNerds.jpg" width = "300"> <br>
+</p>
+
+* Image Source: [Deep Learning Nerds | AI, Data Science & Machine Learning | Machine 🤖 vs. Child 👶#machinelearning #deeplearning #artificialintelligence #machinelearningalgorithms #machine #maschinelleslernen... | Instagram](https://www.instagram.com/p/B8q9J4siGcM/?img_index=deeplearningnerds)
+
+
 ## What next?
 
 Can this project grow and become something even more? 
 I love browsing design and furniture shops, and an AI like that could be a cool tool to have on a mobile phone. Ideally a mobile phone app!
-
-
-
-
 
 
 

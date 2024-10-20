@@ -509,6 +509,10 @@ PyTorch could be a possible framework to build such a classifier.
   **GOOGLE: MACHINE LEARNING PRACTICUM**
   * [ML Practicum: Image Classification  |  Machine Learning  |  Google for Developers](https://developers.google.com/machine-learning/practica/image-classification)
 
+  **PYTORCH POCKET REFERENCE BY JOE PAPA**
+  * [PyTorch Pocket Reference: Book](https://www.oreilly.com/library/view/pytorch-pocket-reference/9781492089995/)
+  * [PyTorch Pocket Reference: PDF!](https://netinfo.click/books/prog/PyTorch%20Pocket%20Reference.pdf)
+  * [joe-papa/pytorch-book: Code included in the book, PyTorch Pocket Reference](https://github.com/joe-papa/pytorch-book)
 
   <!-- <details> <summary>  <h4>  OpenCV Courses </h4> </summary>
   </details> --->
@@ -605,10 +609,11 @@ One of the limitations of the furniture classifier is that the CNN requires a lo
 
 
 ## What next?
+_Can this project grow and become something even more?_
 
-Can this project grow and become something even more? 
-I love browsing design and furniture shops, and an AI like that could be a cool tool to have on a mobile phone. Ideally a mobile phone app!
-
+* I love browsing design and furniture shops, and an AI like that could be a cool tool to have on a mobile phone. Ideally a mobile phone app!
+* Generating Chairs from Prompts. Apparently it's also possible to generate chairs using CNNs. This sounds quite cool too!
+  * [Learning to Generate Chairs With Convolutional Neural Networks](https://openaccess.thecvf.com/content_cvpr_2015/papers/Dosovitskiy_Learning_to_Generate_2015_CVPR_paper.pdf)
 
 
 

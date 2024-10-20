@@ -39,10 +39,48 @@ Limitations: The project doesnot look to solve
 Ethical Considerations: Ethically any images which are still in copyright should be utilized only after procuring permissions/  a solution like this? -->
 
 ## AI methods: Skills, Knowledge Acquisition and Learning
-
 _What kind of skills, what kind of assistance would I need to move on?_
 
-I would need to learn how to classify images using a **CNN**. I have learned that these are the kind of neural networks which can be trained to classify images. Below are two sections which assimilate some visual and textual searches and some preliminary research conducted on the subject. This should serve as a ready reference for me to start working on my project further. 
+I would need to learn how to classify images using a **CNN**. I have learned that these are the kind of neural networks which can be trained to classify images. 
+Below are two images illustraing the intent of the exercise. The first image below illustrates a Convolutional Neural Network Algorithm for identifying a piece of furniture, and the second image illustrates how a machine learning approach differs from a traditional human expert centered workflow in identification of visual styles. 
+
+<p align="center" width="100%">
+  <br> <b> <i> THE PREMISE: AN AI (MACHINE LEARNING MODEL) INSTEAD OF A "TRAINED" HUMAN EXPERT </i> </b> <br> <br>
+  <img src= "https://www.shutterstock.com/image-vector/machine-vs-human-difference-between-600nw-2121658835.jpg" width = "300"> <br> 
+  a1. The theorerical premise: an AI system vs a human expert teaching a system to classify <br>
+  <img src= "https://raw.githubusercontent.com/gasingh/furniture-style-classifier/refs/heads/main/Research-overview-deep-learning-based-interior-design-style-detection-for-design_%5BStochastic%20Detection%20of%20Interior%20Design%20Styles%20Using%20a%20Deep-Learning%20Model%20for%20Re%5D.png" width = "500"> <br>
+  a2. Interpretations of an AI versus a Human towards world perception <br>
+  <br> <b> <i> THE GENERAL ARCHITECTURE OF A NEURAL NETWORK TO CLASSIFY IMAGES </i> </b> <br> <br>
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*XbuW8WuRrAY5pC4t-9DZAQ.jpeg" width="500"> <br>
+  b. CNN to identify Cars! <br>  
+  <img src= "https://developers.google.com/static/machine-learning/practica/image-classification/images/cnn_architecture.svg" width = "500" > <br>
+  c. CNN to identify Cats! <br>
+  <img src= "https://jaydevs.com/wp-content/uploads/2021/06/8.png" width = "500"> <br>
+  d. CNN to identify a Chair! <br>
+  <img src= "fruit classification using GoogleNet CNN_crop.jpg" width = "500"> <br>
+  e. CNN to identify Fruits! <br>
+  <img src= "https://editor.analyticsvidhya.com/uploads/94787Convolutional-Neural-Network.jpeg" width = "500"> <br>
+  f. CNN to identify Digits (MNIST)! <br>
+  <img src= "https://goodboychan.github.io/images/CNN_MNIST.png" width = "500"> <br>
+  g. CNN to identify Digits (MNIST)! <br>
+
+
+</p>
+
+<details> <summary> img sources </summary>
+ 
+* Img Source a1: [Stochastic Detection of Interior Design Styles Using a Deep-Learning Model for Reference Images](https://www.researchgate.net/figure/Research-overview-deep-learning-based-interior-design-style-detection-for-design_fig1_346281080) <br>
+* Img Source a2: [Machine Vs Human Difference Between Robot Stock Vector (Royalty Free) 2121658835 | Shutterstock](https://www.shutterstock.com/image-vector/machine-vs-human-difference-between-robot-2121658835)
+* Img Source b: [Convolutional Neural Network on a structured bank customer data | by Carson Yan | Towards Data Science](https://towardsdatascience.com/convolutional-neural-network-on-a-structured-bank-customer-data-358e6b8aa759) <br>
+* Img Source c: [ML Practicum: Image Classification  |  Machine Learning  |  Google for Developers](https://developers.google.com/machine-learning/practica/image-classification/convolutional-neural-networks)
+* Img Source d: [How to Improve the Efficiency of Training Neural Networks 2 times](https://jaydevs.com/how-to-improve-the-efficiency-of-training-neural-networks/) <br>
+* Img Source e: [Fruit Classification using GoogleNet Convolutional Neural Network (CNN) - YouTube](https://www.youtube.com/watch?v=58-1KmsIEcQ)
+* Img Source f: [Basic Introduction to Convolutional Neural Network in Deep Learning](https://www.analyticsvidhya.com/blog/2022/03/basic-introduction-to-convolutional-neural-network-in-deep-learning/)
+* Img Source g: [CNN with MNIST dataset | Chan`s Jupyter](https://goodboychan.github.io/python/deep_learning/tensorflow-keras/2020/10/10/01-CNN-with-MNIST.html)
+
+</details>
+
+Below are 4 primary sections which assimilate some visual and textual searches and some preliminary research conducted on the subject. This should serve as a ready reference for me to start working on my project further. 
 
 <details> <summary> Literature Review 01: Understanding CNNs </summary>  
 
@@ -451,12 +489,26 @@ PyTorch could be a possible framework to build such a classifier.
   * [Getting Started with PyTorch | LearnOpenCV](https://learnopencv.com/getting-started-with-pytorch/)
   * [Pytorch Tutorial For Beginners - All the Basics](https://learnopencv.com/pytorch-for-beginners-basics/)
   
-  **DAVID METZ COURSE ON OREILLY**
-  * [Machine Learning with PyTorch[Video]](https://www.oreilly.com/videos/machine-learning-with/9780135627105/)
-  * [DavidMertz/PyTorch-webinar: Machine Learning with PyTorch tutorials (for Pearson)](https://github.com/DavidMertz/PyTorch-webinar?tab=readme-ov-file)
-  
+  **DAVID MERTZ COURSE ON OREILLY**
+  * [INTRO: Beginning Machine Learning with PyTorch](https://www.oreilly.com/live-events/beginning-machine-learning-with-pytorch/0636920244455/)
+  * [VIDEO: Machine Learning with PyTorch[Video]](https://www.oreilly.com/videos/machine-learning-with/9780135627105/)
+  * [CODE: DavidMertz/PyTorch-webinar: Machine Learning with PyTorch tutorials (for Pearson)](https://github.com/DavidMertz/PyTorch-webinar?tab=readme-ov-file)
+
   **UCL DEEP LEARNING LECTURE SERIES BY GOOGLE DEEPMIND LONDON**
   * [DeepMind x UCL | Deep Learning Lecture Series 2020 - YouTube](https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF)
+
+  **STATQUEST: NEURAL NETWORKS**
+  * [cnn statquest - Google Search](https://www.google.com/search?sca_esv=5cf43fb2a73d6eec&rlz=1C1GCEB_enGB1045GB1045&sxsrf=ADLYWIKdhWqI-uycTDIpdM9aGWzcc7FaFQ:1728953037627&q=cnn+statquest&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWfbQph1uib-VfD_izZO2Y5pt2wBeNNRFhtfGNWgf58yyBj5YIPFc1HZMFmO_lDX9dLZJgKjT6CG5wP2-7RZF0bJKQ3hjUflhcltnkCxDkEgJJwG1nIHBQG85X1zdoq5d28WJbi2i2TW9B7mfzeDGwSHUGbO2zjX7X1Xcjyz8GQxZmF9QL&sa=X&ved=2ahUKEwie_Y_9k4-JAxVbgP0HHQEJHb4QtKgLegQIDhAB&biw=1537&bih=830&dpr=2.25#imgrc=MyrW41rQilk0QM&imgdii=4PN03ZWcAS8BnM)
+  * [Neural Networks Part 8: Image Classification with Convolutional Neural Networks: - StatQuest!!!](https://statquest.org/neural-networks-part-8-convolutional-neural-networks/)
+  * [maxresdefault.jpg (1280×720)](https://i.ytimg.com/vi/FHdlXe1bSe4/maxresdefault.jpg)
+  * [The StatQuest Introduction to PyTorch - YouTube](https://www.youtube.com/watch?app=desktop&v=FHdlXe1bSe4)
+  * [StatQuest: Introduction to Coding Neural Networks with PyTorch](https://lightning.ai/lightning-ai/studios/statquest-introduction-to-coding-neural-networks-with-pytorch?view=public&section=all)
+  * [Josh Starmer](https://lightning.ai/josh-starmer)
+  * [hqdefault.jpg (480×360)](https://i.ytimg.com/vi/iyn2zdALii8/hqdefault.jpg)
+  * [Neural Networks / Deep Learning - YouTube](https://www.youtube.com/playlist?app=desktop&list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1)
+
+  **GOOGLE: MACHINE LEARNING PRACTICUM**
+  * [ML Practicum: Image Classification  |  Machine Learning  |  Google for Developers](https://developers.google.com/machine-learning/practica/image-classification)
 
 
   <!-- <details> <summary>  <h4>  OpenCV Courses </h4> </summary>

@@ -536,6 +536,9 @@ PyTorch could be a possible framework to build such a classifier.
   * [Brief Intro to Machine Learning (No Coding) - YouTube PLAYLIST ](https://www.youtube.com/playlist?list=PL-qA2peRUQ6owRDwOYUQPheHU2Muc1xHr)
   * [Boston University Department of Computer Science | Computer Science](https://www.bu.edu/cs/)
 
+  **MACHINE INTRO FOR BIO-STATICIANS**
+  * [Introduction to Machine Learning in Python - Eugene Klyshko](https://klyshko.github.io/teaching/2019-03-15-teaching)
+  * Nicely introduces PCA, MDS, and other dimensionality reduction techniques
 
   <!-- <details> <summary>  <h4>  OpenCV Courses </h4> </summary>
   </details> --->

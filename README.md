@@ -541,16 +541,6 @@ PyTorch could be a possible framework to build such a classifier.
   * [Introduction to Machine Learning in Python - Eugene Klyshko](https://klyshko.github.io/teaching/2019-03-15-teaching)
   * Nicely introduces PCA, MDS, and other dimensionality reduction techniques
 
-  **MACHINE LEARNING FOR 3D DATA | Minhyuk Sung, KAIST, Fall 2023**
-  * This course is intended for undergraduate/master students who have a basic background in deep learning and experience with PyTorch.
-  * [niloy mitra lecture - Google Search](https://www.google.com/search?q=niloy+mitra+lecture&rlz=1C1GCEB_enGB1045GB1045&oq=niloy+mitra+lecture&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDUxMjRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8)
-  * [Niloy J. Mitra - CS479 Machine Learning for 3D Data (KAIST, Fall 2023)](https://mhsung.github.io/kaist-cs479-fall-2023/guest-lecture-niloy-mitra/)
-  * [CS479 Machine Learning for 3D Data (KAIST, Fall 2023)](https://mhsung.github.io/kaist-cs479-fall-2023/#paper-list)
-  * [KAIST CS479 Machine Learning for 3D Data (Fall 2023) - YouTube](https://www.youtube.com/playlist?list=PLyi5FHzX7hBzv6p_USmzLvL8TBKWljOph)
-  * [Minhyuk Sung](https://mhsung.github.io/)
-  * [KAIST Visual AI Group](https://visualai.kaist.ac.kr/)
-  * [Join Us - KAIST Visual AI Group](https://visualai.kaist.ac.kr/join_us/)
-  * 21:20 27/10/2024
 
   **An Introduction to Machine Intelligence for Architects and other Nonengineers | Nikola Marinčić, ETH Zurich, Chair for CAAD, Autumn semester 2019**
   * [An Introduction To Machine Intelligence - YouTube](https://www.youtube.com/playlist?list=PLUJPgS8PA78E8y_vBqpRtsVy9k-ZZRQ3Q)
@@ -585,6 +575,37 @@ PyTorch could be a possible framework to build such a classifier.
   * [MIT Deep Learning and Artificial Intelligence Lectures | Lex Fridman](https://deeplearning.mit.edu/)
   * 21:38 27/10/2024
 
+
+  **_3D_**
+  
+  **MACHINE LEARNING FOR 3D DATA | Minhyuk Sung, KAIST, Fall 2023**
+  * This course is intended for undergraduate/master students who have a basic background in deep learning and experience with PyTorch.
+  * [niloy mitra lecture - Google Search](https://www.google.com/search?q=niloy+mitra+lecture&rlz=1C1GCEB_enGB1045GB1045&oq=niloy+mitra+lecture&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDUxMjRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8)
+  * [Niloy J. Mitra - CS479 Machine Learning for 3D Data (KAIST, Fall 2023)](https://mhsung.github.io/kaist-cs479-fall-2023/guest-lecture-niloy-mitra/)
+  * [CS479 Machine Learning for 3D Data (KAIST, Fall 2023)](https://mhsung.github.io/kaist-cs479-fall-2023/#paper-list)
+  * [KAIST CS479 Machine Learning for 3D Data (Fall 2023) - YouTube](https://www.youtube.com/playlist?list=PLyi5FHzX7hBzv6p_USmzLvL8TBKWljOph)
+  * [Minhyuk Sung](https://mhsung.github.io/)
+  * [KAIST Visual AI Group](https://visualai.kaist.ac.kr/)
+  * [Join Us - KAIST Visual AI Group](https://visualai.kaist.ac.kr/join_us/)
+  * 21:20 27/10/2024
+
+  **3D: NEURAL RADIANCE FIELDS**
+  * [nerf udemy - Google Search](https://www.google.com/search?q=nerf+udemy&rlz=1C1GCEB_enGB1045GB1045&oq=nerf+udemy&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDMxOTNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8)
+  * [Neural Radiance Fields (NeRF) | Udemy](https://www.udemy.com/course/neural-radiance-fields-nerf/)
+  * [what can you do with nerfs - Google Search](https://www.google.com/search?q=what+can+you+do+with+nerfs&rlz=1C1GCEB_enGB1045GB1045&oq=what+can+you+do+with+nerfs&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDQzMzJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8)
+  * [What is NeRF? - Neural Radiance Fields Explained - AWS](https://aws.amazon.com/what-is/neural-radiance-fields/#:~:text=In%20computer%20graphics%2C%20you%20can,graphics%20and%20VX%20film%20animation.)
+  * [[D] What is NeRF(Neural Radiance Fields) used for? : r/MachineLearning](https://www.reddit.com/r/MachineLearning/comments/jvkj85/d_what_is_nerfneural_radiance_fields_used_for/)
+  
+  **3D RECONSTRUCTION WITH NEURAL NETWORKS**
+  *  [3d neural network reconstruction - Google Search](https://www.google.com/search?q=3d+neural+network+reconstruction&rlz=1C1GCEB_enGB1045GB1045&oq=3d+neural+network+reconstruction&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTE2NzM4ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8)
+  * [natowi/3D-Reconstruction-with-Deep-Learning-Methods: List of projects for 3d reconstruction](https://github.com/natowi/3D-Reconstruction-with-Deep-Learning-Methods?tab=readme-ov-file)
+
+  **3D CLASSIFICATION & SEGMENTATION WITH DEEP LEARNING | PYTORCH**
+  * [charlesq34/pointnet: PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation](https://github.com/charlesq34/pointnet)
+  * [pointnet pytorch - Google Search](https://www.google.com/search?q=pointnet+pytorch&rlz=1C1GCEB_enGB1045GB1045&oq=pointnet+pytorch&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDQ3MTNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8)
+  * [fxia22/pointnet.pytorch: pytorch implementation for "PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation" https://arxiv.org/abs/1612.00593](https://github.com/fxia22/pointnet.pytorch)
+  * [PointNet for 3D Object Classification [PyTorch]](https://www.kaggle.com/code/balraj98/pointnet-for-3d-object-classification-pytorch)
+  
   ** **
   * 
 

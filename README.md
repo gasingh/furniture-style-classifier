@@ -551,6 +551,23 @@ PyTorch could be a possible framework to build such a classifier.
   * [Join Us - KAIST Visual AI Group](https://visualai.kaist.ac.kr/join_us/)
   * 21:20 27/10/2024
 
+  **An Introduction to Machine Intelligence for Architects and other Nonengineers | Nikola Marinčić, ETH Zurich, Chair for CAAD, Autumn semester 2019**
+  * [An Introduction To Machine Intelligence - YouTube](https://www.youtube.com/playlist?list=PLUJPgS8PA78E8y_vBqpRtsVy9k-ZZRQ3Q)
+  * [nmarincic/machineintelligence: An Introduction to Machine Intelligence for Architects and other Nonengineers](https://github.com/nmarincic/machineintelligence)
+  * [Learn Machine Learning](https://www.reddit.com/r/learnmachinelearning/)
+
+  **HARVARD CS50: Introduction to Artificial Intelligence with Python | edX**
+  * [CS50's Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2024/)
+  * [CS50 Certificate - CS50's Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2024/certificate/)
+  * [HarvardX: CS50's Introduction to Artificial Intelligence with Python | edX](https://www.edx.org/learn/artificial-intelligence/harvard-university-cs50-s-introduction-to-artificial-intelligence-with-python)
+  * [Weeks - CS50's Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2024/weeks/)
+  * [PLCoster's CS50AI Projects](https://plcoster.github.io/homepage/cs50ai_projects.html)
+  * [HarvardX: CS50's Introduction to Artificial Intelligence with Python | edX](https://www.edx.org/learn/artificial-intelligence/harvard-university-cs50-s-introduction-to-artificial-intelligence-with-python)
+  * [About CS50 - YouTube](https://www.youtube.com/playlist?list=PLhQjrBD2T383fY1U-lgxye2GeZg80zds5)
+  * [CS50's Introduction to Artificial Intelligence with Python 2023 - YouTube](https://www.youtube.com/playlist?list=PLhQjrBD2T381PopUTYtMSstgk-hsTGkVm)
+
+
+
   ** **
   * 
 

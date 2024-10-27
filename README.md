@@ -532,6 +532,7 @@ PyTorch could be a possible framework to build such a classifier.
   * [CS 4100](https://www.cs.bu.edu/fac/snyder/cs237/tutorials/LearningPython.html)
   * [What is Probability | Randomness | Uncertainty | Belief](https://www.probabilitycourse.com/chapter1/1_1_0_what_is_probability.php)
   * [Courses](https://www.probabilitycourse.com/courses.php)
+  * Brief non-technical Intro to Machine Learning 
   * [Brief Introduction to Machine Learning (No Coding):](https://www.probabilitycourse.com/ml/intro.php)
   * [Brief Intro to Machine Learning (No Coding) - YouTube PLAYLIST ](https://www.youtube.com/playlist?list=PL-qA2peRUQ6owRDwOYUQPheHU2Muc1xHr)
   * [Boston University Department of Computer Science | Computer Science](https://www.bu.edu/cs/)

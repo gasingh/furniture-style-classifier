@@ -622,10 +622,11 @@ PyTorch could be a possible framework to build such a classifier.
       * [Phone Recognition with the Mean-Covariance Restricted Boltzmann Machine](https://papers.nips.cc/paper_files/paper/2010/hash/b73ce398c39f506af761d2277d853a92-Abstract.html)
 
   * **OBJECT RECOGNITION**:
+    * [The Godfather in Conversation: Why Geoffrey Hinton is worried about the future of AI - YouTube](https://www.youtube.com/watch?v=-9cW4Gcn5WY&t=906s)
     * Also in 2012, two of Hinton's graduate students: ILya sutskever and ALex krizhevsky made a Neural Net that was very good at recognising objects and images. And that beat the state of the art by a lot. And then suddenly it worked very well for Computer Vision, and that was the turning point. In 2012, their team won the ImageNet Competition by a huge margin.
       * [Timestamp 1 in video](https://youtu.be/-9cW4Gcn5WY?t=1122) | In 2006, they were able to initialize the weights much better by using unsupervised learning, and then backpropogation worked much better. [19:14/ 46:20]. So it was fairly clear that backpropogation was gonna work very well.
-      * [Timestamp 2 in video](https://youtu.be/-9cW4Gcn5WY?t=1154) | In 2012, 
-    * AlexNet & Convolution Nets: AlexNet is the name of a convolutional neural network (CNN) architecture, designed by Alex Krizhevsky in collaboration with Ilya Sutskever and Geoffrey Hinton.   
+    * AlexNet & Convolution Nets: AlexNet is the name of a convolutional neural network (CNN) architecture, designed by Alex Krizhevsky in collaboration with Ilya Sutskever and Geoffrey Hinton.
+      * [Timestamp 2 in video](https://youtu.be/-9cW4Gcn5WY?t=1154) | In 2012, ...
     * 10 readings on this:
       * [ilya sutskever and alex krizhevsky - Google Search](https://www.google.com/search?q=ilya+sutskever+and+alex+krizhevsky&sca_esv=bc2b6d8ee533b33f&rlz=1C1GCEB_enGB1045GB1045&sxsrf=ADLYWIIN4IQocHfrlAhaLC4J44vGatbV8w%3A1730071463515&ei=p8seZ7WSH6myhbIP-c_rwQc&oq=ilya+sutskever+and+&gs_lp=Egxnd3Mtd2l6LXNlcnAiE2lseWEgc3V0c2tldmVyIGFuZCAqAggEMgQQIxgnMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeSPdgUPwRWO0scAF4AZABAJgBaaABmAOqAQM0LjG4AQPIAQD4AQGYAgagAs8DwgIKEAAYsAMY1gQYR8ICCxAAGIAEGIYDGIoFwgIIEAAYgAQYogTCAgUQIRigAZgDAIgGAZAGCJIHAzUuMaAHhBc&sclient=gws-wiz-serp)
       * [Google Hires Brains that Helped Supercharge Machine Learning | WIRED](https://www.wired.com/2013/03/google-hinton/)

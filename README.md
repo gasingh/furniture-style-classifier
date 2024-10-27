@@ -606,7 +606,7 @@ PyTorch could be a possible framework to build such a classifier.
   
   _SECTION 3: Object Recognition in Images_
   
-  **OBJECT RECOGNITION RESEARCH BY STUDENTS OF GEOFFREY HINTON IN 2012**
+  **SPEECH & OBJECT RECOGNITION RESEARCH BY STUDENTS OF GEOFFREY HINTON IN 2009-2012**
   * [Full interview: "Godfather of artificial intelligence" talks impact and potential of AI - YouTube](https://www.youtube.com/watch?v=qpoRO378qRY)
   * [Time stamped YouTube video: Geoffrey Hinton talking about Object Recognition](https://youtu.be/qpoRO378qRY?t=634)
     

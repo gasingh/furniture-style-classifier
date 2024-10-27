@@ -574,9 +574,8 @@ PyTorch could be a possible framework to build such a classifier.
   *
   * [MIT Deep Learning and Artificial Intelligence Lectures | Lex Fridman](https://deeplearning.mit.edu/)
   * 21:38 27/10/2024
-
-
-  **_3D_**
+  
+  _Here are some links for 3D Deep Learning!!_
   
   **MACHINE LEARNING FOR 3D DATA | Minhyuk Sung, KAIST, Fall 2023**
   * This course is intended for undergraduate/master students who have a basic background in deep learning and experience with PyTorch.
@@ -606,12 +605,11 @@ PyTorch could be a possible framework to build such a classifier.
   * [fxia22/pointnet.pytorch: pytorch implementation for "PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation" https://arxiv.org/abs/1612.00593](https://github.com/fxia22/pointnet.pytorch)
   * [PointNet for 3D Object Classification [PyTorch]](https://www.kaggle.com/code/balraj98/pointnet-for-3d-object-classification-pytorch)
   
-  ** **
-  * 
-
+  
+  
+  
   <!-- <details> <summary>  <h4>  OpenCV Courses </h4> </summary>
   </details> --->
-
 
 </details>
 

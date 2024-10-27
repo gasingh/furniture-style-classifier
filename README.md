@@ -469,7 +469,7 @@ PyTorch could be a possible framework to build such a classifier.
 <details> <summary> Learning Resources for PyTorch </summary>
   <br>
 
-  _Here a collection of nice links for learning PyTorch!_
+  _SECTION 1: Here a collection of nice links for learning PyTorch!_
 
   **WORKSHOPS FROM UNI HELSINKI**
   * [Workshop: Image Classification with AI Models🤖 | Elements of AI](https://community.elementsofai.com/c/tips-and-learning-resources/workshop-1-image-classification-with-ai-models)
@@ -541,7 +541,6 @@ PyTorch could be a possible framework to build such a classifier.
   * [Introduction to Machine Learning in Python - Eugene Klyshko](https://klyshko.github.io/teaching/2019-03-15-teaching)
   * Nicely introduces PCA, MDS, and other dimensionality reduction techniques
 
-
   **An Introduction to Machine Intelligence for Architects and other Nonengineers | Nikola Marinčić, ETH Zurich, Chair for CAAD, Autumn semester 2019**
   * [An Introduction To Machine Intelligence - YouTube](https://www.youtube.com/playlist?list=PLUJPgS8PA78E8y_vBqpRtsVy9k-ZZRQ3Q)
   * [nmarincic/machineintelligence: An Introduction to Machine Intelligence for Architects and other Nonengineers](https://github.com/nmarincic/machineintelligence)
@@ -575,7 +574,7 @@ PyTorch could be a possible framework to build such a classifier.
   * [MIT Deep Learning and Artificial Intelligence Lectures | Lex Fridman](https://deeplearning.mit.edu/)
   * 21:38 27/10/2024
   
-  _Here are some links for 3D Deep Learning!!_
+  _SECTION 2: Here are some links for 3D Deep Learning!!_
   
   **MACHINE LEARNING FOR 3D DATA | Minhyuk Sung, KAIST, Fall 2023**
   * This course is intended for undergraduate/master students who have a basic background in deep learning and experience with PyTorch.
@@ -605,9 +604,42 @@ PyTorch could be a possible framework to build such a classifier.
   * [fxia22/pointnet.pytorch: pytorch implementation for "PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation" https://arxiv.org/abs/1612.00593](https://github.com/fxia22/pointnet.pytorch)
   * [PointNet for 3D Object Classification [PyTorch]](https://www.kaggle.com/code/balraj98/pointnet-for-3d-object-classification-pytorch)
   
+  _SECTION 3: Object Recognition in Images_
   
-  
-  
+  **OBJECT RECOGNITION RESEARCH BY STUDENTS OF GEOFFREY HINTON IN 2012**
+  * [Full interview: "Godfather of artificial intelligence" talks impact and potential of AI - YouTube](https://www.youtube.com/watch?v=qpoRO378qRY)
+  * [Time stamped YouTube video: Geoffrey Hinton talking about Object Recognition](https://youtu.be/qpoRO378qRY?t=634)
+    
+  * **SPEECH RECOGNITION**:
+    * In 2009, two of Hinton's grad students: George Dahl and Abdel-rahman Mohamed, made a much better Speech Recognition System using Neural Nets. It was just slightly better than the State of the Art. And then it was fairly clear that this stuff (neural networks) was going somewhere. And all the speech groups all over the world switched to using Neural Nets.
+    * In Production: In 2012, that speech stuff came up in Google Android. And it caught up with Siri.
+    * The inventors:
+      * [George E. Dahl](https://www.cs.toronto.edu/~gdahl/)
+      * [Abdelrahman Mohamed](https://www.cs.toronto.edu/~asamir/)
+    * More readings on this:
+      * [George Dahl and Abdel-rahman Mohamed speech recognition - Google Search](https://www.google.com/search?q=George+Dahl+and+Abdel-rahman+Mohamed+speech+recognition&sca_esv=bc2b6d8ee533b33f&rlz=1C1GCEB_enGB1045GB1045&sxsrf=ADLYWIKA0EFzooH_j9MU9cbwdrhegPz49Q:1730072886889&ei=NtEeZ5v5NeyChbIPq9GqgQU&start=30&sa=N&sstk=AagrsugaP77n0lKCZNbfrrbasNMArzG_PM5zyJ8LgKLi9llIyKhpiRkx4DngBACfhyoxU1cz7M0FkyAnzwi6Lfn2RV0aCjbYiGmGjD87XTwPCbRbAmoJRnnehkVbCPZKl2cVrNspX6WDexpLxdXvH3hElvxnjvNf6TE&ved=2ahUKEwib7O7e36-JAxVsQUEAHauoKlA4FBDw0wN6BAgHEBk&biw=1537&bih=830&dpr=2.25)
+      * [Leading breakthroughs in speech recognition software at Microsoft, Google, IBM | University of Toronto](https://www.utoronto.ca/news/leading-breakthroughs-speech-recognition-software-microsoft-google-ibm)
+      * [Phone Recognition with the Mean-Covariance Restricted Boltzmann Machine](https://papers.nips.cc/paper_files/paper/2010/hash/b73ce398c39f506af761d2277d853a92-Abstract.html)
+
+  * **OBJECT RECOGNITION**:
+    * Also in 2012, two of Hinton's graduate students: ILya sutskever and ALex krizhevsky made a Neural Net that was very good at recognising objects and images. And that beat the state of the art by a lot. And then suddenly it worked very well for Computer Vision, and that was the turning point. In 2012, their team won the ImageNet Competition by a huge margin.
+      * [Timestamp 1 in video](https://youtu.be/-9cW4Gcn5WY?t=1122) | In 2006, they were able to initialize the weights much better by using unsupervised learning, and then backpropogation worked much better. [19:14/ 46:20]. So it was fairly clear that backpropogation was gonna work very well.
+      * [Timestamp 2 in video](https://youtu.be/-9cW4Gcn5WY?t=1154) | In 2012, 
+    * AlexNet & Convolution Nets: AlexNet is the name of a convolutional neural network (CNN) architecture, designed by Alex Krizhevsky in collaboration with Ilya Sutskever and Geoffrey Hinton.   
+    * 10 readings on this:
+      * [ilya sutskever and alex krizhevsky - Google Search](https://www.google.com/search?q=ilya+sutskever+and+alex+krizhevsky&sca_esv=bc2b6d8ee533b33f&rlz=1C1GCEB_enGB1045GB1045&sxsrf=ADLYWIIN4IQocHfrlAhaLC4J44vGatbV8w%3A1730071463515&ei=p8seZ7WSH6myhbIP-c_rwQc&oq=ilya+sutskever+and+&gs_lp=Egxnd3Mtd2l6LXNlcnAiE2lseWEgc3V0c2tldmVyIGFuZCAqAggEMgQQIxgnMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeSPdgUPwRWO0scAF4AZABAJgBaaABmAOqAQM0LjG4AQPIAQD4AQGYAgagAs8DwgIKEAAYsAMY1gQYR8ICCxAAGIAEGIYDGIoFwgIIEAAYgAQYogTCAgUQIRigAZgDAIgGAZAGCJIHAzUuMaAHhBc&sclient=gws-wiz-serp)
+      * [Google Hires Brains that Helped Supercharge Machine Learning | WIRED](https://www.wired.com/2013/03/google-hinton/)
+      * [Alex Krizhevsky • People in AI • AI Blog](https://www.artificial-intelligence.blog/people-in-ai/alex-krizhevsky)
+      * [AlexNet - Wikipedia](https://en.wikipedia.org/wiki/AlexNet)
+      * [ImageNet Classification with Deep Convolutional Neural Networks](https://papers.nips.cc/paper_files/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html)
+      * [AlexNet: The Architecture That Changed AI | by Abhik Dey | Medium](https://medium.com/@abhikdey06/alexnet-the-architecture-that-changed-ai-6b69ad4d8af9)
+      * [Krizhevsky, Sutskever, Hinton and ImageNet | by Santiago Velez Garcia | Medium](https://svelezg.medium.com/krizhevsky-sutskever-hinton-and-imagenet-d1c7f2fba113)
+      * [The researcher behind AI's biggest breakthrough has moved on from Google](https://qz.com/1307091/the-inside-story-of-how-ai-got-good-enough-to-dominate-silicon-valley)
+      * [Ilya Sutskever: The brain behind ChatGPT](https://journeymatters.ai/ilya-the-brain-behind-chatgpt/)
+      * [(1) Post | LinkedIn](https://www.linkedin.com/posts/theturingpost_alexnet-introduced-by-alex-krizhevsky-ilya-activity-7200209037320175618-lFU8/)
+
+
+
   <!-- <details> <summary>  <h4>  OpenCV Courses </h4> </summary>
   </details> --->
 
@@ -667,7 +699,13 @@ The ethical concerns around use of online images for training AI Models. Since t
 In my research online, I found that it might be fine to takeup such a pursuit for purely educational, research and non-commercial purposes: under **fair use**. Given that the book is already accessible the public domain on the Internet Archive.
 
 <details> <summary> Literature Review 07: AI and Ethics around use of images for training AI models </summary>
-  
+
+  * GEOFFREY HINTON: THE GODFATHER OF AI RAISES CONCERNS OVER AI & REGULATION
+    * Geoffrey Hinton talking about the need for regulation around AI | May 2023
+      * ['Godfather of AI' warns that AI may figure out how to kill people - YouTube](https://www.youtube.com/watch?v=FAbsoxQtUwM)
+    * An interesting overview about the difference in the ways of learning for Digital (ChatGPT, etc) and Biological Systems (Humans) by Geoffrey Hinton
+      * [AI 'godfather' quits Google over dangers of Artificial Intelligence - BBC News - YouTube](https://www.youtube.com/watch?v=DsBGaHywRhs)
+
   * SET 1
     * [Identifying American furniture : a pictorial guide to styles and terms, Colonial to contemporary : Naeve, Milo M : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/identifyingameri00milo/page/96/mode/2up)
     * [Identifying American furniture : a pictorial guide to styles and terms, Colonial to contemporary | WorldCat.org](https://search.worldcat.org/title/39883858)

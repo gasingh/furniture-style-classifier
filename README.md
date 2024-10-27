@@ -540,6 +540,20 @@ PyTorch could be a possible framework to build such a classifier.
   * [Introduction to Machine Learning in Python - Eugene Klyshko](https://klyshko.github.io/teaching/2019-03-15-teaching)
   * Nicely introduces PCA, MDS, and other dimensionality reduction techniques
 
+  **MACHINE LEARNING FOR 3D DATA | Minhyuk Sung, KAIST, Fall 2023**
+  * This course is intended for undergraduate/master students who have a basic background in deep learning and experience with PyTorch.
+  * [niloy mitra lecture - Google Search](https://www.google.com/search?q=niloy+mitra+lecture&rlz=1C1GCEB_enGB1045GB1045&oq=niloy+mitra+lecture&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDUxMjRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8)
+  * [Niloy J. Mitra - CS479 Machine Learning for 3D Data (KAIST, Fall 2023)](https://mhsung.github.io/kaist-cs479-fall-2023/guest-lecture-niloy-mitra/)
+  * [CS479 Machine Learning for 3D Data (KAIST, Fall 2023)](https://mhsung.github.io/kaist-cs479-fall-2023/#paper-list)
+  * [KAIST CS479 Machine Learning for 3D Data (Fall 2023) - YouTube](https://www.youtube.com/playlist?list=PLyi5FHzX7hBzv6p_USmzLvL8TBKWljOph)
+  * [Minhyuk Sung](https://mhsung.github.io/)
+  * [KAIST Visual AI Group](https://visualai.kaist.ac.kr/)
+  * [Join Us - KAIST Visual AI Group](https://visualai.kaist.ac.kr/join_us/)
+  * 21:20 27/10/2024
+
+  ** **
+  * 
+
   <!-- <details> <summary>  <h4>  OpenCV Courses </h4> </summary>
   </details> --->
 

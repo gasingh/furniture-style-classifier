@@ -566,7 +566,7 @@ PyTorch could be a possible framework to build such a classifier.
   * [About CS50 - YouTube](https://www.youtube.com/playlist?list=PLhQjrBD2T383fY1U-lgxye2GeZg80zds5)
   * [CS50's Introduction to Artificial Intelligence with Python 2023 - YouTube](https://www.youtube.com/playlist?list=PLhQjrBD2T381PopUTYtMSstgk-hsTGkVm)
 
-  **LEX FRIDMAN: 3 Lectures (with Slides, Tutorials & References) on Deep Learning | 2020**
+  **LEX FRIDMAN: 3 Lectures (with Slides, Tutorials & References) on Deep Learning | 2019**
   * [MIT Deep Learning Basics: Introduction and Overview with TensorFlow | by Lex Fridman | TensorFlow | Medium](https://medium.com/tensorflow/mit-deep-learning-basics-introduction-and-overview-with-tensorflow-355bcd26baf0)
   * [Deep Learning Basics: Introduction and Overview - YouTube](https://www.youtube.com/watch?v=O5xeyoRL95U)
   * [lexfridman/mit-deep-learning: Tutorials, assignments, and competitions for MIT Deep Learning related courses.](https://github.com/lexfridman/mit-deep-learning?tab=readme-ov-file)

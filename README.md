@@ -566,7 +566,23 @@ PyTorch could be a possible framework to build such a classifier.
   * [About CS50 - YouTube](https://www.youtube.com/playlist?list=PLhQjrBD2T383fY1U-lgxye2GeZg80zds5)
   * [CS50's Introduction to Artificial Intelligence with Python 2023 - YouTube](https://www.youtube.com/playlist?list=PLhQjrBD2T381PopUTYtMSstgk-hsTGkVm)
 
-
+  **LEX FRIDMAN: 3 Lectures (with Slides, Tutorials & References) on Deep Learning | 2020**
+  * [MIT Deep Learning Basics: Introduction and Overview with TensorFlow | by Lex Fridman | TensorFlow | Medium](https://medium.com/tensorflow/mit-deep-learning-basics-introduction-and-overview-with-tensorflow-355bcd26baf0)
+  * [Deep Learning Basics: Introduction and Overview - YouTube](https://www.youtube.com/watch?v=O5xeyoRL95U)
+  * [lexfridman/mit-deep-learning: Tutorials, assignments, and competitions for MIT Deep Learning related courses.](https://github.com/lexfridman/mit-deep-learning?tab=readme-ov-file)
+  * [tutorial_deep_learning_basics.ipynb - Colab](https://colab.research.google.com/github/lexfridman/mit-deep-learning/blob/master/tutorial_deep_learning_basics/deep_learning_basics.ipynb)
+  * [deep_learning_basics.pdf](https://www.dropbox.com/scl/fi/k578ovlmj8ccpipa6y06k/deep_learning_basics.pdf?rlkey=m1sxy500zt5hf3zvszu5e3zlo&e=1&dl=0)
+  *
+  * [Deep Learning State of the Art (2020) - YouTube](https://www.youtube.com/watch?v=0VH1Lim8gL8&list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf)
+  * [2020_01_06_deep_learning_state_of_the_art.pdf](https://lexfridman.com/files/slides/2020_01_06_deep_learning_state_of_the_art.pdf)
+  * [References: Deep Learning State of the Art (2020) - Google Sheets](https://docs.google.com/spreadsheets/d/1fG-K0MwoQ4y0p_9bpMsF1ERlBMbmgtqW06nbMgtIX20/edit?folder=0ABm40ig4NWpDUk9PVA&gid=0#gid=0)
+  * 
+  * [MIT 6.S091: Introduction to Deep Reinforcement Learning (Deep RL) - YouTube](https://www.youtube.com/watch?v=zR11FLZ-O9M&list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf)
+  * [lexfridman/mit-deep-learning: Tutorials, assignments, and competitions for MIT Deep Learning related courses.](https://github.com/lexfridman/mit-deep-learning)
+  * [deep_rl_intro.pdf](https://www.dropbox.com/scl/fi/9ckuwbd8mdb4fv8vb4tvx/deep_rl_intro.pdf?rlkey=rs59gvu1tqpddj8y5p9l7jt53&e=1&dl=0)
+  *
+  * [MIT Deep Learning and Artificial Intelligence Lectures | Lex Fridman](https://deeplearning.mit.edu/)
+  * 21:38 27/10/2024
 
   ** **
   * 

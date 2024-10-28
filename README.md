@@ -708,6 +708,8 @@ In my research online, I found that it might be fine to takeup such a pursuit fo
       * [AI 'godfather' quits Google over dangers of Artificial Intelligence - BBC News - YouTube](https://www.youtube.com/watch?v=DsBGaHywRhs)
     * Geoffrey Hinton talks about the power of the Hive Mind (timestamped clip link)
       * [The Godfather in Conversation: Why Geoffrey Hinton is worried about the future of AI - YouTube](https://youtu.be/-9cW4Gcn5WY?t=2004)
+    * A polite, fun-filled, and very informative talk with Geoffrey Hinton about the potential dangers of AI and Deep Learning.
+      * [Possible End of Humanity from AI? Geoffrey Hinton at MIT Technology Review's EmTech Digital - YouTube](https://www.youtube.com/watch?v=sitHS6UDMJc) 
 
   * SET 1
     * [Identifying American furniture : a pictorial guide to styles and terms, Colonial to contemporary : Naeve, Milo M : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/identifyingameri00milo/page/96/mode/2up)

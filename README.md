@@ -709,7 +709,9 @@ In my research online, I found that it might be fine to takeup such a pursuit fo
     * Geoffrey Hinton talks about the power of the Hive Mind (timestamped clip link)
       * [The Godfather in Conversation: Why Geoffrey Hinton is worried about the future of AI - YouTube](https://youtu.be/-9cW4Gcn5WY?t=2004)
     * A polite, fun-filled, and very informative talk with Geoffrey Hinton about the potential dangers of AI and Deep Learning.
-      * [Possible End of Humanity from AI? Geoffrey Hinton at MIT Technology Review's EmTech Digital - YouTube](https://www.youtube.com/watch?v=sitHS6UDMJc) 
+      * [Possible End of Humanity from AI? Geoffrey Hinton at MIT Technology Review's EmTech Digital - YouTube](https://www.youtube.com/watch?v=sitHS6UDMJc)
+    * [Geoffrey Hinton tells us why he’s now scared of the tech he helped build | MIT Technology Review](https://www.technologyreview.com/2023/05/02/1072528/geoffrey-hinton-google-why-scared-ai/)
+
 
   * SET 1
     * [Identifying American furniture : a pictorial guide to styles and terms, Colonial to contemporary : Naeve, Milo M : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/identifyingameri00milo/page/96/mode/2up)

@@ -466,7 +466,7 @@ _04:16 14/10/2024_ <br>
 
 PyTorch could be a possible framework to build such a classifier.
 
-<details> <summary> Learning Resources for PyTorch </summary>
+<details> <summary> Learning Resources for PyTorch & Basic Machine Learning!</summary>
   <br>
 
   _SECTION 1: Here a collection of nice links for learning PyTorch!_
@@ -573,6 +573,9 @@ PyTorch could be a possible framework to build such a classifier.
   *
   * [MIT Deep Learning and Artificial Intelligence Lectures | Lex Fridman](https://deeplearning.mit.edu/)
   * 21:38 27/10/2024
+
+  **DANIEL SCHIFFMANN MACHINE LEARNING IN A FUN WAY!** 
+  * [A Beginner's Guide to Machine Learning in JavaScript with ml5.js / The Coding Train](https://thecodingtrain.com/tracks/ml5js-beginners-guide)
   
   _SECTION 2: Here are some links for 3D Deep Learning!!_
   

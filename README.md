@@ -576,7 +576,12 @@ PyTorch could be a possible framework to build such a classifier.
 
   **DANIEL SCHIFFMANN MACHINE LEARNING IN A FUN WAY!** 
   * [A Beginner's Guide to Machine Learning in JavaScript with ml5.js / The Coding Train](https://thecodingtrain.com/tracks/ml5js-beginners-guide)
-  
+  * Learning Resources: 
+    * [NOC-S17-2-Intelligence-Learning/week3-classification-regression at master · nature-of-code/NOC-S17-2-Intelligence-Learning · GitHub](https://github.com/nature-of-code/NOC-S17-2-Intelligence-Learning/tree/master/week3-classification-regression)
+    * [Machine Learning for Musicians and Artists - an Online Machine Art Course at Kadenze](https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists-v/info)
+    * [An Introduction to Statistical Learning](https://www.statlearning.com/)
+    * [hastie.su.domains/ISLP/ISLP_website.pdf.download.html](https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html)
+    
   _SECTION 2: Here are some links for 3D Deep Learning!!_
   
   **MACHINE LEARNING FOR 3D DATA | Minhyuk Sung, KAIST, Fall 2023**

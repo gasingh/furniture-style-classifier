@@ -718,6 +718,18 @@ I found a few datasources online:
   * [PAPER: Using deep learning techniques furniture image classification](https://dergipark.org.tr/en/download/article-file/3213124)
   * [images (222×227)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAu6OwLvGLx0UjaiRky3emar3_qR2GL7KVFQ&s)
 
+
+**FURNITURE IMAGE DATASETS FOR A CNN**
+* [furniture image datasets CNN - Google Search](https://www.google.com/search?sca_esv=159f37a1251190f9&rlz=1C1GCEB_enGB1045GB1045&sxsrf=ADLYWIIDjGBapB1k5x593zQx8hzCww-W_A:1728386946398&q=furniture+image+datasets+CNN&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J_86uWOeqwdnV0yaSF-x2jon2iao6KWCaVjfn7ahz_sfz4kQc-hbvsXJ2gNx0RnV2nl305mvoek0YK94ylYY2a4b3Q-OEwW5lKppi2wujywZWmdIJVp8wrsv_g-eh5sWEDXx8JNpgmjsiKj2mZMvftPlZJZz&sa=X&ved=2ahUKEwiCzeWP1_6IAxX4ZEEAHXaTBFwQtKgLegQIFRAB&biw=1383&bih=747&dpr=2.5#vhid=5w9ICX1FgLdT9M&vssid=mosaic)
+* [Learning Style Compatibility for Furniture | SpringerLink](https://link.springer.com/chapter/10.1007/978-3-030-12939-2_38)
+* [480455_1_En_38_Fig3_HTML.png (685×397)](https://media.springernature.com/lw685/springer-static/image/chp%3A10.1007%2F978-3-030-12939-2_38/MediaObjects/480455_1_En_38_Fig3_HTML.png)
+* [Visual Classification of Furniture Styles | Semantic Scholar](https://www.semanticscholar.org/paper/Visual-Classification-of-Furniture-Styles-Hu-Wen/9241b103b76a3bdae157038b71783d7d372c71e9)
+* [3D-FUTURE: 3D Furniture Shape with TextURE | International Journal of Computer Vision](https://link.springer.com/article/10.1007/s11263-021-01534-z)
+* [Furniture Image Dataset](https://www.kaggle.com/datasets/udaysankarmukherjee/furniture-image-dataset)
+* <mark>[Image Similarity using CNN feature embeddings | by fareid | Medium](https://medium.com/@f.a.reid/image-similarity-using-feature-embeddings-357dc01514f8) </mark>
+* <img src= "https://github.com/gasingh/furniture-style-classifier/blob/main/Furniture%20Image%20Dataset_kaggleImg_2-Figure1-1.png" width = "300">
+* <mark>[Image Similarity using CNN feature embeddings | by fareid | Medium](https://medium.com/@f.a.reid/image-similarity-using-feature-embeddings-357dc01514f8) </mark>
+* <img src= "https://github.com/gasingh/furniture-style-classifier/blob/main/Image%20Similarity%20using%20CNN%20feature%20embeddings_Miro_1_vta7qTjjgGiWuGWmQ0JpVA.webp" width = "300">
 </details>
 
 

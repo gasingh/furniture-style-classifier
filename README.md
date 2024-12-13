@@ -54,7 +54,7 @@ I was wandering around in the streets of London, and stumbled across a book outs
   <img src = "https://github.com/gasingh/furniture-style-classifier/blob/main/Screenshot_20241007_005720.jpg" width= "300"> <img src = "https://github.com/gasingh/furniture-style-classifier/blob/main/Screenshot_20241007_005734.jpg" width= "300"> <img src = "https://github.com/gasingh/furniture-style-classifier/blob/main/Screenshot_20241007_005837.jpg" width= "300"> <br>
 </p>
 
-(_* Above 5 Photographs taken by the author_).
+(_above 5 Photographs taken by the author_).
 
 ## Aim of the Project
 

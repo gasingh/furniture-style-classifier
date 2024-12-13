@@ -32,6 +32,9 @@ The "Furniture Sytle Classifier" project is documented as a self-initiated knowl
 | | | | 
 |E | [Frameworks](https://github.com/gasingh/furniture-style-classifier/edit/main/README.md#frameworks)   | _Research into relevant training, courses, and framework documentations & intros_    |
 | | _Learning Resources for PyTorch & Basic Machine Learning!_ | | 
+| | | _SECTION 1: Here a collection of nice links for learning PyTorch!_ |
+| | | _SECTION 2: Here are some links for Deep Learning!!_ | 
+| | | _SECTION 3: Here are some links for 3D Deep Learning!!_ | 
 |F | [Data sources: AI training datasets (digital)](https://github.com/gasingh/furniture-style-classifier/edit/main/README.md#data-sources-ai-training-datasets-digital)   | _AI Training Sets available Online_        |
 | | _Literature Review 06: AI Training Datasets Online_ | | 
 |G | [Data sources: Stylization references (analog)](https://github.com/gasingh/furniture-style-classifier/edit/main/README.md#data-sources-stylization-references-analog) | Text        |
@@ -540,6 +543,8 @@ PyTorch could be a possible framework to build such a classifier.
   * [VIDEO: Machine Learning with PyTorch[Video]](https://www.oreilly.com/videos/machine-learning-with/9780135627105/)
   * [CODE: DavidMertz/PyTorch-webinar: Machine Learning with PyTorch tutorials (for Pearson)](https://github.com/DavidMertz/PyTorch-webinar?tab=readme-ov-file)
 
+  _SECTION 2: Here are some links for Deep Learning!!_
+
   **UCL DEEP LEARNING LECTURE SERIES BY GOOGLE DEEPMIND LONDON**
   * [DeepMind x UCL | Deep Learning Lecture Series 2020 - YouTube](https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF)
 
@@ -651,7 +656,7 @@ PyTorch could be a possible framework to build such a classifier.
   * [#23 Machine Learning Specialization [Course 1, Week 2, Lesson 1] - YouTube](https://www.youtube.com/watch?v=uvTL1N02f04&list=PLkDaE6sCZn6FNC6YRfRQc_FbeQrF8BwGI&index=24)
 
     
-  _SECTION 2: Here are some links for 3D Deep Learning!!_
+  _SECTION 3: Here are some links for 3D Deep Learning!!_
   
   **MACHINE LEARNING FOR 3D DATA | Minhyuk Sung, KAIST, Fall 2023**
   * This course is intended for undergraduate/master students who have a basic background in deep learning and experience with PyTorch.

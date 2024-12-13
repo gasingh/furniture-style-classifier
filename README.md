@@ -1,38 +1,44 @@
 # Furniture Style Classifier
 Final project for the Building AI course
 
+<img src="https://github.com/gasingh/furniture-style-classifier/blob/main/project_cover_image.JPG" alt="project_cover_img" width="1000">
+
 <!-- .......................................................................... TOC 
 --->
 
-<details> <summary> <mark> <i>Table of Contents</i> </mark> </summary>
+___
 
-The project is documented as a self-initiated knowledge reearch around the topic of image-based CNNs. The documentation is compiled in snippets over the course of two months, evolving into the current format. Each Section is supported with a "Literature Review" which delves deep into the relevant topic. 
+<details> <summary> <i>Table of Contents</i> </summary>
+<br>
+The "Furniture Sytle Classifier" project is documented as a self-initiated knowledge reearch around the topic of image-based CNNs. The documentation is compiled in snippets over the course of two months, evolving into the current format. Each "Section" is supported with a "Literature Review" which delves deep into the relevant topic. 
+  <br> <br>
 
 | | Section     | Description |
-|---| ----------- | ----------- |
-|1 | [Story & Motivation](https://github.com/gasingh/furniture-style-classifier/edit/main/README.md#story-and-motivation)      | My personal story & how i got intrigued!       |
-|2 | [Project Aim](https://github.com/gasingh/furniture-style-classifier/edit/main/README.md#aim-of-the-project)   | formal project direction       |
-|3 | [How is it used?](https://github.com/gasingh/furniture-style-classifier/edit/main/README.md#how-is-it-used)  | Uses of the tool        |
-|4 | [AI methods: Skills, Knowledge Acquisition and Learning](https://github.com/gasingh/furniture-style-classifier/edit/main/README.md#ai-methods-skills-knowledge-acquisition-and-learning)| Learning Section: how i can accomplish this endeavour   |
+|---| :----------- | :----------- |
+|1 | [Story & Motivation](https://github.com/gasingh/furniture-style-classifier/edit/main/README.md#story-and-motivation)      | _My personal story & how I got intrigued!_       |
+|2 | [Project Aim](https://github.com/gasingh/furniture-style-classifier/edit/main/README.md#aim-of-the-project)   | _Formal project direction_       |
+|3 | [How is it used?](https://github.com/gasingh/furniture-style-classifier/edit/main/README.md#how-is-it-used)  | _Uses of the AI tool_        |
+|4 | [AI methods: Skills, Knowledge Acquisition and Learning](https://github.com/gasingh/furniture-style-classifier/edit/main/README.md#ai-methods-skills-knowledge-acquisition-and-learning)| _Learning Section: how I can accomplish this endeavour_   |
 | | _Literature Review 01: Understanding CNNs_ | | 
 | | _Literature Review 02: CNN Classification & Logic_ | | 
 | | _Literature Review 03: CNN Code Samples and Mathematics Explained_ | | 
 | | _Literature Review 04: CNN Details and various mathematical data extraction layers of the algorithm_ | |
 | | _Literature Review 05 EXTRAs_ | | 
-|5 | [Frameworks](https://github.com/gasingh/furniture-style-classifier/edit/main/README.md#frameworks)   | Research into relevant training, courses, and framework documentations & intros.    |
+|5 | [Frameworks](https://github.com/gasingh/furniture-style-classifier/edit/main/README.md#frameworks)   | _Research into relevant training, courses, and framework documentations & intros_    |
 | | _Learning Resources for PyTorch & Basic Machine Learning!_ | | 
-|6 | [Data sources: AI training datasets (digital)](https://github.com/gasingh/furniture-style-classifier/edit/main/README.md#data-sources-ai-training-datasets-digital)   | AI Training Sets available Online        |
+|6 | [Data sources: AI training datasets (digital)](https://github.com/gasingh/furniture-style-classifier/edit/main/README.md#data-sources-ai-training-datasets-digital)   | _AI Training Sets available Online_        |
 | | _Literature Review 06: AI Training Datasets Online_ | | 
 |7 | [Data sources: Stylization references (analog)](https://github.com/gasingh/furniture-style-classifier/edit/main/README.md#data-sources-stylization-references-analog) | Text        |
-| | Literature Review 07: Stylization References | |  
-|8 | [AI & Ethics](https://github.com/gasingh/furniture-style-classifier/edit/main/README.md#ai--ethics)   | Text        |
+| | _Literature Review 07: Stylization References_ | |  
+|8 | [AI & Ethics](https://github.com/gasingh/furniture-style-classifier/edit/main/README.md#ai--ethics)   | _I investigated the sensetivity around the use of copyrighted data for training AIs such as CNNs_  |
 | | _Literature Review 08: AI and Ethics around use of images for training AI models_ | | 
-|9 | [Limitations](https://github.com/gasingh/furniture-style-classifier/edit/main/README.md#limitations)   | Text        |
+|9 | [Limitations](https://github.com/gasingh/furniture-style-classifier/edit/main/README.md#limitations)   | _Limitations of CNNs_        |
 |10 | [What Next](https://github.com/gasingh/furniture-style-classifier/edit/main/README.md#what-next) | _future direction potential_ | 
 </details>
 
+___
 
-<img src="https://github.com/gasingh/furniture-style-classifier/blob/main/project_cover_image.JPG" alt="project_cover_img" width="1000">
+
 
 
 ## Story and Motivation

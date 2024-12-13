@@ -15,25 +15,25 @@ The "Furniture Sytle Classifier" project is documented as a self-initiated knowl
 
 | | Section     | Description |
 |---| :----------- | :----------- |
-|1 | [Story & Motivation](https://github.com/gasingh/furniture-style-classifier/edit/main/README.md#story-and-motivation)      | _My personal story & how I got intrigued!_       |
-|2 | [Project Aim](https://github.com/gasingh/furniture-style-classifier/edit/main/README.md#aim-of-the-project)   | _Formal project direction_       |
-|3 | [How is it used?](https://github.com/gasingh/furniture-style-classifier/edit/main/README.md#how-is-it-used)  | _Uses of the AI tool_        |
-|4 | [AI methods: Skills, Knowledge Acquisition and Learning](https://github.com/gasingh/furniture-style-classifier/edit/main/README.md#ai-methods-skills-knowledge-acquisition-and-learning)| _Learning Section: how I can accomplish this endeavour_   |
+|A | [Story & Motivation](https://github.com/gasingh/furniture-style-classifier/edit/main/README.md#story-and-motivation)      | _My personal story & how I got intrigued!_       |
+|B | [Project Aim](https://github.com/gasingh/furniture-style-classifier/edit/main/README.md#aim-of-the-project)   | _Formal project direction_       |
+|C | [How is it used?](https://github.com/gasingh/furniture-style-classifier/edit/main/README.md#how-is-it-used)  | _Uses of the AI tool_        |
+|D | [AI methods: Skills, Knowledge Acquisition and Learning](https://github.com/gasingh/furniture-style-classifier/edit/main/README.md#ai-methods-skills-knowledge-acquisition-and-learning)| _Learning Section: how I can accomplish this endeavour_   |
 | | _Literature Review 01: Understanding CNNs_ | | 
 | | _Literature Review 02: CNN Classification & Logic_ | | 
 | | _Literature Review 03: CNN Code Samples and Mathematics Explained_ | | 
 | | _Literature Review 04: CNN Details and various mathematical data extraction layers of the algorithm_ | |
 | | _Literature Review 05 EXTRAs_ | | 
-|5 | [Frameworks](https://github.com/gasingh/furniture-style-classifier/edit/main/README.md#frameworks)   | _Research into relevant training, courses, and framework documentations & intros_    |
+|E | [Frameworks](https://github.com/gasingh/furniture-style-classifier/edit/main/README.md#frameworks)   | _Research into relevant training, courses, and framework documentations & intros_    |
 | | _Learning Resources for PyTorch & Basic Machine Learning!_ | | 
-|6 | [Data sources: AI training datasets (digital)](https://github.com/gasingh/furniture-style-classifier/edit/main/README.md#data-sources-ai-training-datasets-digital)   | _AI Training Sets available Online_        |
+|F | [Data sources: AI training datasets (digital)](https://github.com/gasingh/furniture-style-classifier/edit/main/README.md#data-sources-ai-training-datasets-digital)   | _AI Training Sets available Online_        |
 | | _Literature Review 06: AI Training Datasets Online_ | | 
-|7 | [Data sources: Stylization references (analog)](https://github.com/gasingh/furniture-style-classifier/edit/main/README.md#data-sources-stylization-references-analog) | Text        |
+|G | [Data sources: Stylization references (analog)](https://github.com/gasingh/furniture-style-classifier/edit/main/README.md#data-sources-stylization-references-analog) | Text        |
 | | _Literature Review 07: Stylization References_ | |  
-|8 | [AI & Ethics](https://github.com/gasingh/furniture-style-classifier/edit/main/README.md#ai--ethics)   | _I investigated the sensetivity around the use of copyrighted data for training AIs such as CNNs_  |
+|H | [AI & Ethics](https://github.com/gasingh/furniture-style-classifier/edit/main/README.md#ai--ethics)   | _I investigated the sensetivity around the use of copyrighted data for training AIs such as CNNs_  |
 | | _Literature Review 08: AI and Ethics around use of images for training AI models_ | | 
-|9 | [Limitations](https://github.com/gasingh/furniture-style-classifier/edit/main/README.md#limitations)   | _Limitations of CNNs_        |
-|10 | [What Next](https://github.com/gasingh/furniture-style-classifier/edit/main/README.md#what-next) | _future direction potential_ | 
+|I | [Limitations](https://github.com/gasingh/furniture-style-classifier/edit/main/README.md#limitations)   | _Limitations of CNNs_        |
+|J | [What Next](https://github.com/gasingh/furniture-style-classifier/edit/main/README.md#what-next) | _future direction potential_ | 
 </details>
 
 ___
@@ -54,7 +54,7 @@ I was wandering around in the streets of London, and stumbled across a book outs
   <img src = "https://github.com/gasingh/furniture-style-classifier/blob/main/Screenshot_20241007_005720.jpg" width= "300"> <img src = "https://github.com/gasingh/furniture-style-classifier/blob/main/Screenshot_20241007_005734.jpg" width= "300"> <img src = "https://github.com/gasingh/furniture-style-classifier/blob/main/Screenshot_20241007_005837.jpg" width= "300"> <br>
 </p>
 
-(_Above 5 Photographs taken by the author_).
+(_* Above 5 Photographs taken by the author_).
 
 ## Aim of the Project
 
@@ -85,22 +85,25 @@ Below are two images illustraing the intent of the exercise. The first image bel
 
 <p align="center" width="100%">
   <br> <b> <i> THE PREMISE: AN AI (MACHINE LEARNING MODEL) INSTEAD OF A "TRAINED" HUMAN EXPERT </i> </b> <br> <br>
-  <img src= "https://www.shutterstock.com/image-vector/machine-vs-human-difference-between-600nw-2121658835.jpg" width = "300"> <br> 
-  <i> a1. The theorerical premise: an AI system vs a human expert teaching a system to classify </i> <br>
-  <img src= "https://raw.githubusercontent.com/gasingh/furniture-style-classifier/refs/heads/main/Research-overview-deep-learning-based-interior-design-style-detection-for-design_%5BStochastic%20Detection%20of%20Interior%20Design%20Styles%20Using%20a%20Deep-Learning%20Model%20for%20Re%5D.png" width = "500"> <br>
-  <i> a2. Interpretations of an AI versus a Human towards world perception </i> <br>
+  <kbd> <img src= "https://www.shutterstock.com/image-vector/machine-vs-human-difference-between-600nw-2121658835.jpg" width = "500"> </kbd> <br>  
+  <i> a1. The theorerical premise: an AI system vs a human expert teaching a system to classify </i> <br> <br>
+  <kbd> <img src= "https://raw.githubusercontent.com/gasingh/furniture-style-classifier/refs/heads/main/Research-overview-deep-learning-based-interior-design-style-detection-for-design_%5BStochastic%20Detection%20of%20Interior%20Design%20Styles%20Using%20a%20Deep-Learning%20Model%20for%20Re%5D.png" width = "500"> </kbd>  <br> 
+  <i> a2. Interpretations of an AI versus a Human towards world perception </i> <br> <br>
+</p>
+
+<p align="center" width="100%">
   <br> <b> <i> THE GENERAL ARCHITECTURE OF A NEURAL NETWORK TO CLASSIFY IMAGES </i> </b> <br> <br>
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*XbuW8WuRrAY5pC4t-9DZAQ.jpeg" width="500"> <br>
+  <kbd> <img src="https://miro.medium.com/v2/resize:fit:1400/1*XbuW8WuRrAY5pC4t-9DZAQ.jpeg" width="500"> </kbd>  <br>
   <i> b. CNN to identify Cars!</i> <br>  
-  <img src= "https://developers.google.com/static/machine-learning/practica/image-classification/images/cnn_architecture.svg" width = "500" > <br>
+  <kbd> <img src= "https://developers.google.com/static/machine-learning/practica/image-classification/images/cnn_architecture.svg" width = "500" > </kbd> <br>
   <i> c. CNN to identify Cats! </i> <br>
-  <img src= "https://jaydevs.com/wp-content/uploads/2021/06/8.png" width = "500"> <br>
+  <kbd> <img src= "https://jaydevs.com/wp-content/uploads/2021/06/8.png" width = "500"> </kbd> <br>
   <i> <mark> d. CNN to identify a Chair! </mark> </i> <br>
-  <img src= "fruit classification using GoogleNet CNN_crop.jpg" width = "500"> <br>
+  <kbd> <img src= "fruit classification using GoogleNet CNN_crop.jpg" width = "500"> </kbd> <br>
   <i> e. CNN to identify Fruits! </i> <br>
-  <img src= "https://editor.analyticsvidhya.com/uploads/94787Convolutional-Neural-Network.jpeg" width = "500"> <br>
+  <kbd> <img src= "https://editor.analyticsvidhya.com/uploads/94787Convolutional-Neural-Network.jpeg" width = "500"> </kbd> <br>
   <i> f. CNN to identify Digits (MNIST)! </i> <br>
-  <img src= "https://goodboychan.github.io/images/CNN_MNIST.png" width = "500"> <br>
+  <kbd> <img src= "https://goodboychan.github.io/images/CNN_MNIST.png" width = "500"> </kbd> <br>
   <i> g. CNN to identify Digits (MNIST)! </i> <br>
 </p>
 

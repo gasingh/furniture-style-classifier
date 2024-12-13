@@ -1,8 +1,6 @@
 # Furniture Style Classifier
 Final project for the Building AI course
 
-<img src="https://github.com/gasingh/furniture-style-classifier/blob/main/project_cover_image.JPG" alt="project_cover_img" width="1000">
-
 <!-- .......................................................................... TOC 
 --->
 
@@ -31,10 +29,10 @@ The project is documented as a self-initiated knowledge reearch around the topic
 | | _Literature Review 08: AI and Ethics around use of images for training AI models_ | | 
 |9 | [Limitations](https://github.com/gasingh/furniture-style-classifier/edit/main/README.md#limitations)   | Text        |
 |10 | [What Next](https://github.com/gasingh/furniture-style-classifier/edit/main/README.md#what-next) | _future direction potential_ | 
-
-
 </details>
 
+
+<img src="https://github.com/gasingh/furniture-style-classifier/blob/main/project_cover_image.JPG" alt="project_cover_img" width="1000">
 
 
 ## Story and Motivation

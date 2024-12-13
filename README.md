@@ -644,6 +644,12 @@ PyTorch could be a possible framework to build such a classifier.
     * [The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition | SpringerLink](https://link.springer.com/book/10.1007/978-0-387-84858-7) by T. Hastie, R. Tibshirani, J Friedman | 2009
     * [Probabilistic Machine Learning](https://probml.github.io/pml-book/) by [Kevin Murphy](https://web.archive.org/web/20100131072248/http://people.cs.ubc.ca/~murphyk/) | 2012
   * 16:57 13/12/2024
+
+  **Machine Learning Specialization by Andrew NG | Deep Learning AI**
+  * [Machine Learning Specialization I Stanford Online](https://online.stanford.edu/courses/soe-ymls-machine-learning-specialization)
+  * [I finished Andrew NG's 2022 ML specialization on Coursera, what to do next? : r/learnmachinelearning](https://www.reddit.com/r/learnmachinelearning/comments/126d8lg/i_finished_andrew_ngs_2022_ml_specialization_on/)
+  * [#23 Machine Learning Specialization [Course 1, Week 2, Lesson 1] - YouTube](https://www.youtube.com/watch?v=uvTL1N02f04&list=PLkDaE6sCZn6FNC6YRfRQc_FbeQrF8BwGI&index=24)
+
     
   _SECTION 2: Here are some links for 3D Deep Learning!!_
   

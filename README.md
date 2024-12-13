@@ -3,6 +3,40 @@ Final project for the Building AI course
 
 <img src="https://github.com/gasingh/furniture-style-classifier/blob/main/project_cover_image.JPG" alt="project_cover_img" width="1000">
 
+<!-- .......................................................................... TOC 
+--->
+
+<details> <summary> <mark> <i>Table of Contents</i> </mark> </summary>
+
+The project is documented as a self-initiated knowledge reearch around the topic of image-based CNNs. The documentation is compiled in snippets over the course of two months, evolving into the current format. Each Section is supported with a "Literature Review" which delves deep into the relevant topic. 
+
+| | Section     | Description |
+|---| ----------- | ----------- |
+|1 | [Story & Motivation](https://github.com/gasingh/furniture-style-classifier/edit/main/README.md#story-and-motivation)      | My personal story & how i got intrigued!       |
+|2 | [Project Aim](https://github.com/gasingh/furniture-style-classifier/edit/main/README.md#aim-of-the-project)   | formal project direction       |
+|3 | [How is it used?](https://github.com/gasingh/furniture-style-classifier/edit/main/README.md#how-is-it-used)  | Uses of the tool        |
+|4 | [AI methods: Skills, Knowledge Acquisition and Learning](https://github.com/gasingh/furniture-style-classifier/edit/main/README.md#ai-methods-skills-knowledge-acquisition-and-learning)| Learning Section: how i can accomplish this endeavour   |
+| | _Literature Review 01: Understanding CNNs_ | | 
+| | _Literature Review 02: CNN Classification & Logic_ | | 
+| | _Literature Review 03: CNN Code Samples and Mathematics Explained_ | | 
+| | _Literature Review 04: CNN Details and various mathematical data extraction layers of the algorithm_ | |
+| | _Literature Review 05 EXTRAs_ | | 
+|5 | [Frameworks](https://github.com/gasingh/furniture-style-classifier/edit/main/README.md#frameworks)   | Research into relevant training, courses, and framework documentations & intros.    |
+| | _Learning Resources for PyTorch & Basic Machine Learning!_ | | 
+|6 | [Data sources: AI training datasets (digital)](https://github.com/gasingh/furniture-style-classifier/edit/main/README.md#data-sources-ai-training-datasets-digital)   | AI Training Sets available Online        |
+| | _Literature Review 06: AI Training Datasets Online_ | | 
+|7 | [Data sources: Stylization references (analog)](https://github.com/gasingh/furniture-style-classifier/edit/main/README.md#data-sources-stylization-references-analog) | Text        |
+| | Literature Review 07: Stylization References | |  
+|8 | [AI & Ethics](https://github.com/gasingh/furniture-style-classifier/edit/main/README.md#ai--ethics)   | Text        |
+| | _Literature Review 08: AI and Ethics around use of images for training AI models_ | | 
+|9 | [Limitations](https://github.com/gasingh/furniture-style-classifier/edit/main/README.md#limitations)   | Text        |
+|10 | [What Next](https://github.com/gasingh/furniture-style-classifier/edit/main/README.md#what-next) | _future direction potential_ | 
+
+
+</details>
+
+
+
 ## Story and Motivation
 The idea for the project emerged during a walk in London, during a weekend.
 
@@ -225,7 +259,7 @@ Below are 4 primary sections which assimilate some visual and textual searches a
     [CNN Architectures — LeNet, AlexNet, VGG, GoogLeNet and ResNet | by Prabhu Raghav | Medium](https://medium.com/@RaghavPrabhu/cnn-architectures-lenet-alexnet-vgg-googlenet-and-resnet-7c81c017b848) <br>
 </details>
 
-<details> <summary> Literature Review 04.0: CNN Details and various mathematical data extraction layers of the algorithm </summary>  
+<details> <summary> Literature Review 04: CNN Details and various mathematical data extraction layers of the algorithm </summary>  
 
 <br> **Google Search 04** : _pooling to reduce dimensions in CNN_
   <br>[pooling to reduce dimensions in CNN - Google Search](https://www.google.com/search?sca_esv=778fd8ccaca240ed&rlz=1C1GCEB_enGB1045GB1045&sxsrf=ADLYWILPtdUmBQRzcTnLjhp_uTU-VzsQLg:1728858943390&q=pooling+to+reduce+dimensions+in+CNN&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J_86uWOeqwdnV0yaSF-x2jon2iao6KWCaVjfn7ahz_sfz4kQc-hbvsXJ2gNx0RnV2nl305mvoek0YK94ylYY2a4b3Q-OEwW5lKppi2wujywZWmdIJVp8wrsv_g-eh5sWEDXx8JNpgmjsiKj2mZMvftPlZJZz&sa=X&ved=2ahUKEwik5L-5tYyJAxWq8LsIHd6UFVkQtKgLegQIFBAB&biw=1383&bih=747&dpr=2.5#vhid=BGrXRMr3gYeZXM&vssid=mosaic) <br>
@@ -279,7 +313,7 @@ Below are 4 primary sections which assimilate some visual and textual searches a
 
 </details>
 
-<details> <summary> <b> Literature Review 04 EXTRAs  </b> </summary>
+<details> <summary> <b> Literature Review 05 EXTRAs  </b> </summary>
 
 <details> <summary> <mark> Literature Review 04.1_EXTRAs: CNN Explainer & 2d Convolutions </mark> </summary>
 
@@ -661,7 +695,7 @@ The Idea is to be able to build an AI Model which can automatically learn to rec
 
 I found a few datasources online:
 
-<details> <summary> Literature Review 05: AI Training Datasets Online </summary>
+<details> <summary> Literature Review 06: AI Training Datasets Online </summary>
 <br>
   
   **VISUAL CLASSIFICATION OF FURNITURE STYLES**
@@ -678,7 +712,7 @@ I found a few datasources online:
 
 A few interesting webpages which talk about and illustrate various futniture styles.
 
-<details> <summary> Literature Review 06: Stylization References </summary>
+<details> <summary> Literature Review 07: Stylization References </summary>
 
 * 1. Classifying Wardrobes
     <br><img src="https://i.pinimg.com/736x/4b/b6/42/4bb6427371d007215fd60268b71972a0.jpg" height="300"> <br>
@@ -707,7 +741,7 @@ The ethical concerns around use of online images for training AI Models. Since t
 
 In my research online, I found that it might be fine to takeup such a pursuit for purely educational, research and non-commercial purposes: under **fair use**. Given that the book is already accessible the public domain on the Internet Archive.
 
-<details> <summary> Literature Review 07: AI and Ethics around use of images for training AI models </summary>
+<details> <summary> Literature Review 08: AI and Ethics around use of images for training AI models </summary>
 
   * GEOFFREY HINTON: THE GODFATHER OF AI RAISES CONCERNS OVER AI & REGULATION
     * Geoffrey Hinton talking about the need for regulation around AI | May 2023
@@ -769,6 +803,8 @@ _Can this project grow and become something even more?_
   * [Learning to Generate Chairs With Convolutional Neural Networks](https://openaccess.thecvf.com/content_cvpr_2015/papers/Dosovitskiy_Learning_to_Generate_2015_CVPR_paper.pdf)
 
 
+<!-- 
+--->
 
 <!-- 
 ## Frameworks

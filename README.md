@@ -84,7 +84,7 @@ I would need to learn how to classify images using a **CNN**. I have learned tha
 Below are two images illustraing the intent of the exercise. The first image below illustrates a Convolutional Neural Network Algorithm for identifying a piece of furniture, and the second image illustrates how a machine learning approach differs from a traditional human expert centered workflow in identification of visual styles. 
 
 <p align="center" width="100%">
-  <br> <b> <i> THE PREMISE: AN AI (MACHINE LEARNING MODEL) INSTEAD OF A "TRAINED" HUMAN EXPERT </i> </b> <br> <br>
+  <br> <b> <i> THE PREMISE: An AI (Machine Learning Model) instead of a "Trained" Human Expert </i> </b> <br> <br>
   <kbd> <img src= "https://www.shutterstock.com/image-vector/machine-vs-human-difference-between-600nw-2121658835.jpg" width = "500"> </kbd> <br>  
   <i> a1. The theorerical premise: an AI system vs a human expert teaching a system to classify </i> <br> <br>
   <kbd> <img src= "https://raw.githubusercontent.com/gasingh/furniture-style-classifier/refs/heads/main/Research-overview-deep-learning-based-interior-design-style-detection-for-design_%5BStochastic%20Detection%20of%20Interior%20Design%20Styles%20Using%20a%20Deep-Learning%20Model%20for%20Re%5D.png" width = "500"> </kbd>  <br> 

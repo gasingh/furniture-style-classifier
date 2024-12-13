@@ -746,6 +746,19 @@ I found a few datasources online:
 * <img src= "https://github.com/gasingh/furniture-style-classifier/blob/main/Furniture%20Image%20Dataset_kaggleImg_2-Figure1-1.png" width = "300">
 * <mark>[Image Similarity using CNN feature embeddings | by fareid | Medium](https://medium.com/@f.a.reid/image-similarity-using-feature-embeddings-357dc01514f8) </mark>
 * <img src= "https://github.com/gasingh/furniture-style-classifier/blob/main/Image%20Similarity%20using%20CNN%20feature%20embeddings_Miro_1_vta7qTjjgGiWuGWmQ0JpVA.webp" width = "300">
+
+**CODE BASED SEARCHES FOR GETTING STARTED**
+* [cnn classification furniture image set - Google Search](https://www.google.com/search?q=cnn+classification+furniture+image+set&sca_esv=d3fd7bf69afff209&rlz=1C1GCEB_enGB1045GB1045&sxsrf=ADLYWILBNQgQudBn2cFnIadyEU02nrPfBw:1728604483090&ei=Q2kIZ72dBcfVi-gPjPqP2Aw&start=20&sa=N&sstk=Aagrsui6WdMsDwEziDiZD4mIfwZ5MF0UOtkPfcrAKzWosterbPwJuDr54W-8GiPyiUHF5a2ocZlsJt1LX5iQpqt6gM0uKo62getw6sXl544RdK-4iZbOLdSBJZqlOmCjhnnM&ved=2ahUKEwj9yq_BgYWJAxXH6gIHHQz9A8s4ChDw0wN6BAgEEBc&biw=1383&bih=747&dpr=2.5)
+  * <mark> [APPROACH TO THE EXTRACTION OF DESIGN FEATURES OF INTERIOR DESIGN ELEMENTS USING IMAGE RECOGNITION TECHNIQUE | caadria2018_314.pdf](https://papers.cumincad.org/data/works/att/caadria2018_314.pdf)  </mark>
+  * [Furniture Image Classification Based on Depthwise Group Over-Parameterized Convolution](https://www.mdpi.com/2079-9292/11/23/3889)
+  * <mark> [Object Classification in Images of Neoclassical Furniture Using Deep Learning](https://inria.hal.science/hal-01616309/document) </mark>
+  * [Furniture Image Classification - v 1 2024-05-03 12:06am > Images](https://universe.roboflow.com/ai-project-phaei/furniture-image-classification/dataset/1/images/?split=test&predictions=true)
+* [pytorch furniture classification - Google Search](https://www.google.com/search?q=pytorch+furniture+classification&rlz=1C1GCEB_enGB1045GB1045&oq=pytorch+furniture+classification+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTEwMzA3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8)
+  * <mark> [plasmon360/Furniture-Style-Classifier: Pytorch based Furniture Style Classifier](https://github.com/plasmon360/Furniture-Style-Classifier) </mark> 
+  * [furniture-classification/classifier.py at master · kislayaranjan/furniture-classification](https://github.com/kislayaranjan/furniture-classification/blob/master/classifier.py)
+  * [Furniture Identification | Kaggle](https://www.kaggle.com/c/day-3-kaggle-competition/overview/description)
+
+
 </details>
 
 

@@ -19,11 +19,17 @@ The "Furniture Sytle Classifier" project is documented as a self-initiated knowl
 |B | [Project Aim](https://github.com/gasingh/furniture-style-classifier/edit/main/README.md#aim-of-the-project)   | _Formal project direction_       |
 |C | [How is it used?](https://github.com/gasingh/furniture-style-classifier/edit/main/README.md#how-is-it-used)  | _Uses of the AI tool_        |
 |D | [AI methods: Skills, Knowledge Acquisition and Learning](https://github.com/gasingh/furniture-style-classifier/edit/main/README.md#ai-methods-skills-knowledge-acquisition-and-learning)| _Learning Section: how I can accomplish this endeavour_   |
+| | | | 
 | | _Literature Review 01: Understanding CNNs_ | | 
 | | _Literature Review 02: CNN Classification & Logic_ | | 
 | | _Literature Review 03: CNN Code Samples and Mathematics Explained_ | | 
 | | _Literature Review 04: CNN Details and various mathematical data extraction layers of the algorithm_ | |
-| | _Literature Review 05 EXTRAs_ | | 
+| | _Literature Review 04 EXTRAs_ | | 
+| | |  _Literature Review 04.1_EXTRAs: CNN Explainer & 2d Convolutions_ | 
+| | | _Literature Review 04.2_EXTRAs: Google Photos using CNNs & the ImageNet Competition and Paper by Google Research - 2012_ | 
+| | | _Literature Review 04.3_EXTRAs: An Excellent Paper on understanding the mathematics of a CNN - National Key Lab of Novel Software Technology, China - 2017_ | 
+| | | _Literature Review 04.4_EXTRAs: HISTORY MODULE: AlexNet and ImageNet: The Birth of Deep Learning - 2006_ |
+| | | | 
 |E | [Frameworks](https://github.com/gasingh/furniture-style-classifier/edit/main/README.md#frameworks)   | _Research into relevant training, courses, and framework documentations & intros_    |
 | | _Learning Resources for PyTorch & Basic Machine Learning!_ | | 
 |F | [Data sources: AI training datasets (digital)](https://github.com/gasingh/furniture-style-classifier/edit/main/README.md#data-sources-ai-training-datasets-digital)   | _AI Training Sets available Online_        |
@@ -320,7 +326,7 @@ Below are 4 primary sections which assimilate some visual and textual searches a
 
 </details>
 
-<details> <summary> <b> Literature Review 05 EXTRAs  </b> </summary>
+<details> <summary> <b> Literature Review 04 EXTRAs  </b> </summary>
 
 <details> <summary> <mark> Literature Review 04.1_EXTRAs: CNN Explainer & 2d Convolutions </mark> </summary>
 
@@ -437,7 +443,7 @@ _**Excellent Articles**_
 </details>
 
 
-<details> <summary> <mark>  Literature Review 05: HISTORY MODULE: AlexNet and ImageNet: The Birth of Deep Learning | 2006 </mark> </summary>
+<details> <summary> <mark>  Literature Review 04.4_EXTRAs: HISTORY MODULE: AlexNet and ImageNet: The Birth of Deep Learning | 2006 </mark> </summary>
 
   
 _**Some key dates in the birth and adoption of CNNs**_

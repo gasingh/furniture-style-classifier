@@ -35,6 +35,7 @@ The "Furniture Sytle Classifier" project is documented as a self-initiated knowl
 | | | _SECTION 1: Here a collection of nice links for learning PyTorch!_ |
 | | | _SECTION 2: Here are some links for Deep Learning!!_ | 
 | | | _SECTION 3: Here are some links for 3D Deep Learning!!_ | 
+| | | _SECTION 4: Object Recognition in Images_ | 
 |F | [Data sources: AI training datasets (digital)](https://github.com/gasingh/furniture-style-classifier/edit/main/README.md#data-sources-ai-training-datasets-digital)   | _AI Training Sets available Online_        |
 | | _Literature Review 06: AI Training Datasets Online_ | | 
 |G | [Data sources: Stylization references (analog)](https://github.com/gasingh/furniture-style-classifier/edit/main/README.md#data-sources-stylization-references-analog) | Text        |
@@ -519,7 +520,7 @@ PyTorch could be a possible framework to build such a classifier.
 <details> <summary> Learning Resources for PyTorch & Basic Machine Learning!</summary>
   <br>
 
-  _SECTION 1: Here a collection of nice links for learning PyTorch!_
+  <mark> _SECTION 1: Here a collection of nice links for learning PyTorch!_ </mark>
 
   **WORKSHOPS FROM UNI HELSINKI**
   * [Workshop: Image Classification with AI Models🤖 | Elements of AI](https://community.elementsofai.com/c/tips-and-learning-resources/workshop-1-image-classification-with-ai-models)
@@ -581,7 +582,7 @@ PyTorch could be a possible framework to build such a classifier.
   * [Convolutional Neural Networks (CNNs) in 5 minutes – Glass Box](https://glassboxmedicine.com/2020/08/03/convolutional-neural-networks-cnns-in-5-minutes/)
   * [Chest CT Scan Machine Learning in 5 minutes – Glass Box](https://glassboxmedicine.com/2020/08/04/chest-ct-scan-machine-learning-in-5-minutes/)
 
-  _SECTION 2: Here are some links for Deep Learning!!_
+  <mark> _SECTION 2: Here are some links for Deep Learning!!_ </mark>
 
   **UCL DEEP LEARNING LECTURE SERIES BY GOOGLE DEEPMIND LONDON**
   * [DeepMind x UCL | Deep Learning Lecture Series 2020 - YouTube](https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF)
@@ -693,8 +694,7 @@ PyTorch could be a possible framework to build such a classifier.
   * [I finished Andrew NG's 2022 ML specialization on Coursera, what to do next? : r/learnmachinelearning](https://www.reddit.com/r/learnmachinelearning/comments/126d8lg/i_finished_andrew_ngs_2022_ml_specialization_on/)
   * [#23 Machine Learning Specialization [Course 1, Week 2, Lesson 1] - YouTube](https://www.youtube.com/watch?v=uvTL1N02f04&list=PLkDaE6sCZn6FNC6YRfRQc_FbeQrF8BwGI&index=24)
 
-    
-  _SECTION 3: Here are some links for 3D Deep Learning!!_
+  <mark> _SECTION 3: Here are some links for 3D Deep Learning!!_ </mark>
   
   **MACHINE LEARNING FOR 3D DATA | Minhyuk Sung, KAIST, Fall 2023**
   * This course is intended for undergraduate/master students who have a basic background in deep learning and experience with PyTorch.
@@ -724,7 +724,7 @@ PyTorch could be a possible framework to build such a classifier.
   * [fxia22/pointnet.pytorch: pytorch implementation for "PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation" https://arxiv.org/abs/1612.00593](https://github.com/fxia22/pointnet.pytorch)
   * [PointNet for 3D Object Classification [PyTorch]](https://www.kaggle.com/code/balraj98/pointnet-for-3d-object-classification-pytorch)
   
-  _SECTION 3: Object Recognition in Images_
+  <mark> _SECTION 4: Object Recognition in Images_ </mark>
   
   **SPEECH & OBJECT RECOGNITION RESEARCH BY STUDENTS OF GEOFFREY HINTON IN 2009-2012**
   * [Full interview: "Godfather of artificial intelligence" talks impact and potential of AI - YouTube](https://www.youtube.com/watch?v=qpoRO378qRY)
@@ -758,8 +758,6 @@ PyTorch could be a possible framework to build such a classifier.
       * [The researcher behind AI's biggest breakthrough has moved on from Google](https://qz.com/1307091/the-inside-story-of-how-ai-got-good-enough-to-dominate-silicon-valley)
       * [Ilya Sutskever: The brain behind ChatGPT](https://journeymatters.ai/ilya-the-brain-behind-chatgpt/)
       * [(1) Post | LinkedIn](https://www.linkedin.com/posts/theturingpost_alexnet-introduced-by-alex-krizhevsky-ilya-activity-7200209037320175618-lFU8/)
-
-
 
   <!-- <details> <summary>  <h4>  OpenCV Courses </h4> </summary>
   </details> --->

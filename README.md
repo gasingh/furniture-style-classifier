@@ -25,7 +25,7 @@ The "Furniture Sytle Classifier" project is documented as a self-initiated knowl
 | | _Literature Review 03: CNN Code Samples and Mathematics Explained_ | | 
 | | _Literature Review 04: CNN Details and various mathematical data extraction layers of the algorithm_ | |
 | | _Literature Review 04 EXTRAs_ | | 
-| | |  _Literature Review 04.1_EXTRAs: CNN Explainer & 2d Convolutions_ | 
+| | | _Literature Review 04.1_EXTRAs: CNN Explainer & 2d Convolutions_ | 
 | | | _Literature Review 04.2_EXTRAs: Google Photos using CNNs & the ImageNet Competition and Paper by Google Research - 2012_ | 
 | | | _Literature Review 04.3_EXTRAs: An Excellent Paper on understanding the mathematics of a CNN - National Key Lab of Novel Software Technology, China - 2017_ | 
 | | | _Literature Review 04.4_EXTRAs: HISTORY MODULE: AlexNet and ImageNet: The Birth of Deep Learning - 2006_ |
@@ -542,6 +542,44 @@ PyTorch could be a possible framework to build such a classifier.
   * [INTRO: Beginning Machine Learning with PyTorch](https://www.oreilly.com/live-events/beginning-machine-learning-with-pytorch/0636920244455/)
   * [VIDEO: Machine Learning with PyTorch[Video]](https://www.oreilly.com/videos/machine-learning-with/9780135627105/)
   * [CODE: DavidMertz/PyTorch-webinar: Machine Learning with PyTorch tutorials (for Pearson)](https://github.com/DavidMertz/PyTorch-webinar?tab=readme-ov-file)
+
+  **BUILD A SIMPLE NEURAL NETWORK | 2017**
+  * [Making a Simple Neural Network ( In Javascript ) | LinkedIn](https://www.linkedin.com/pulse/making-simple-neural-network-javascript-eugenio-noyola-l-keno-/)
+
+  **GOOGLE MACHINE LEARNING CRASH COURSE: Neural Networks**
+  * [Neural networks  |  Machine Learning  |  Google for Developers](https://developers.google.com/machine-learning/crash-course/neural-networks)
+  
+  **[ST456 Deep Learning | LSE: London School of Economics | 2022](https://www.lse.ac.uk/resources/calendar2023-2024/courseGuides/ST/2023_ST456.htm)**
+  * References suggested by ST456:
+    * Deep Learning by Ian Goodfellow, Yoshua Bengio and Aaron Courville | 2016  
+      * [Deep Learning](https://www.deeplearningbook.org/lecture_slides.html)
+      * [Deep Learning](https://www.deeplearningbook.org/)
+    * <mark> **Dive Into Deep Learning by Aston Zhang, Zachary C. Lipton, Mu Li, and Alexander J. Smola | 2023** </mark>
+      * [Notation — Dive into Deep Learning 1.0.3 documentation](https://d2l.ai/chapter_notation/index.html)
+    * _[neural networks introduction by statistics course - Google Search](https://www.google.com/search?q=neural+networks+introduction+by+statistics+course&sca_esv=d9880e105989b578&rlz=1C1GCEB_enGB1045GB1045&sxsrf=ADLYWIJ7A6PeFFKWfNDHOhgfPpCLE9LC8g:1728917388419&ei=jC8NZ_qkGeyGhbIPprK7qAU&start=20&sa=N&sstk=Aagrsui-CB9hU_0gwMeQIq05-rFHTXDO7tX5H-Gx1vSDchNYYFIcWEPJ-n9noYwRaChVxAUSX4a_estf_K4Bm5yUOVF7KANC2b7822kezhUCAb1RzoJ8JNJXNAUMKHRCijuK&ved=2ahUKEwj6mqGWj46JAxVsQ0EAHSbZDlU4ChDw0wN6BAgFEBc&biw=1537&bih=830&dpr=2.25)_
+
+  **A Mathematical Introduction to Neural Networks | 2020**
+  * [tfm_lichtner_bajjaoui_aisha.pdf](https://diposit.ub.edu/dspace/bitstream/2445/180441/2/tfm_lichtner_bajjaoui_aisha.pdf)
+  
+  **Deep Learning 101: Getting Started with Neural Networks by Digilab UK | 2023**
+  * [Coding Neurons from Scratch](https://www.digilab.co.uk/course/deep-learning-and-neural-networks/coding-neurons-from-scratch)
+  * [digilab.co.uk/course/deep-learning-and-neural-networks](https://www.digilab.co.uk/course/deep-learning-and-neural-networks)
+  
+  <mark> **How to build a Neural Network from scratch by FreeCodeCamp | 2019** </mark>
+  * [How to build a Neural Network from scratch](https://www.freecodecamp.org/news/building-a-neural-network-from-scratch/)
+
+ **TRAIN A NEURAL NETWORK TO RUN NAIVE BAYES ALGORITHM**
+  * [Understanding a Bayesian Neural Network: A Tutorial](https://nnart.org/understanding-a-bayesian-neural-network-a-tutorial/#What_is_Naive_Bayes_Algorithm)
+
+**MACHINE LEARNING AND NEURAL NETWORKS by Dr. Hailiang Du | Durham University | 2023**
+  * [https://bookdown.org/hailiangdu/MLNN3/introduction.html - Google Search](https://www.google.com/search?q=https%3A%2F%2Fbookdown.org%2Fhailiangdu%2FMLNN3%2Fintroduction.html&oq=https%3A%2F%2Fbookdown.org%2Fhailiangdu%2FMLNN3%2Fintroduction.html&gs_lcrp=EgZjaHJvbWUyBggAEEUYQNIBBzQxNGowajSoAgCwAgE&sourceid=chrome&ie=UTF-8)
+    
+* [Book: Statistical Learning Using Neural Networks: A Guide for Statisticians and Data Scientists with Python: Amazon.co.uk: de Braganca Pereira, Basilio, Radhakrishna Rao, Calyampudi, Borges de Oliveira, Fabio: 9781138364509: Books](https://www.amazon.co.uk/Statistical-Learning-Using-Neural-Networks/dp/1138364509)
+
+* **CNNs USED TO CLASSIFY CHEST X-RAY IMAGES**
+  * [neural networks visual explanation probability - Google Search](https://www.google.com/search?sca_esv=5a0b0002ac97e0bf&rlz=1C1GCEB_enGB1045GB1045&sxsrf=ADLYWIKq-5vjJELZpHS4Hv4L04IWdqgnog:1728917913476&q=neural+networks+visual+explanation+probability&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWfbQph1uib-VfD_izZO2Y5sC3UdQE5x8XNnxUO1qJLaTV4c8WUZIVpqotNJgZT-nG6tsHwc3BxYJ7SJsoRXGGNwEIXpA7OZG7ZaHhjSESTEISdWI9c-9iMZIuDuLLcLeXPAcrvS050xiLHdT_XEfYYSw3K4Imoc20bsa6YY0FtgSBNRMi&sa=X&ved=2ahUKEwjKktCQkY6JAxWcTUEAHRMlBJAQtKgLegQIGRAB&biw=1537&bih=830&dpr=2.25#vhid=5tyIu1sLuIOM7M&vssid=mosaic)
+  * [Convolutional Neural Networks (CNNs) in 5 minutes – Glass Box](https://glassboxmedicine.com/2020/08/03/convolutional-neural-networks-cnns-in-5-minutes/)
+  * [Chest CT Scan Machine Learning in 5 minutes – Glass Box](https://glassboxmedicine.com/2020/08/04/chest-ct-scan-machine-learning-in-5-minutes/)
 
   _SECTION 2: Here are some links for Deep Learning!!_
 

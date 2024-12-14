@@ -520,7 +520,7 @@ PyTorch could be a possible framework to build such a classifier.
 <details> <summary> Learning Resources for PyTorch & Basic Machine Learning!</summary>
   <br>
 
-  <mark> _SECTION 1: Here a collection of nice links for learning PyTorch!_ </mark>
+  <mark> **_SECTION 1: Here a collection of nice links for learning PyTorch!_** </mark>
 
   **WORKSHOPS FROM UNI HELSINKI**
   * [Workshop: Image Classification with AI Models🤖 | Elements of AI](https://community.elementsofai.com/c/tips-and-learning-resources/workshop-1-image-classification-with-ai-models)
@@ -582,7 +582,7 @@ PyTorch could be a possible framework to build such a classifier.
   * [Convolutional Neural Networks (CNNs) in 5 minutes – Glass Box](https://glassboxmedicine.com/2020/08/03/convolutional-neural-networks-cnns-in-5-minutes/)
   * [Chest CT Scan Machine Learning in 5 minutes – Glass Box](https://glassboxmedicine.com/2020/08/04/chest-ct-scan-machine-learning-in-5-minutes/)
 
-  <mark> _SECTION 2: Here are some links for Deep Learning!!_ </mark>
+  <mark> **_SECTION 2: Here are some links for Deep Learning!!_** </mark>
 
   **UCL DEEP LEARNING LECTURE SERIES BY GOOGLE DEEPMIND LONDON**
   * [DeepMind x UCL | Deep Learning Lecture Series 2020 - YouTube](https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF)
@@ -694,7 +694,7 @@ PyTorch could be a possible framework to build such a classifier.
   * [I finished Andrew NG's 2022 ML specialization on Coursera, what to do next? : r/learnmachinelearning](https://www.reddit.com/r/learnmachinelearning/comments/126d8lg/i_finished_andrew_ngs_2022_ml_specialization_on/)
   * [#23 Machine Learning Specialization [Course 1, Week 2, Lesson 1] - YouTube](https://www.youtube.com/watch?v=uvTL1N02f04&list=PLkDaE6sCZn6FNC6YRfRQc_FbeQrF8BwGI&index=24)
 
-  <mark> _SECTION 3: Here are some links for 3D Deep Learning!!_ </mark>
+  <mark> **_SECTION 3: Here are some links for 3D Deep Learning!!_** </mark>
   
   **MACHINE LEARNING FOR 3D DATA | Minhyuk Sung, KAIST, Fall 2023**
   * This course is intended for undergraduate/master students who have a basic background in deep learning and experience with PyTorch.
@@ -724,7 +724,7 @@ PyTorch could be a possible framework to build such a classifier.
   * [fxia22/pointnet.pytorch: pytorch implementation for "PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation" https://arxiv.org/abs/1612.00593](https://github.com/fxia22/pointnet.pytorch)
   * [PointNet for 3D Object Classification [PyTorch]](https://www.kaggle.com/code/balraj98/pointnet-for-3d-object-classification-pytorch)
   
-  <mark> _SECTION 4: Object Recognition in Images_ </mark>
+  <mark> **_SECTION 4: Object Recognition in Images_** </mark>
   
   **SPEECH & OBJECT RECOGNITION RESEARCH BY STUDENTS OF GEOFFREY HINTON IN 2009-2012**
   * [Full interview: "Godfather of artificial intelligence" talks impact and potential of AI - YouTube](https://www.youtube.com/watch?v=qpoRO378qRY)

@@ -908,9 +908,33 @@ One of the limitations of the furniture classifier is that the CNN requires a lo
 ## What next?
 _Can this project grow and become something even more?_
 
-* I love browsing design and furniture shops, and an AI like that could be a cool tool to have on a mobile phone. Ideally a mobile phone app!
-* Generating Chairs from Prompts. Apparently it's also possible to generate chairs using CNNs. This sounds quite cool too!
-  * [Learning to Generate Chairs With Convolutional Neural Networks](https://openaccess.thecvf.com/content_cvpr_2015/papers/Dosovitskiy_Learning_to_Generate_2015_CVPR_paper.pdf)
+* AN AI APP!
+  * I love browsing design and furniture shops, and an AI like that could be a cool tool to have on a mobile phone. Ideally a mobile phone app! <br>
+    <details> <summary> ... </summary>
+      
+      <img src= "https://github.com/gasingh/furniture-style-classifier/blob/main/aiApp_1715078643686_%5BMindnotix%20Software%20Solutions%5D.jpg" width = "500">  <br>
+      <img src= "https://github.com/gasingh/furniture-style-classifier/blob/main/aiApp_How-to-Create-an-AI-App-_%5Bspace.ca%5D.jpeg" width = "500"> <br>
+      <img src= "https://github.com/gasingh/furniture-style-classifier/blob/main/aiApp_analyticsinsight_import_wp-content_uploads_2022_05_Now-ease-your-retail-audit-burden-using-image-recognition.avif" width = "500"> <br>
+      <img src= "https://github.com/gasingh/furniture-style-classifier/blob/main/aiApp_still-5ffd3e86e06ccd7430c38aef8e5678a4.png" width = "500"> <br>
+      <br>
+  
+      * [How to Build an AI App in 2024: The Detailed Guide](https://www.spaceo.ca/blog/how-to-create-an-ai-app/)
+      * [image (1416×748)](https://www.spaceo.ca/_next/image/?url=https%3A%2F%2Fwp.spaceo.ca%2Fwp-content%2Fuploads%2F2023%2F09%2FHow-to-Create-an-AI-App-.jpg&w=3840&q=75)
+      * [How to Build an Image Recognition App with AI and Machine Learning](https://perpet.io/blog/how-to-build-an-image-recognition-app-a-step-by-step-tutorial-and-use-cases-examples/)
+      * [14 Fantastic Image Recognition Apps for 2022](https://www.neoito.com/blog/image-recognition-apps/)
+      * [(8) AI-driven Visual Search and Recognition for In-Store Shopping | LinkedIn](https://www.linkedin.com/pulse/ai-driven-visual-search-recognition-in-store-vrdtc/)
+      * [1715078643686 (1280×720)](https://media.licdn.com/dms/image/D5612AQH-m-6Dk7hAsA/article-cover_image-shrink_720_1280/0/1715078643686?e=2147483647&v=beta&t=wET5HUd_vDOALQ1bOz_8BeC7TLWQX3zopOWLWKaOf-g)
+      * [still-5ffd3e86e06ccd7430c38aef8e5678a4.png (400×300)](https://cdn.dribbble.com/userupload/3628758/file/still-5ffd3e86e06ccd7430c38aef8e5678a4.png?resize=400x300&vertical=center)
+      * [Image Recognition Ai designs, themes, templates and downloadable graphic elements on Dribbble](https://dribbble.com/tags/image-recognition-ai)
+      * [Ai Camera designs, themes, templates and downloadable graphic elements on Dribbble](https://dribbble.com/tags/ai-camera)
+      * [YOLO-NAS Full-Stack Computer Vision Course](https://www.augmentedstartups.com/yolonas-yolov8-full-stack-computer-vision-course)
+      * [Now Ease Your Retail Audit Burden Using Image Recognition](https://www.analyticsinsight.net/artificial-intelligence/now-ease-your-retail-audit-burden-using-image-recognition)
+  
+    </details>
+
+* GENERATIVE AI!
+  * Generating Chairs from Prompts. Apparently it's also possible to generate chairs using CNNs. This sounds quite cool too!
+    * [Learning to Generate Chairs With Convolutional Neural Networks](https://openaccess.thecvf.com/content_cvpr_2015/papers/Dosovitskiy_Learning_to_Generate_2015_CVPR_paper.pdf)
 
 
 <!-- 

@@ -862,6 +862,7 @@ In my research online, I found that it might be fine to takeup such a pursuit fo
     * A polite, fun-filled, and very informative talk with Geoffrey Hinton about the potential dangers of AI and Deep Learning.
       * [Possible End of Humanity from AI? Geoffrey Hinton at MIT Technology Review's EmTech Digital - YouTube](https://www.youtube.com/watch?v=sitHS6UDMJc)
     * [Geoffrey Hinton tells us why he’s now scared of the tech he helped build | MIT Technology Review](https://www.technologyreview.com/2023/05/02/1072528/geoffrey-hinton-google-why-scared-ai/)
+    * [Full interview: "Godfather of artificial intelligence" talks impact and potential of AI - YouTube](https://www.youtube.com/watch?v=qpoRO378qRY)
 
 
   * SET 1

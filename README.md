@@ -542,6 +542,39 @@ Keras, a scripting interface over Tensorflow can also be used. <br>
   * [CNN on MNIST - Elements of AI Workshop 1 - YouTube](https://www.youtube.com/watch?v=_CCH5NYtwxo)
   * [Logistic Regresison on MNIST - Elements of AI Workshop 1 - YouTube](https://www.youtube.com/watch?v=jbmqZ7X3z_k)
   * [Elements of AI demo 1: Image classification - Colab](https://colab.research.google.com/drive/1J53qWaOc4buNwPDtJ-JBz2UvM1-8cO8U?usp=sharing#scrollTo=X7QUztKTLyUT)
+
+  **NEURAL NETWORKS FOR MACHINE LEARNING — GEOFFREY HINTON, UNIVERSITY OF TORONTO | 2012** 
+  * [Geoffrey Hinton - Wikipedia](https://en.wikipedia.org/wiki/Geoffrey_Hinton)
+    * _Hinton taught a free online course on Neural Networks on the education platform Coursera in 2012.[47] He joined Google in March 2013 when his company, DNNresearch Inc., was acquired, and was at that time planning to "divide his time between his university research and his work at Google"._
+    * <img src = "https://github.com/gasingh/furniture-style-classifier/blob/main/GeoffreyHinton'sCourseraCourse_Screenshot%202024-12-16%20203754.png" width = "800"> <br>
+  * [What are your reviews on Geoffrey Hinton's coursera course on neural networks? - Quora](https://www.quora.com/What-are-your-reviews-on-Geoffrey-Hintons-coursera-course-on-neural-networks)
+  * LECTURE SLIDES
+    * [lec1.pdf](https://www.cs.toronto.edu/~hinton/coursera/lecture1/lec1.pdf)
+    * [Lectures from the 2012 Coursera course: <br> Neural Networks for Machine Learning](https://www.cs.toronto.edu/~hinton/coursera_lectures.html)
+  * VIDEO LECTURES!!
+    * [Neural Networks for Machine Learning — Geoffrey Hinton, UofT (FULL COURSE) - YouTube](https://www.youtube.com/playlist?list=PLLssT5z_DsK_gyrQ_biidwvPYCRNGI3iv)
+    * [Neural Networks for Machine Learning Coursera Video Lectures - Geoffrey Hinton | Internet Archive](https://archive.org/details/academictorrents_743c16a18756557a67478a7570baf24a59f9cda6)
+    * [Coursera - Neural Networks for Machine Learning - Geoffrey Hinton - Academic Torrents](https://academictorrents.com/details/743c16a18756557a67478a7570baf24a59f9cda6)
+  * ADDITIONAL RESOURCE (by Quora Page cited above)
+    * [Unsupervised Feature Learning and Deep Learning Tutorial](http://ufldl.stanford.edu/tutorial/)
+    * [amaas/stanford_dl_ex: Programming exercises for the Stanford Unsupervised Feature Learning and Deep Learning Tutorial](https://github.com/amaas/stanford_dl_ex)****
+  * 20:41 16/12/2024
+  * [backpropogation explained by hinton - Google Search](https://www.google.com/search?q=backpropogation+explained+by+hinton&rlz=1C1GCEB_enGB1045GB1045&oq=backpropogation+explained+by+hinton&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDg4MjdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8)
+    * [Lecture 13.1 — The ups and downs of backpropagation — [ Deep Learning | Geoffrey Hinton | UofT ] - YouTube](https://www.youtube.com/watch?v=lDFY8vQe6-g)
+
+**LEARNING REPRESENTATIONS BY BACK-PROPAGATING ERRORS | David E. Rumelhart, Geoffrey E. Hinton & Ronald J. Williams | 1986**
+* [Learning representations by back-propagating errors | Nature](https://www.nature.com/articles/323533a0)
+* _ABSTRACT: We describe a new learning procedure, back-propagation, for networks of neurone-like units. The procedure repeatedly adjusts the weights of the connections in the network so as to minimize a measure of the difference between the actual output vector of the net and the desired output vector. As a result of the weight adjustments, internal ‘hidden’ units which are not part of the input or output come to represent important features of the task domain, and the regularities in the task are captured by the interactions of these units. The ability to create useful new features distinguishes back-propagation from earlier, simpler methods such as the perceptron-convergence procedure._
+* [PDF Paper: Learning representations by backpropagating errors](https://gwern.net/doc/ai/nn/1986-rumelhart-2.pdf)
+* 21:07 16/12/2024
+  
+**CSC321 Neural Networks and Machine Learning (UTM) | Pouria Fewzee and Lisa Zhang | 2020**
+  * [CSC321 Neural Networks and Machine Learning (UTM)](https://www.cs.toronto.edu/~lczhang/321/)
+  * [course_info.pdf](https://www.cs.toronto.edu/~lczhang/321/files/course_info.pdf)
+  * [tutorials/numpy_tutorial.ipynb at master · olessia/tutorials](https://github.com/olessia/tutorials/blob/master/numpy_tutorial.ipynb)
+  * Machine learning is a powerful set of techniques that allow computers to learn from data rather than having a human expert program a behaviour by hand. Neural networks are a class of machine learning algorithm originally inspired by the brain, but which have recently seen a lot of success at practical applications. They're at the heart of production systems at companies like Google and Facebook for face recognition, speech-to-text, and language understanding.
+  * This course gives an overview of both the foundational ideas and the recent advances in neural net algorithms. Roughly the first 2/3 of the course focuses on supervised learning -- training the network to produce a specified behaviour when one has lots of labelled examples of that behaviour. The last 1/3 focuses on unsupervised learning.  
+
   
   **WORKSHOPS FROM NVIDIA**
   * [Introduction to "Learning Deep Learning" | GTC Digital Spring 2023 | NVIDIA On-Demand](https://www.nvidia.com/en-us/on-demand/session/gtcspring23-dlit52044/?playlistId=playList-5906792e-0f3d-436b-bc30-3abf911a95a6)

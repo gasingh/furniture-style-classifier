@@ -675,8 +675,8 @@ PyTorch could be a possible framework to build such a classifier.
   * [MIT Deep Learning and Artificial Intelligence Lectures | Lex Fridman](https://deeplearning.mit.edu/)
   * 21:38 27/10/2024
 
-    <img src = "https://github.com/gasingh/furniture-style-classifier/blob/main/beginners%20guide%20to%20machine%20learnng_%20codingTrain_Screenshot%202024-12-12%20152331.png" width = "500"> <br>
-    <img src = "https://github.com/gasingh/furniture-style-classifier/blob/main/beginners%20guide%20to%20machine%20learnng_%20codingTrain_Screenshot%202024-12-12%20152411.png" width = "500"> <br>
+<img src = "https://github.com/gasingh/furniture-style-classifier/blob/main/beginners%20guide%20to%20machine%20learnng_%20codingTrain_Screenshot%202024-12-12%20152331.png" width = "300"> <br> <img src = "https://github.com/gasingh/furniture-style-classifier/blob/main/beginners%20guide%20to%20machine%20learnng_%20codingTrain_Screenshot%202024-12-12%20152411.png" width = "300"> <br>
+  
   **DANIEL SCHIFFMANN MACHINE LEARNING IN A FUN WAY!**
   * [A Beginner's Guide to Machine Learning in JavaScript with ml5.js / The Coding Train](https://thecodingtrain.com/tracks/ml5js-beginners-guide)
   * Learning Resources: 
@@ -709,29 +709,28 @@ PyTorch could be a possible framework to build such a classifier.
   * [I finished Andrew NG's 2022 ML specialization on Coursera, what to do next? : r/learnmachinelearning](https://www.reddit.com/r/learnmachinelearning/comments/126d8lg/i_finished_andrew_ngs_2022_ml_specialization_on/)
   * [#23 Machine Learning Specialization [Course 1, Week 2, Lesson 1] - YouTube](https://www.youtube.com/watch?v=uvTL1N02f04&list=PLkDaE6sCZn6FNC6YRfRQc_FbeQrF8BwGI&index=24)
 
+  **CS229 | Andrew Ng | 2024** <br>
+  * [CS229_Lecture_Notes.pdf](https://sgfin.github.io/files/notes/CS229_Lecture_Notes.pdf) <br>
+  * [CS229: Machine Learning](https://cs229.stanford.edu/) <br>
+  * [Stanford CS229: Machine Learning Full Course taught by Andrew Ng | Autumn 2018 - YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
+  * [Stanford Engineering Everywhere | CS229 - Machine Learning](https://see.stanford.edu/course/cs229) <br>
+
   **VISUAL EXPLANATIONS OF NEURAL NETWORKS**
   * Deep Learning Illustrated | John Krohn | 2020
     * [Deep Learning Illustrated](https://www.deeplearningillustrated.com/)
-    * [Deep Learning Illustrated: A Visual, Interactive Guide to Artificial Intelligence](https://ia803202.us.archive.org/31/items/python_ebooks_2020/deep_learning_illustrated_artificial_intelligenceNetworkArtificial.pdf)
+    * [PDF: Deep Learning Illustrated: A Visual, Interactive Guide to Artificial Intelligence](https://ia803202.us.archive.org/31/items/python_ebooks_2020/deep_learning_illustrated_artificial_intelligenceNetworkArtificial.pdf)
   * The Illustrated Machine Learning | Andrea Bozzelli & Francesco Di Salvo | 2023
     * [The Illustrated Machine Learning Website](https://illustrated-machine-learning.github.io/)
-  * A visual introduction to machine learning | R2D3: Stephany and Tony | 2023 
+  * A visual introduction to machine learning | R2D3: Stephany and Tony | 2023
     * [A visual introduction to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
     * [Decision Trees - A visual introduction to machine learning - YouTube](https://www.youtube.com/watch?v=35tqlC34DIA)
   * Understanding Deep Learning | Simon JD Prince | 2024
     * [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
-    * [PDF book](https://github.com/udlbook/udlbook/releases/download/v5.00/UnderstandingDeepLearning_11_21_24_C.pdf)
-  * A Tour of Machine Learning Algorithms | Machine Learning Mastery: Jason Brown Lee | 2023  
+    * [PDF: Understanding Deep Learning](https://github.com/udlbook/udlbook/releases/download/v5.00/UnderstandingDeepLearning_11_21_24_C.pdf)
+  * A Tour of Machine Learning Algorithms | Machine Learning Mastery: Jason Brown Lee | 2023
     * [A Tour of Machine Learning Algorithms](https://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
   * [#3D Neural Networks: Feedforward and Backpropagation Explained - YouTube](https://www.youtube.com/shorts/6xXz48IzbWM) | @pythonAtlasLion YouTube | 2021
     * ![](https://github.com/gasingh/furniture-style-classifier/blob/main/%233D%20Neural%20Networks_%20Feedforward%20and%20Backpropagation%20Explained_pythonAtlasLion_YouTube_GIF.gif)
-
-  * CS229 | Andrew Ng | 2024
-    * [CS229_Lecture_Notes.pdf](https://sgfin.github.io/files/notes/CS229_Lecture_Notes.pdf)
-    * [CS229: Machine Learning](https://cs229.stanford.edu/)
-    * [Stanford CS229: Machine Learning Full Course taught by Andrew Ng | Autumn 2018 - YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
-    * [Stanford Engineering Everywhere | CS229 - Machine Learning](https://see.stanford.edu/course/cs229)
-
 
   </details>
   

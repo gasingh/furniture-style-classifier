@@ -43,6 +43,7 @@ The "Furniture Sytle Classifier" project is documented as a self-initiated knowl
 |H | [AI & Ethics](https://github.com/gasingh/furniture-style-classifier/edit/main/README.md#ai--ethics)   | _I investigated the sensetivity around the use of copyrighted data for training AIs such as CNNs_  |
 | | _Literature Review 08: AI and Ethics around use of images for training AI models_ | | 
 |I | [Limitations](https://github.com/gasingh/furniture-style-classifier/edit/main/README.md#limitations)   | _Limitations of CNNs_        |
+| | _Literature Review 09: Deploying an AI Application on a Mobile Phone_ | |
 |J | [What Next](https://github.com/gasingh/furniture-style-classifier/edit/main/README.md#what-next) | _future direction potential_ | 
 </details>
 

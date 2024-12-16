@@ -558,21 +558,22 @@ Keras, a scripting interface over Tensorflow can also be used. <br>
   * [VIDEO: Machine Learning with PyTorch[Video]](https://www.oreilly.com/videos/machine-learning-with/9780135627105/)
   * [CODE: DavidMertz/PyTorch-webinar: Machine Learning with PyTorch tutorials (for Pearson)](https://github.com/DavidMertz/PyTorch-webinar?tab=readme-ov-file)
 
-  <img src = "https://github.com/gasingh/furniture-style-classifier/blob/main/Making%20a%20Simple%20Neural%20Network%20(%20In%20Javascript%20)_1520213581541.jpg" width = "300"> <br>
   **BUILD A SIMPLE NEURAL NETWORK IN JAVASCRIPT | 2017**
   * [Making a Simple Neural Network ( In Javascript ) | LinkedIn](https://www.linkedin.com/pulse/making-simple-neural-network-javascript-eugenio-noyola-l-keno-/)
-
-  <img src = "https://github.com/gasingh/furniture-style-classifier/blob/main/How%20does%20a%20Neural%20Network%20Learn_Alex%20The%20Dev_YouTube.jpg" width = "300"> <br>
-  <img src = "https://github.com/gasingh/furniture-style-classifier/blob/main/How%20does%20a%20Neural%20Network%20Learn_Alex%20The%20Dev_YouTube_snip.png" width = "300"> <br>
+  * <img src = "https://github.com/gasingh/furniture-style-classifier/blob/main/Making%20a%20Simple%20Neural%20Network%20(%20In%20Javascript%20)_1520213581541.jpg" width = "300"> <br>
+  
   **BUILD A SIMPLE NEURAL NETWORK IN C | 2024**
-  * [Neural Networks - YouTube](https://www.youtube.com/playlist?list=PLwHDUsnIdlMyczjl6x8irEiZTnRhbC0VD)
-  * Nice exploration explaining the various aspects in raw code, without a library.
-  * 18:20 16/12/2024
+  * [Neural Networks - YouTube](https://www.youtube.com/playlist?list=PLwHDUsnIdlMyczjl6x8irEiZTnRhbC0VD) <br>
+  * Nice exploration explaining the various aspects in raw code, without a library. <br>
+  * <img src = "https://github.com/gasingh/furniture-style-classifier/blob/main/How%20does%20a%20Neural%20Network%20Learn_Alex%20The%20Dev_YouTube.jpg" width = "300"> <br>
+  * <img src = "https://github.com/gasingh/furniture-style-classifier/blob/main/How%20does%20a%20Neural%20Network%20Learn_Alex%20The%20Dev_YouTube_snip.png" width = "300"> <br>
+  * 18:20 16/12/2024 <br>
 
   **GOOGLE MACHINE LEARNING CRASH COURSE: Neural Networks**
-  * [Neural networks  |  Machine Learning  |  Google for Developers](https://developers.google.com/machine-learning/crash-course/neural-networks)
-  
-  **[ST456 Deep Learning | LSE: London School of Economics | 2022](https://www.lse.ac.uk/resources/calendar2023-2024/courseGuides/ST/2023_ST456.htm)**
+  * [Neural networks  |  Machine Learning  |  Google for Developers](https://developers.google.com/machine-learning/crash-course/neural-networks) 
+
+  **ST456 Deep Learning | LSE: London School of Economics | 2022**
+  * [ST456 Deep Learning | LSE: London School of Economics | 2022](https://www.lse.ac.uk/resources/calendar2023-2024/courseGuides/ST/2023_ST456.htm)
   * References suggested by ST456:
     * Deep Learning by Ian Goodfellow, Yoshua Bengio and Aaron Courville | 2016  
       * [Deep Learning](https://www.deeplearningbook.org/lecture_slides.html)
@@ -599,7 +600,7 @@ Keras, a scripting interface over Tensorflow can also be used. <br>
     
 * [Book: Statistical Learning Using Neural Networks: A Guide for Statisticians and Data Scientists with Python: Amazon.co.uk: de Braganca Pereira, Basilio, Radhakrishna Rao, Calyampudi, Borges de Oliveira, Fabio: 9781138364509: Books](https://www.amazon.co.uk/Statistical-Learning-Using-Neural-Networks/dp/1138364509)
 
-* **CNNs USED TO CLASSIFY CHEST X-RAY IMAGES**
+**CNNs USED TO CLASSIFY CHEST X-RAY IMAGES**
   * [neural networks visual explanation probability - Google Search](https://www.google.com/search?sca_esv=5a0b0002ac97e0bf&rlz=1C1GCEB_enGB1045GB1045&sxsrf=ADLYWIKq-5vjJELZpHS4Hv4L04IWdqgnog:1728917913476&q=neural+networks+visual+explanation+probability&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWfbQph1uib-VfD_izZO2Y5sC3UdQE5x8XNnxUO1qJLaTV4c8WUZIVpqotNJgZT-nG6tsHwc3BxYJ7SJsoRXGGNwEIXpA7OZG7ZaHhjSESTEISdWI9c-9iMZIuDuLLcLeXPAcrvS050xiLHdT_XEfYYSw3K4Imoc20bsa6YY0FtgSBNRMi&sa=X&ved=2ahUKEwjKktCQkY6JAxWcTUEAHRMlBJAQtKgLegQIGRAB&biw=1537&bih=830&dpr=2.25#vhid=5tyIu1sLuIOM7M&vssid=mosaic)
   * [Convolutional Neural Networks (CNNs) in 5 minutes – Glass Box](https://glassboxmedicine.com/2020/08/03/convolutional-neural-networks-cnns-in-5-minutes/)
   * [Chest CT Scan Machine Learning in 5 minutes – Glass Box](https://glassboxmedicine.com/2020/08/04/chest-ct-scan-machine-learning-in-5-minutes/)
@@ -688,8 +689,6 @@ Keras, a scripting interface over Tensorflow can also be used. <br>
   *
   * [MIT Deep Learning and Artificial Intelligence Lectures | Lex Fridman](https://deeplearning.mit.edu/)
   * 21:38 27/10/2024
-
-<img src = "https://github.com/gasingh/furniture-style-classifier/blob/main/beginners%20guide%20to%20machine%20learnng_%20codingTrain_Screenshot%202024-12-12%20152331.png" width = "300"> <br> <img src = "https://github.com/gasingh/furniture-style-classifier/blob/main/beginners%20guide%20to%20machine%20learnng_%20codingTrain_Screenshot%202024-12-12%20152411.png" width = "300"> <br>
   
   **DANIEL SCHIFFMANN MACHINE LEARNING IN A FUN WAY!**
   * [A Beginner's Guide to Machine Learning in JavaScript with ml5.js / The Coding Train](https://thecodingtrain.com/tracks/ml5js-beginners-guide)
@@ -698,6 +697,8 @@ Keras, a scripting interface over Tensorflow can also be used. <br>
     * [Machine Learning for Musicians and Artists - an Online Machine Art Course at Kadenze](https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists-v/info)
     * [An Introduction to Statistical Learning](https://www.statlearning.com/)
     * [hastie.su.domains/ISLP/ISLP_website.pdf.download.html](https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html)
+  * <img src = "https://github.com/gasingh/furniture-style-classifier/blob/main/beginners%20guide%20to%20machine%20learnng_%20codingTrain_Screenshot%202024-12-12%20152331.png" width = "300">
+  * <img src = "https://github.com/gasingh/furniture-style-classifier/blob/main/beginners%20guide%20to%20machine%20learnng_%20codingTrain_Screenshot%202024-12-12%20152411.png" width = "300"> 
 
   **MAKE YOUR OWN NEURAL NETWORK | Tariq Rashid | 2016**
   * [Make Your Own Neural Network: Amazon.co.uk: Rashid, Tariq: 9781530826605: Books](https://www.amazon.co.uk/Make-Your-Own-Neural-Network/dp/1530826608)
@@ -730,21 +731,30 @@ Keras, a scripting interface over Tensorflow can also be used. <br>
   * [Stanford Engineering Everywhere | CS229 - Machine Learning](https://see.stanford.edu/course/cs229) <br>
 
   **VISUAL EXPLANATIONS OF NEURAL NETWORKS**
-  * Deep Learning Illustrated | John Krohn | 2020
+  * **Deep Learning Illustrated | John Krohn | 2020**
     * [Deep Learning Illustrated](https://www.deeplearningillustrated.com/)
     * [PDF: Deep Learning Illustrated: A Visual, Interactive Guide to Artificial Intelligence](https://ia803202.us.archive.org/31/items/python_ebooks_2020/deep_learning_illustrated_artificial_intelligenceNetworkArtificial.pdf)
-  * The Illustrated Machine Learning | Andrea Bozzelli & Francesco Di Salvo | 2023
+  * **The Illustrated Machine Learning | Andrea Bozzelli & Francesco Di Salvo | 2023**
     * [The Illustrated Machine Learning Website](https://illustrated-machine-learning.github.io/)
-  * A visual introduction to machine learning | R2D3: Stephany and Tony | 2023
+  * **A visual introduction to machine learning | R2D3: Stephany and Tony | 2023**
     * [A visual introduction to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
     * [Decision Trees - A visual introduction to machine learning - YouTube](https://www.youtube.com/watch?v=35tqlC34DIA)
-  * Understanding Deep Learning | Simon JD Prince | 2024
+  * **Understanding Deep Learning | Simon JD Prince | 2024**
     * [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
     * [PDF: Understanding Deep Learning](https://github.com/udlbook/udlbook/releases/download/v5.00/UnderstandingDeepLearning_11_21_24_C.pdf)
-  * A Tour of Machine Learning Algorithms | Machine Learning Mastery: Jason Brown Lee | 2023
+  * **A Tour of Machine Learning Algorithms | Machine Learning Mastery: Jason Brown Lee | 2023**
     * [A Tour of Machine Learning Algorithms](https://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
-  * [#3D Neural Networks: Feedforward and Backpropagation Explained - YouTube](https://www.youtube.com/shorts/6xXz48IzbWM) | @pythonAtlasLion YouTube | 2021
+  * **3D Neural Networks: Feedforward and Backpropogation Explained | @pythonAtlasLion YouTube | 2021**
+    * [#3D Neural Networks: Feedforward and Backpropagation Explained - YouTube](https://www.youtube.com/shorts/6xXz48IzbWM) | @pythonAtlasLion YouTube | 2021
     * ![](https://github.com/gasingh/furniture-style-classifier/blob/main/%233D%20Neural%20Networks_%20Feedforward%20and%20Backpropagation%20Explained_pythonAtlasLion_YouTube_GIF.gif)
+  * **Neural networks and deep learning | Michael Nielsen | 2019** 
+    * [Neural networks and deep learning](http://neuralnetworksanddeeplearning.com/)
+    * [Neural networks and deep learning](http://neuralnetworksanddeeplearning.com/chap6.html)
+    * [neuralnetworksanddeeplearning.pdf](https://static.latexstudio.net/article/2018/0912/neuralnetworksanddeeplearning.pdf)
+    * [1LKUL1Zc8y966HxOVnZ4u75QhftqRrgqCFQ4pQfPJ-SOPXdv5OlEaqF6Xfk5rIPJ2ZAmKsrEDNlDid_l1IoCMyg4YCxRQjPYy1gzBXY (502×258)](https://lh6.googleusercontent.com/proxy/1LKUL1Zc8y966HxOVnZ4u75QhftqRrgqCFQ4pQfPJ-SOPXdv5OlEaqF6Xfk5rIPJ2ZAmKsrEDNlDid_l1IoCMyg4YCxRQjPYy1gzBXY)
+    * ![tikz47.png (441×236)](http://neuralnetworksanddeeplearning.com/images/tikz47.png)
+    * ![tikz48.png (521×199)](http://neuralnetworksanddeeplearning.com/images/tikz48.png)
+    * ![tikz49.png (582×224)](http://neuralnetworksanddeeplearning.com/images/tikz49.png)
 
   </details>
   

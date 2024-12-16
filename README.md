@@ -515,13 +515,27 @@ _04:16 14/10/2024_ <br>
  
 ## Frameworks
 
-PyTorch could be a possible framework to build such a classifier.
+PyTorch could be a possible framework to build such a classifier. <br>
+Keras, a scripting interface over Tensorflow can also be used. <br>
+
+**TENSORFLOW/ KERAS: Mnist Tutorial**
+* [TensorFlow](https://www.tensorflow.org/)
+* [Training a neural network on MNIST with Keras  |  TensorFlow Datasets](https://www.tensorflow.org/datasets/keras_example)
+* <img src = "https://github.com/gasingh/furniture-style-classifier/blob/main/mnist_tensorflow_mnist_officialWebpgScreenshot.png" width = "800"> <br>
+
+**PyTorch MNIST Tutorial**
+* [PyTorch](https://pytorch.org/get-started/locally/)
+* [Yet Another MNIST Using a CNN with PyTorch Example | James D. McCaffrey](https://jamesmccaffrey.wordpress.com/2022/02/04/yet-another-mnist-using-a-cnn-with-pytorch-example/)
+* <img src = "https://github.com/gasingh/furniture-style-classifier/blob/main/mnist_cnn_pytorch_demo_run__%5Bjamesmccaffrey%5D.jpg" width = "800"> <br>
+* <img src = "https://github.com/gasingh/furniture-style-classifier/blob/main/mnist_viewer_5__%5Bjamesmccaffrey%5D.jpg" width = "800"> <br>
+<br>
 
 <details> <summary> Learning Resources for PyTorch & Basic Machine Learning!</summary>
   <br>
   
   <details> <summary>  SECTION 1: Here a collection of nice links for learning PyTorch! </summary>
-
+  <br>
+  
   **WORKSHOPS FROM UNI HELSINKI**
   * [Workshop: Image Classification with AI Models🤖 | Elements of AI](https://community.elementsofai.com/c/tips-and-learning-resources/workshop-1-image-classification-with-ai-models)
   * [Perceptron on MNIST - Elements of AI Workshop 1 - YouTube](https://www.youtube.com/watch?v=V3hRPhEnCRo)

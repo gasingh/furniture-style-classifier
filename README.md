@@ -1003,7 +1003,7 @@ _Can this project grow and become something even more?_
 
 * AN AI APP!
   * I love browsing design and furniture shops, and an AI like that could be a cool tool to have on a mobile phone. Ideally a mobile phone app! <br>
-    <details> <summary> ... </summary>
+    <details> <summary> Literature Review 09: Deploying an AI Application on a Mobile Phone </summary>
       
       <img src= "https://github.com/gasingh/furniture-style-classifier/blob/main/aiApp_1715078643686_%5BMindnotix%20Software%20Solutions%5D.jpg" width = "500">  <br>
       <img src= "https://github.com/gasingh/furniture-style-classifier/blob/main/aiApp_How-to-Create-an-AI-App-_%5Bspace.ca%5D.jpeg" width = "500"> <br>

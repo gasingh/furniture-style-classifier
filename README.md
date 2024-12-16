@@ -544,8 +544,16 @@ PyTorch could be a possible framework to build such a classifier.
   * [VIDEO: Machine Learning with PyTorch[Video]](https://www.oreilly.com/videos/machine-learning-with/9780135627105/)
   * [CODE: DavidMertz/PyTorch-webinar: Machine Learning with PyTorch tutorials (for Pearson)](https://github.com/DavidMertz/PyTorch-webinar?tab=readme-ov-file)
 
-  **BUILD A SIMPLE NEURAL NETWORK | 2017**
+  <img src = "https://github.com/gasingh/furniture-style-classifier/blob/main/Making%20a%20Simple%20Neural%20Network%20(%20In%20Javascript%20)_1520213581541.jpg" width = "300"> <br>
+  **BUILD A SIMPLE NEURAL NETWORK IN JAVASCRIPT | 2017**
   * [Making a Simple Neural Network ( In Javascript ) | LinkedIn](https://www.linkedin.com/pulse/making-simple-neural-network-javascript-eugenio-noyola-l-keno-/)
+
+  <img src = "https://github.com/gasingh/furniture-style-classifier/blob/main/How%20does%20a%20Neural%20Network%20Learn_Alex%20The%20Dev_YouTube.jpg" width = "300"> <br>
+  <img src = "https://github.com/gasingh/furniture-style-classifier/blob/main/How%20does%20a%20Neural%20Network%20Learn_Alex%20The%20Dev_YouTube_snip.png" width = "300"> <br>
+  **BUILD A SIMPLE NEURAL NETWORK IN C | 2024**
+  * [Neural Networks - YouTube](https://www.youtube.com/playlist?list=PLwHDUsnIdlMyczjl6x8irEiZTnRhbC0VD)
+  * Nice exploration explaining the various aspects in raw code, without a library.
+  * 18:20 16/12/2024
 
   **GOOGLE MACHINE LEARNING CRASH COURSE: Neural Networks**
   * [Neural networks  |  Machine Learning  |  Google for Developers](https://developers.google.com/machine-learning/crash-course/neural-networks)
@@ -667,7 +675,9 @@ PyTorch could be a possible framework to build such a classifier.
   * [MIT Deep Learning and Artificial Intelligence Lectures | Lex Fridman](https://deeplearning.mit.edu/)
   * 21:38 27/10/2024
 
-  **DANIEL SCHIFFMANN MACHINE LEARNING IN A FUN WAY!** 
+    <img src = "https://github.com/gasingh/furniture-style-classifier/blob/main/beginners%20guide%20to%20machine%20learnng_%20codingTrain_Screenshot%202024-12-12%20152331.png" width = "500"> <br>
+    <img src = "https://github.com/gasingh/furniture-style-classifier/blob/main/beginners%20guide%20to%20machine%20learnng_%20codingTrain_Screenshot%202024-12-12%20152411.png" width = "500"> <br>
+  **DANIEL SCHIFFMANN MACHINE LEARNING IN A FUN WAY!**
   * [A Beginner's Guide to Machine Learning in JavaScript with ml5.js / The Coding Train](https://thecodingtrain.com/tracks/ml5js-beginners-guide)
   * Learning Resources: 
     * [NOC-S17-2-Intelligence-Learning/week3-classification-regression at master · nature-of-code/NOC-S17-2-Intelligence-Learning · GitHub](https://github.com/nature-of-code/NOC-S17-2-Intelligence-Learning/tree/master/week3-classification-regression)

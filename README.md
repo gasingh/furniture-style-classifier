@@ -144,9 +144,37 @@ Below are two images illustraing the intent of the exercise. The first image bel
  <kbd> <img src = "https://miro.medium.com/v2/resize:fit:708/1*ERM2KbxLtbBg-1dpkJj5Bw.jpeg" width = "500"> </kbd> <br>
  [Source: Convolution Neural Networks :Guide for your first CNN Project using Pytorch :) | by Kritika Banerjee | Medium](https://medium.com/@kritiikaaa/convolution-neural-networks-guide-for-your-first-cnn-project-7ea56f7f6960) | [Source: PyTorch 卷积神经网络 | 菜鸟教程](https://www.runoob.com/pytorch/pytorch-cnn.html) | [A comprehensive guide on machine learning solutions: CNN, RNN and ANN](https://www.softwebsolutions.com/resources/difference-between-cnn-rnn-ann.html)
 
-  j. Generic Architecture of a CNN <br>
+  j. Generic Architecture of a Neural Network (NN) <br>
+  <kbd> <img src = "https://github.com/gasingh/furniture-style-classifier/blob/main/1-s2.0-S0959652621032613-gr6_%5BA%20review%20on%20emerging%20artificial%20intelligence%20(AI)%20techniques%20for%20air%20pollution%20forecasting-%20Fundamentals%2C%20application%20and%20performance%5D.jpg" width = "500"> </kbd> <br>
+  [Source: 1-s2.0-S0959652621032613-gr6.jpg (580×271)](https://ars.els-cdn.com/content/image/1-s2.0-S0959652621032613-gr6.jpg) | [Source: Deep Neural Network - an overview | ScienceDirect Topics](https://www.sciencedirect.com/topics/engineering/deep-neural-network) | [Source: A review on emerging artificial intelligence (AI) techniques for air pollution forecasting: Fundamentals, application and performance - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0959652621032613)
+
+  k. Generic Architecture of a Convolutional Neural Network (CNN) <br>
  <kbd> <img src = "https://docs.ecognition.com/Resources/Images/ECogUsr/UG_CNN_scheme.png" width = "500"> </kbd> <br>
   [Source: Using Deep Learning Models / Convolutional Neural Networks](https://docs.ecognition.com/eCognition_documentation/User%20Guide%20Developer/8%20Classification%20-%20Deep%20Learning.htm)
+
+ L. Another Architecture Diagram of a CNN <br>
+ <kbd> <img src = "https://github.com/gasingh/furniture-style-classifier/blob/main/1__zO929D0Sz7VQJoL4uRDeA_%5Bmiro.com%5D.png" width = "500"> </kbd> <br>
+ <kbd> <img src = "https://github.com/gasingh/furniture-style-classifier/blob/main/1_yP7Dr8h2zsqItn00Fpw23w_%5Bmiro.com%5D.webp" width = "500"> </kbd> <br>
+  [Source: Convolutional Neural Network(CNN) with Practical Implementation | by Amir Ali | Aorb Tech | Medium](https://medium.com/machine-learning-researcher/convlutional-neural-network-cnn-2fc4faa7bb63)
+
+ m. Yet another architecture diagram for a CNN, also showing integrations into devices and larger frameworks <br>
+ <kbd> <img src = "https://github.com/gasingh/furniture-style-classifier/blob/main/46151Deep_Learning_Software_DE_1380x735px_1150x__%5Banalyticsvidya.com%5D.png" width = "500"> </kbd> <br>
+[Source: Image Classification using CNN : Python Implementation - Analytics Vidhya](https://www.analyticsvidhya.com/blog/2021/06/image-classification-using-convolutional-neural-network-with-python/)
+
+ n. What is a convolution in a CNN? <br>
+ <kbd> <img src = "https://github.com/gasingh/furniture-style-classifier/blob/main/But%20what%20is%20a%20convolution_%5B3Blue1Brown_YouTube%5D.jpg" width = "500"> </kbd> <br>
+[Source: But what is a convolution? - YouTube | 3Blue1Brown](https://www.youtube.com/watch?v=KuXjwB4LzSA)
+
+ o. What is Convolution? <br>
+ <kbd> <img src = "https://github.com/gasingh/furniture-style-classifier/blob/main/conv-full-layer__%5Banalyticsindiamag.com%5D.gif" width = "500"> </kbd> <br>
+[Source: Overview of Convolutional Neural Network in Image Classification](https://analyticsindiamag.com/ai-mysteries/convolutional-neural-network-image-classification-overview/)
+
+ p. Various uses of a CNN <br>
+ <kbd> <img src = "https://github.com/gasingh/furniture-style-classifier/blob/main/3-s2.0-B9780128167182000129-gr003_%5BCNN%20method%20chart_ars.els-cdn.com%5D.jpg" width = "500"> </kbd> <br>
+ [Source: Medical Image Analysis With Deep Neural Networks - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/B9780128167182000129)
+
+
+****
 
  
 </p>

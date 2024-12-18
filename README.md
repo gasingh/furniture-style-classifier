@@ -136,8 +136,19 @@ Below are two images illustraing the intent of the exercise. The first image bel
   <kbd> <img src= "https://goodboychan.github.io/images/CNN_MNIST.png" width = "500"> </kbd> <br>
   [Source: CNN with MNIST dataset | Chan`s Jupyter](https://goodboychan.github.io/python/deep_learning/tensorflow-keras/2020/10/10/01-CNN-with-MNIST.html) <br>
 
+  h. CNN to identify a Zebra! <br>
+  <kbd> <img src = "https://media.licdn.com/dms/image/v2/D5612AQFsGulJ9ekvIw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1702877293578?e=2147483647&v=beta&t=Jqm-TksFsjWrD-QRlvopafpPHr1PqxnJoyRDpHD7N7g" width = "500" > </kbd> <br>
+  [Source: What is CNN? | LinkedIn](https://www.linkedin.com/pulse/what-cnn-logesh-s-nxhfc/)
 
-  
+  i. CNN to identify Tweety! <br>
+ <kbd> <img src = "https://miro.medium.com/v2/resize:fit:708/1*ERM2KbxLtbBg-1dpkJj5Bw.jpeg" width = "500"> </kbd> <br>
+ [Source: Convolution Neural Networks :Guide for your first CNN Project using Pytorch :) | by Kritika Banerjee | Medium](https://medium.com/@kritiikaaa/convolution-neural-networks-guide-for-your-first-cnn-project-7ea56f7f6960) | [Source: PyTorch 卷积神经网络 | 菜鸟教程](https://www.runoob.com/pytorch/pytorch-cnn.html) | [A comprehensive guide on machine learning solutions: CNN, RNN and ANN](https://www.softwebsolutions.com/resources/difference-between-cnn-rnn-ann.html)
+
+  j. Generic Architecture of a CNN <br>
+ <kbd> <img src = "https://docs.ecognition.com/Resources/Images/ECogUsr/UG_CNN_scheme.png" width = "500"> </kbd> <br>
+  [Source: Using Deep Learning Models / Convolutional Neural Networks](https://docs.ecognition.com/eCognition_documentation/User%20Guide%20Developer/8%20Classification%20-%20Deep%20Learning.htm)
+
+ 
 </p>
 
 
@@ -850,6 +861,13 @@ Keras, a scripting interface over Tensorflow can also be used. <br>
   * [pointnet pytorch - Google Search](https://www.google.com/search?q=pointnet+pytorch&rlz=1C1GCEB_enGB1045GB1045&oq=pointnet+pytorch&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDQ3MTNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8)
   * [fxia22/pointnet.pytorch: pytorch implementation for "PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation" https://arxiv.org/abs/1612.00593](https://github.com/fxia22/pointnet.pytorch)
   * [PointNet for 3D Object Classification [PyTorch]](https://www.kaggle.com/code/balraj98/pointnet-for-3d-object-classification-pytorch)
+
+  **USING CNNs ON IMAGES | Trimble Learning**
+  * [Using Deep Learning Models / Convolutional Neural Networks](https://docs.ecognition.com/eCognition_documentation/User%20Guide%20Developer/8%20Classification%20-%20Deep%20Learning.htm)
+  * [Deep Learning 1 of 4: Introduction and Set-up - YouTube](https://www.youtube.com/watch?v=uNmBxNsGQlM)
+  * [From the Ground Up – Deep Learning - Trimble Learn](https://learn.trimble.com/learn/courses/3698/ecognition-deep-learning)
+  * 18:40 18/12/2024
+
 
   </details>
   

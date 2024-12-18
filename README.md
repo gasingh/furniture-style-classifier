@@ -24,11 +24,11 @@ The "Furniture Sytle Classifier" project is documented as a self-initiated knowl
 | | _Literature Review 02: CNN Classification & Logic_ | | 
 | | _Literature Review 03: CNN Code Samples and Mathematics Explained_ | | 
 | | _Literature Review 04: CNN Details and various mathematical data extraction layers of the algorithm_ | |
-| | _Literature Review 04 EXTRAs: Historical Overview_ | | 
-| | | _Literature Review 04.1_EXTRAs: CNN Explainer & 2d Convolutions_ | 
-| | | _Literature Review 04.2_EXTRAs: Google Photos using CNNs & the ImageNet Competition and Paper by Google Research - 2012_ | 
-| | | _Literature Review 04.3_EXTRAs: An Excellent Paper on understanding the mathematics of a CNN - National Key Lab of Novel Software Technology, China - 2017_ | 
-| | | _Literature Review 04.4_EXTRAs: HISTORY MODULE: AlexNet and ImageNet: The Birth of Deep Learning - 2006_ |
+| | _Literature Review 05 EXTRAs: Historical Overview_ | | 
+| | | _Literature Review 05.1_EXTRAs: CNN Explainer & 2d Convolutions_ | 
+| | | _Literature Review 05.2_EXTRAs: Google Photos using CNNs & the ImageNet Competition and Paper by Google Research - 2012_ | 
+| | | _Literature Review 05.3_EXTRAs: An Excellent Paper on understanding the mathematics of a CNN - National Key Lab of Novel Software Technology, China - 2017_ | 
+| | | _Literature Review 05.4_EXTRAs: HISTORY MODULE: AlexNet and ImageNet: The Birth of Deep Learning - 2006_ |
 | | | | 
 |E | [Frameworks](https://github.com/gasingh/furniture-style-classifier/edit/main/README.md#frameworks)   | _Research into relevant training, courses, and framework documentations & intros_    |
 | | _Learning Resources for PyTorch & Basic Machine Learning!_ | | 
@@ -95,9 +95,10 @@ _What kind of skills, what kind of assistance would I need to move on?_
 I would need to learn how to classify images using a **CNN**. I have learned that these are the kind of neural networks which can be trained to classify images. 
 Below are two images illustraing the intent of the exercise. The first image below illustrates a Convolutional Neural Network Algorithm for identifying a piece of furniture, and the second image illustrates how a machine learning approach differs from a traditional human expert centered workflow in identification of visual styles. 
 
-<p align="left" width="100%">
+
+<details> <summary> <b> <i> THE PREMISE: An AI (Machine Learning Model) instead of a "Trained" Human Expert </i> </b> </summary>  
   
-  <b> <i> THE PREMISE: An AI (Machine Learning Model) instead of a "Trained" Human Expert </i> </b> <br>
+  <br>
   
   a1. The theorerical premise: an AI system vs a human expert teaching a system to classify <br>
   <kbd> <img src= "https://www.shutterstock.com/image-vector/machine-vs-human-difference-between-600nw-2121658835.jpg" width = "500"> </kbd> <br>
@@ -107,10 +108,11 @@ Below are two images illustraing the intent of the exercise. The first image bel
   <kbd> <img src= "https://raw.githubusercontent.com/gasingh/furniture-style-classifier/refs/heads/main/Research-overview-deep-learning-based-interior-design-style-detection-for-design_%5BStochastic%20Detection%20of%20Interior%20Design%20Styles%20Using%20a%20Deep-Learning%20Model%20for%20Re%5D.png" width = "500"> </kbd>  <br> 
   [Source](https://www.researchgate.net/figure/Research-overview-deep-learning-based-interior-design-style-detection-for-design_fig1_346281080) 
 
-</p>
+</details>
 
-<p align="left" width="100%">
-  <br> <b> <i> THE GENERAL ARCHITECTURE OF A NEURAL NETWORK TO CLASSIFY IMAGES </i> </b> <br> 
+<details> <summary> <b> <i> THE GENERAL ARCHITECTURE OF A NEURAL NETWORK TO CLASSIFY IMAGES </i> </b> </summary>  
+ 
+  <br>
   
   b. CNN to identify Cars! <br>
   <kbd> <img src="https://miro.medium.com/v2/resize:fit:1400/1*XbuW8WuRrAY5pC4t-9DZAQ.jpeg" width="500"> </kbd>  <br>
@@ -173,12 +175,7 @@ Below are two images illustraing the intent of the exercise. The first image bel
  <kbd> <img src = "https://github.com/gasingh/furniture-style-classifier/blob/main/3-s2.0-B9780128167182000129-gr003_%5BCNN%20method%20chart_ars.els-cdn.com%5D.jpg" width = "500"> </kbd> <br>
  [Source: Medical Image Analysis With Deep Neural Networks - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/B9780128167182000129)
 
-
-****
-
- 
-</p>
-
+</details>
 
 
 
@@ -382,9 +379,9 @@ Below are 4 primary sections which assimilate some visual and textual searches a
 
 </details>
 
-<details> <summary> <b> Literature Review 04 EXTRAs: Historical Overview  </b> </summary>
+<details> <summary> <b> Literature Review 05: Historical Overview  </b> </summary>
 
-<details> <summary> <mark> Literature Review 04.1_EXTRAs: CNN Explainer & 2d Convolutions </mark> </summary>
+<details> <summary> <mark> Literature Review 05.1_EXTRAs: CNN Explainer & 2d Convolutions </mark> </summary>
 
 _**Super Useful Links from OpenCV CNN Webpage!!**_
   
@@ -443,7 +440,7 @@ _**Super Useful Links from OpenCV CNN Webpage!!**_
   * 01:02 14/10/2024
 </details>
 
-<details> <summary> <mark>  Literature Review 04.2_EXTRAs: Google Photos using CNNs & the ImageNet Competition and Paper by Google Research | 2012 </mark> </summary>
+<details> <summary> <mark>  Literature Review 05.2_EXTRAs: Google Photos using CNNs & the ImageNet Competition and Paper by Google Research | 2012 </mark> </summary>
 
 _**Excellent Articles**_
 
@@ -490,7 +487,7 @@ _**Excellent Articles**_
 </details>
 
 
-<details> <summary> <mark>  Literature Review 04.3_EXTRAs: An Excellent Paper on understanding the mathematics of a CNN | National Key Lab of Novel Software Technology, China | 2017 </mark> </summary>
+<details> <summary> <mark>  Literature Review 05.3_EXTRAs: An Excellent Paper on understanding the mathematics of a CNN | National Key Lab of Novel Software Technology, China | 2017 </mark> </summary>
 
   <br><img src= "https://github.com/gasingh/furniture-style-classifier/blob/main/introToCNN_paper_00.JPG" width = "800"> 
   <br><img src= "https://github.com/gasingh/furniture-style-classifier/blob/main/introToCNN_paper_01.JPG" width = "800"> <br>
@@ -499,7 +496,7 @@ _**Excellent Articles**_
 </details>
 
 
-<details> <summary> <mark>  Literature Review 04.4_EXTRAs: HISTORY MODULE: AlexNet and ImageNet: The Birth of Deep Learning | 2006 </mark> </summary>
+<details> <summary> <mark>  Literature Review 05.4_EXTRAs: HISTORY MODULE: AlexNet and ImageNet: The Birth of Deep Learning | 2006 </mark> </summary>
 
   
 _**Some key dates in the birth and adoption of CNNs**_
@@ -516,6 +513,33 @@ _04:16 14/10/2024_ <br>
 
 <br><img src = "https://github.com/gasingh/furniture-style-classifier/blob/main/cifar10_vs_mnist.JPG" width = "500">
 <br><img src = "https://github.com/gasingh/furniture-style-classifier/blob/main/cifar10_vs_imageNet.JPG" width = "500"> <br>
+
+
+* **Deep Learning History| NVIDIA Developer**
+  * [Deep Learning in a Nutshell: History and Training | NVIDIA Technical Blog](https://developer.nvidia.com/blog/deep-learning-nutshell-history-training/)
+
+* **CNN Demo from 1989 | Yann LeCun on YouTube**
+  * ![](https://github.com/gasingh/furniture-style-classifier/blob/main/Convolutional%20Network%20Demo%20from%201989%20Youtube_Yann%20LeCun.jpg)  
+  * [Convolutional Network Demo from 1989 - YouTube](https://www.youtube.com/watch?v=FwFduRA_L6Q)
+  * Description:
+    * 125,306 views  Jun 2, 2014
+      This is a demo of "LeNet 1", the first convolutional network that could recognize handwritten digits with good speed and accuracy.
+      
+      It was developed in early 1989 in the Adaptive System Research Department, headed by Larry Jackel, at Bell Labs in Holmdel, NJ.
+      
+      This "real time" demo ran on a DSP card sitting in a 486 PC with a video camera and frame grabber card. The DSP card had an AT&T DSP32C chip, which was the first 32-bit floating-point DSP and could reach an amazing 12.5 million multiply-accumulate operations per second.
+      
+      The network was trained using the SN environment (a Lisp-based neural net simulator, the predecessor of Lush, itself a kind of ancestor to Torch7, itself the ancestor of PyTorch).
+      We wrote a kind of "compiler" in SN that produced a self-contained piece of C code that could run the network. The network weights were array literals inside the C source code. 
+      
+      The network architecture was a ConvNet with 2 layers of 5x5 convolution with stride 2, and two fully-connected layers on top. There were no separate pooling layer (it was too expensive).
+      It had 9760 parameters and 64,660 connections.
+      
+      Shortly after this demo was put together, we started working with a development group and a product group at NCR (then a subsidiary of AT&T). NCR soon deployed ATM machines that could read the numerical amounts on checks, initially in Europe and then in the US. The ConvNet was running on the DSP32C card sitting in a PC inside the ATM. Later, NCR deployed a similar system in large check reading machines that banks use in their back offices. At some point in the late 90's these machines were processing 10 to 20% of all the checks in the US. 
+* PAPER from 1989
+  * [Backpropagation Applied to Handwritten Zip Code Recognition | Neural Computation | MIT Press](https://direct.mit.edu/neco/article-abstract/1/4/541/5515/Backpropagation-Applied-to-Handwritten-Zip-Code)
+  * ![](https://mitp.silverchair-cdn.com/mitp/content_public/journal/neco/issue/1/4/1/m_cover.jpeg?Expires=1737574455&Signature=RW0fdItNVUPMm51Fj8dquKOrwd1Xwn3vEJNpPC1Mgg3NK4wMe5tYxcxC7BJrvwdNVCXlP8-sHNVFKzWUz~X6hPdtdSbmlGRHp6EbYNMPQ1ZgWuXmMx57NZYpu~19LDfPuSvkB9EjzQttUNqu7BHtYh86ROT9XSmcqlwYpzWTEc2Cc6ysOyujl3fXkbmr~FudUQYMDpoKvG2kZujMmKvcwM6mmgYDoJTTWNs9KCcMHpXASIk08I13eDFTakIVgqr6zKPz-zoC7kBE-RWtAsaVJSTeDE~AP9hk7Ao~4C0PvN2-yE5bi2T7h5nj0Th-FeZd-esumlcIBMVhjd2lgu66lw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)
+
 
 * **ImageNet (2009) and AlexNet (2012) | Visio.AI**
   <br><img src = "https://viso.ai/wp-content/uploads/2024/04/ImageNet.jpg" width = "500"> <br>

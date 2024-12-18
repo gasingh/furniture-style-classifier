@@ -1089,13 +1089,16 @@ However, my learning pursuit would be better served if I were to learn the funda
 
 ## Limitations
 
-One of the limitations of the furniture classifier is that the CNN requires a lot of images for training! It would great to find a method/ algorithm/ machine learning model which can be able to identify images with less training data! A nice below from the internet illustrates this aspect of the current machine learning model. 
-
+One of the limitations of the furniture classifier is that the CNN requires a lot of images for training! It would great to find a method/ algorithm/ machine learning model which can be able to identify images with less training data! A nice below from the internet illustrates this aspect of the current machine learning model. Some more info on the same problem of training CNNs on less number of images here:
+* [CNN with less images - Google Search](https://www.google.com/search?q=CNN+with+less+images&sca_esv=4b629c57e28de7e7&rlz=1C1GCEB_enGB1045GB1045&sxsrf=ADLYWIIEXO7HiBnkfdXMLuovCzbPEXHWnw%3A1728410311991&ei=x3IFZ7qIPKylhbIPuL_TuQY&ved=0ahUKEwj6h7CVrv-IAxWsUkEAHbjfNGcQ4dUDCA8&uact=5&oq=CNN+with+less+images&gs_lp=Egxnd3Mtd2l6LXNlcnAiFENOTiB3aXRoIGxlc3MgaW1hZ2VzMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHSMEIUPQHWPQHcAF4AZABAJgBAKABAKoBALgBA8gBAPgBAZgCAaACD5gDAIgGAZAGCJIHATGgBwA&sclient=gws-wiz-serp)
+* [machine learning - how to get more accuracy on CNN with less number of images - Stack Overflow](https://stackoverflow.com/questions/58172474/how-to-get-more-accuracy-on-cnn-with-less-number-of-images)
+<br>
 <p align="center" width="100%">
 <img src = "machineVSchild_deepLearningNerds.jpg" width = "300"> <br>
-</p>
+</p> <br>
 
-* Image Source: [Deep Learning Nerds | AI, Data Science & Machine Learning | Machine 🤖 vs. Child 👶#machinelearning #deeplearning #artificialintelligence #machinelearningalgorithms #machine #maschinelleslernen... | Instagram](https://www.instagram.com/p/B8q9J4siGcM/?img_index=deeplearningnerds)
+* [Source: Deep Learning Nerds | AI, Data Science & Machine Learning | Machine 🤖 vs. Child 👶#machinelearning #deeplearning #artificialintelligence #machinelearningalgorithms #machine #maschinelleslernen... | Instagram](https://www.instagram.com/p/B8q9J4siGcM/?img_index=deeplearningnerds)
+
 
 
 ## What next?

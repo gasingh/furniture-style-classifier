@@ -522,19 +522,19 @@ Keras, a scripting interface over Tensorflow can also be used. <br>
 **TENSORFLOW/ KERAS: Mnist Tutorial**
 * [TensorFlow](https://www.tensorflow.org/)
 * [Training a neural network on MNIST with Keras  |  TensorFlow Datasets](https://www.tensorflow.org/datasets/keras_example)
-* <img src = "https://github.com/gasingh/furniture-style-classifier/blob/main/mnist_tensorflow_mnist_officialWebpgScreenshot.png" width = "800"> <br>
+* <img src = "https://github.com/gasingh/furniture-style-classifier/blob/main/mnist_tensorflow_mnist_officialWebpgScreenshot.png" width = "500"> <br>
 
 **PyTorch MNIST Tutorial**
 * [PyTorch](https://pytorch.org/get-started/locally/)
 * [Yet Another MNIST Using a CNN with PyTorch Example | James D. McCaffrey](https://jamesmccaffrey.wordpress.com/2022/02/04/yet-another-mnist-using-a-cnn-with-pytorch-example/)
-* <img src = "https://github.com/gasingh/furniture-style-classifier/blob/main/mnist_cnn_pytorch_demo_run__%5Bjamesmccaffrey%5D.jpg" width = "800"> <br>
-* <img src = "https://github.com/gasingh/furniture-style-classifier/blob/main/mnist_viewer_5__%5Bjamesmccaffrey%5D.jpg" width = "800"> <br>
+* <img src = "https://github.com/gasingh/furniture-style-classifier/blob/main/mnist_cnn_pytorch_demo_run__%5Bjamesmccaffrey%5D.jpg" width = "500"> <br>
+* <img src = "https://github.com/gasingh/furniture-style-classifier/blob/main/mnist_viewer_5__%5Bjamesmccaffrey%5D.jpg" width = "500"> <br>
 <br>
 
 <details> <summary> Learning Resources for PyTorch & Basic Machine Learning!</summary>
   <br>
   
-  <details> <summary>  SECTION 1: Here a collection of nice links for learning PyTorch! </summary>
+  <details> <summary>  SECTION 1: Here a collection of nice links for learning PyTorch & Neural Networks! </summary>
   <br>
   
   **WORKSHOPS FROM UNI HELSINKI**
@@ -576,7 +576,6 @@ Keras, a scripting interface over Tensorflow can also be used. <br>
   * Machine learning is a powerful set of techniques that allow computers to learn from data rather than having a human expert program a behaviour by hand. Neural networks are a class of machine learning algorithm originally inspired by the brain, but which have recently seen a lot of success at practical applications. They're at the heart of production systems at companies like Google and Facebook for face recognition, speech-to-text, and language understanding.
   * This course gives an overview of both the foundational ideas and the recent advances in neural net algorithms. Roughly the first 2/3 of the course focuses on supervised learning -- training the network to produce a specified behaviour when one has lots of labelled examples of that behaviour. The last 1/3 focuses on unsupervised learning.  
 
-  
   **WORKSHOPS FROM NVIDIA**
   * [Introduction to "Learning Deep Learning" | GTC Digital Spring 2023 | NVIDIA On-Demand](https://www.nvidia.com/en-us/on-demand/session/gtcspring23-dlit52044/?playlistId=playList-5906792e-0f3d-436b-bc30-3abf911a95a6)
   * [Deep Learning Institute and Training Solutions | NVIDIA](https://www.nvidia.com/en-gb/training/)
@@ -591,6 +590,24 @@ Keras, a scripting interface over Tensorflow can also be used. <br>
   * [INTRO: Beginning Machine Learning with PyTorch](https://www.oreilly.com/live-events/beginning-machine-learning-with-pytorch/0636920244455/)
   * [VIDEO: Machine Learning with PyTorch[Video]](https://www.oreilly.com/videos/machine-learning-with/9780135627105/)
   * [CODE: DavidMertz/PyTorch-webinar: Machine Learning with PyTorch tutorials (for Pearson)](https://github.com/DavidMertz/PyTorch-webinar?tab=readme-ov-file)
+
+  **PYTORCH INTRODUCTION** <br>
+  _PyTorch Industrial Partners_ <br>
+  * [PyTorch at Tesla - Andrej Karpathy, Tesla - YouTube | **Tesla**](https://www.youtube.com/watch?v=oBklltKXtDE&t=3s)
+  * [The evolution of deep learning and PyTorch - YouTube | **AI at META**](https://www.youtube.com/watch?v=vkzr1xu-8Nk)
+  _PyTorch Official Introductory Videos_ <br>
+  * [Training with PyTorch - YouTube](https://www.youtube.com/watch?v=jF43_wj_DCQ)
+  * [Loading MNIST from Pytorch - PyTorch Forums](https://discuss.pytorch.org/t/loading-mnist-from-pytorch/137456)
+  * [Solving MNIST using PyTorch](https://www.kaggle.com/code/geekysaint/solving-mnist-using-pytorch)
+  * [MNIST — Torchvision main documentation](https://pytorch.org/vision/main/generated/torchvision.datasets.MNIST.html)
+  * [MNIST Handwritten Digit Recognition in PyTorch – Nextjournal](https://nextjournal.com/gkoehler/pytorch-mnist)
+
+  **PYTORCH CNN VIDEOS ON YOUTUBE**
+  * [cnn using pytorch - YouTube](https://www.youtube.com/results?search_query=cnn+using+pytorch)
+  * [Basic CNN model using PyTorch with Image Augmentation - YouTube](https://www.youtube.com/shorts/1is9kx8G0PA)
+  * [Intro To Deep Learning With PyTorch - Deep Learning with Pytorch 1 - YouTube | Codemy.com](https://www.youtube.com/watch?v=kY14KfZQ1TI&list=PLCC34OHNcOtpcgR9LEYSdi9r7XIbpkpK1)
+  * [Image Classification Using Pytorch and Convolutional Neural Network - YouTube | Code With Aarohi](https://www.youtube.com/watch?v=cJpwQJp9flU)
+  * [Convolutional Neural Nets Explained and Implemented in Python (PyTorch) - YouTube | James Briggs](https://www.youtube.com/watch?v=ZBfpkepdZlw&t=751s)
 
   **BUILD A SIMPLE NEURAL NETWORK IN JAVASCRIPT | 2017**
   * [Making a Simple Neural Network ( In Javascript ) | LinkedIn](https://www.linkedin.com/pulse/making-simple-neural-network-javascript-eugenio-noyola-l-keno-/)

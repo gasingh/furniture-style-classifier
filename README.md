@@ -24,7 +24,7 @@ The "Furniture Sytle Classifier" project is documented as a self-initiated knowl
 | | _Literature Review 02: CNN Classification & Logic_ | | 
 | | _Literature Review 03: CNN Code Samples and Mathematics Explained_ | | 
 | | _Literature Review 04: CNN Details and various mathematical data extraction layers of the algorithm_ | |
-| | _Literature Review 04 EXTRAs_ | | 
+| | _Literature Review 04 EXTRAs: Historical Overview_ | | 
 | | | _Literature Review 04.1_EXTRAs: CNN Explainer & 2d Convolutions_ | 
 | | | _Literature Review 04.2_EXTRAs: Google Photos using CNNs & the ImageNet Competition and Paper by Google Research - 2012_ | 
 | | | _Literature Review 04.3_EXTRAs: An Excellent Paper on understanding the mathematics of a CNN - National Key Lab of Novel Software Technology, China - 2017_ | 
@@ -332,7 +332,7 @@ Below are 4 primary sections which assimilate some visual and textual searches a
 
 </details>
 
-<details> <summary> <b> Literature Review 04 EXTRAs  </b> </summary>
+<details> <summary> <b> Literature Review 04 EXTRAs: Historical Overview  </b> </summary>
 
 <details> <summary> <mark> Literature Review 04.1_EXTRAs: CNN Explainer & 2d Convolutions </mark> </summary>
 
@@ -1057,7 +1057,7 @@ I love browsing design and furniture shops, and an AI like that could be a cool 
 
 Generating Chairs from Prompts. Apparently it's also possible to generate chairs using CNNs. This sounds quite cool too!
 
-<details> <summary> Literature Review 10: Generative AI Frameworks </summary>
+<details> <summary> Literature Review 10: Generative AI Frameworks  </summary>
   
   * [Learning to Generate Chairs With Convolutional Neural Networks](https://openaccess.thecvf.com/content_cvpr_2015/papers/Dosovitskiy_Learning_to_Generate_2015_CVPR_paper.pdf)
 

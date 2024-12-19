@@ -1,5 +1,5 @@
 # Furniture Style Classifier
-Final project for the Building AI course
+Final project for the Building AI course.
 
 <img src="https://github.com/gasingh/furniture-style-classifier/blob/main/project_cover_image.JPG" alt="project_cover_img" width="1000">
 
@@ -7,6 +7,10 @@ Final project for the Building AI course
 --->
 
 ___
+
+This documentation is a collection of my general interest towards building a furniture style classifier, a general introduction to Neural Networks, their general architecture, their historical evolution including the MNIST dataset, LeNet and then the backpropagation algorithms by Hinton et al, and then the more recent advacements in the field: AlexNet, and the CIFAR-10, and ImageNet databases. Further some key aspects of a Convolutional Neural Network (CNN) are also studied. In the process, I also researched the internet to look for various useful resources to understand the subject in more detail. The research document also looks into the aspect of Copyrights in the light of AI technologies. The document concludes by listing some limitations of CNNs and a look into ways of deploying CNNs as mobile phone apps.
+
+A break-down of this document can be seen in the "Table of Contents" section below.
 
 <details> <summary> <i>Table of Contents</i> </summary>
 <br>

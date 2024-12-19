@@ -86,11 +86,20 @@ What could be super cool is if the AI framework can spot and pickup furniture st
 So, the AI should be ideally able to extract and label features. And further successfully identify a particular design style/ a probability of nearest possible styles for the piece of furniture. Hence finally be able to then deduce a style for the supplied image. This should be the ultimate aim for the AI Furniture Classifier. These two intents are clarified and elaborated below with illustrations.
 
 <p align="center" width="100%">
-_`Feature Extraction`_ <br>
-_AI should be able to automatically extract, and label design identifying features from a furniture photograph!_ <br>
-<img src= "https://github.com/gasingh/furniture-style-classifier/blob/main/IMG_20241219_113006.jpg" width="500"><br>
-_`Classification based on feature extraction`_ <br>
-_AI solution should be able to associate a bunch of design features to a possible design style!_ <br>
+<i><code> Feature Extraction </code></i> <br>
+<i> AI should be able to automatically extract, and label design identifying features from a furniture photograph! </i> <br>
+</p>
+
+<p align="center" width="100%">
+  <img src= "https://github.com/gasingh/furniture-style-classifier/blob/main/IMG_20241219_113006.jpg" width="500"><br>
+</p>
+
+<p align="center" width="100%">
+<i><code> Classification based on feature extraction </code></i> <br>
+<i> AI solution should also be able to associate a bunch of recognised design features to a possible plausible design style! </i> <br>
+</p>
+
+<p align="center" width="100%">
 <img src= "https://github.com/gasingh/furniture-style-classifier/blob/main/IMG_20241219_112718_edit_91389329091262.jpg" width="500"><br>
 </p>
 

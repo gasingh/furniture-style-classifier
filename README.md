@@ -91,7 +91,7 @@ So, the AI should be ideally able to extract and label features. And further suc
 </p>
 
 <p align="center" width="100%">
-  <img src= "https://github.com/gasingh/furniture-style-classifier/blob/main/IMG_20241219_113006.jpg" width="500"><br>
+  <img src= "https://github.com/gasingh/furniture-style-classifier/blob/main/IMG_20241219_113006.jpg" width="400"><br>
 </p>
 
 <p align="center" width="100%">
@@ -100,7 +100,7 @@ So, the AI should be ideally able to extract and label features. And further suc
 </p>
 
 <p align="center" width="100%">
-<img src= "https://github.com/gasingh/furniture-style-classifier/blob/main/IMG_20241219_112718_edit_91389329091262.jpg" width="500"><br>
+<img src= "https://github.com/gasingh/furniture-style-classifier/blob/main/IMG_20241219_112718_edit_91389329091262.jpg" width="400"><br>
 </p>
 
 

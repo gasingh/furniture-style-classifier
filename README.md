@@ -53,6 +53,7 @@ The "Furniture Sytle Classifier" project is documented as a self-initiated knowl
 | | _Literature Review 10: Generative AI Frameworks_ | |
 </details>
 
+---
 
 ## Story and Motivation
 The idea for the project emerged during a walk in London, during a weekend in October 2024.

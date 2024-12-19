@@ -6,7 +6,6 @@ Final project for the Building AI course.
 <!-- .......................................................................... TOC 
 --->
 
-___
 
 ## Summary
 
@@ -53,10 +52,6 @@ The "Furniture Sytle Classifier" project is documented as a self-initiated knowl
 | | _Literature Review 09: Deploying an AI Application on a Mobile Phone_ | |
 | | _Literature Review 10: Generative AI Frameworks_ | |
 </details>
-
-___
-
-
 
 
 ## Story and Motivation

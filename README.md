@@ -178,7 +178,7 @@ Below are two images illustraing the intent of the exercise. The first image bel
  Q. The Convolutional Neural Network - Theory and Implementation of LeNet-5 and AlexNet
  <kbd> <img src = "https://github.com/gasingh/furniture-style-classifier/blob/main/LeNet_%5Bhttps_pabloinsente.github.io_the-convolutional-network%5D.png" width = "500"> </kbd> <br>
  _IMG: Figure 3: LeNet-5 Architecture_ <br>
- [Source: The Convolutional Neural Network - Theory and Implementation of LeNet-5 and AlexNet](https://pabloinsente.github.io/the-convolutional-network)
+ [Source: The Convolutional Neural Network - Theory and Implementation of LeNet-5 and AlexNet](https://pabloinsente.github.io/the-convolutional-network) <br>
  [Source-IMG: LeNet.png (2480×1163)](https://pabloinsente.github.io/assets/post-8/LeNet.png) | [Source-IMG: convolution.png (1665×2079)](https://pabloinsente.github.io/assets/post-8/convolution.png) | [Source-IMG: pixelated.png (602×378)](https://pabloinsente.github.io/assets/post-8/pixelated.png) | [Source-IMG: pooling.png (1341×632)](https://pabloinsente.github.io/assets/post-8/pooling.png)
 
    * **LeCun’s LeNet**

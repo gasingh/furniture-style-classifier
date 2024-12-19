@@ -1066,6 +1066,8 @@ I found a few datasources online:
 
 A few interesting webpages which talk about and illustrate various futniture styles.
 
+What could be super cool is if the AI framework can spot and pickup furniture stylized elements from furniture images. Just like the book does! (Please refer to Section 1 above).
+
 <details> <summary> Literature Review 07: Stylization References </summary>
 
 * 1. Classifying Wardrobes

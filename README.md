@@ -207,11 +207,18 @@ Below are two images illustraing the intent of the exercise. The first image bel
      * The next convolution hidden layer S2 increases the number of feature maps compared to S1. If you were to add more sets of Sn and Cn hidden layers, you will repeat this alternating pattern again: as the spatial resolution is reduced (by pooling), the number of feature maps in the next layer is increased. The idea here is to compensate for the reduction in spatial resolution by increasing the richness of the learned representations (i.e., more feature maps).
      * Once we are done with the sequence of convolution and pooling, the network implements a traditional fully-connected layer as in the multi-layer perceptron. The first fully-connected F1 layer has the role of “flattening” the C2 pooling layer. Remember that fully-connected layers take an input vector, and the dimensions of the LeNet-5 C2 layer are a 5×5×16 tensor, this is, sixteen 5 by 5 feature maps. The dimensionality of the first fully-connected layer is 120, which is the result of another convolution. The next hidden layer F2 “compress” the output even further into a vector of size 84. Finally, we have the output-layer implementing a euclidean radial basal function (RBD) with 10 neurons to perform the classification of numbers (0-9).
 
+R. **Concepts and Terminologies used in CNNs** <br>
+<kbd> <img src = "https://github.com/gasingh/furniture-style-classifier/blob/main/Concepts%20and%20Terminologies%20used%20in%20CNNs_%20Pooling_1693823616688.png" width = "500"> </kbd> <br>
+* [Convolutional Neural Networks (CNNs): An Introduction | LinkedIn](https://www.linkedin.com/pulse/convolutional-neural-networks-cnns-introduction-ali-mahdavi/)
+* [Convolution in NN. How you convolve in CNN? | by Akhil Soni | Medium](https://medium.com/@akhil0435/convolution-in-nn-7845eb040e77)
+* [Flattening CNN layers for Neural Network and basic concepts | by Muhammad Shoaib Ali | Medium](https://medium.com/@muhammadshoaibali/flattening-cnn-layers-for-neural-network-694a232eda6a)
+* 02:09 19/12/2024
+
 </details>
 
 
 
-Below are 4 primary sections which assimilate some visual and textual searches and some preliminary research conducted on the subject. This should serve as a ready reference for me to start working on my project further. 
+_Below are 4 primary sections which assimilate some visual and textual searches and some preliminary research conducted on the subject. This should serve as a ready reference for me to start working on my project further._
 
 <details> <summary> Literature Review 01: Understanding CNNs </summary>  
 
@@ -682,6 +689,13 @@ Keras, a scripting interface over Tensorflow can also be used. <br>
   * [tutorials/numpy_tutorial.ipynb at master · olessia/tutorials](https://github.com/olessia/tutorials/blob/master/numpy_tutorial.ipynb)
   * Machine learning is a powerful set of techniques that allow computers to learn from data rather than having a human expert program a behaviour by hand. Neural networks are a class of machine learning algorithm originally inspired by the brain, but which have recently seen a lot of success at practical applications. They're at the heart of production systems at companies like Google and Facebook for face recognition, speech-to-text, and language understanding.
   * This course gives an overview of both the foundational ideas and the recent advances in neural net algorithms. Roughly the first 2/3 of the course focuses on supervised learning -- training the network to produce a specified behaviour when one has lots of labelled examples of that behaviour. The last 1/3 focuses on unsupervised learning.  
+
+  **Understanding Neural Networks Visually by Wolfram Mathematica**
+  * ![](https://content.wolfram.com/sites/39/2019/04/tb430img17.png)
+  * [Neural Networks: An Introduction—Wolfram Blog](https://blog.wolfram.com/2019/05/02/neural-networks-an-introduction/)
+  * [Deep Learning Methods - Introduction to Machine Learning](https://www.wolfram.com/language/introduction-machine-learning/deep-learning-methods/)
+  * [tb430img17.png (595×264)](https://content.wolfram.com/sites/39/2019/04/tb430img17.png)
+  * [How Stephen Wolfram is advancing neural networks with his symbolic framework | LinkedIn](https://www.linkedin.com/pulse/how-stephen-wolfram-advancing-neural-networks-his-pereira-rodrigues/)
 
   **WORKSHOPS FROM NVIDIA**
   * [Introduction to "Learning Deep Learning" | GTC Digital Spring 2023 | NVIDIA On-Demand](https://www.nvidia.com/en-us/on-demand/session/gtcspring23-dlit52044/?playlistId=playList-5906792e-0f3d-436b-bc30-3abf911a95a6)

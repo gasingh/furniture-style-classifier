@@ -1072,11 +1072,11 @@ So, the AI should be ideally able to label features, and successfully identify a
 
 Like so:
 
-![](https://github.com/gasingh/furniture-style-classifier/blob/main/IMG_20241219_112718_edit_91389329091262.jpg)
+<img src= "https://github.com/gasingh/furniture-style-classifier/blob/main/IMG_20241219_113006.jpg" width="500"><br>
+__AI to be able to identify design identifying features!__
+<img src= "https://github.com/gasingh/furniture-style-classifier/blob/main/IMG_20241219_112718_edit_91389329091262.jpg" width="500"><br>
+__AI be able to associate a bunch of design features to a possible design style!__
 <br>
-![](https://github.com/gasingh/furniture-style-classifier/blob/main/IMG_20241219_113006.jpg)
-<br>
-
 <details> <summary> Literature Review 07: Stylization References </summary>
 
 * 1. Classifying Wardrobes

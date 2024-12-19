@@ -76,12 +76,12 @@ I was wandering around in the streets of London, and stumbled across a book outs
 
 ## Aim of the Project
 
-The project is meant to provide an AI trained eye for furniture collectors, which can predict the best/ nearest possible visual style match for a piece of furniture! The project is inspired by a book which teaches people how to identify furniture types by understanding characteristic portions of a furniture type and attribute them to specific historical furniture styles. So the aim of the project is to learn the appropriate AI means to help find a solution that matches the way humans understand, perceive and identify images, and stylizations! 
+The project is meant to provide an `AI trained eye` for furniture collectors, which can predict the best/ nearest possible `visual style match` for a piece of furniture! The project is inspired by a book which teaches people how to identify furniture types by understanding characteristic portions of a furniture type and attribute them to specific historical furniture styles. So the aim of the project is to learn the appropriate AI means to help find a solution that matches the way humans understand, perceive and identify images, and stylizations! 
 
 <!-- Learn how to translate a visual guide into a textual reference for a computer program (probably a database?)
 * The book has images with portions of furniture objects tagged and named, so they become clearly identifiable to the viewer. How can a set of images and related textual data/ labels be associated in a digital format, without too much manual processing? Maybe some kind of an image-OCR solution could help? Or another mini AI that can read a scan of a page, and make sense of it? -->  
 
-What could be super cool is if the AI framework can spot and pickup furniture stylized elements inside a furniture image. Just like the book does! Please refer to Section: [Story & Motivation](https://github.com/gasingh/furniture-style-classifier/edit/main/README.md#story-and-motivation), above.
+What could be super cool is if the AI framework can spot and pickup furniture stylized elements inside a furniture image. Just like how a book can train a person to do! Please refer to Section: [Story & Motivation](https://github.com/gasingh/furniture-style-classifier/edit/main/README.md#story-and-motivation), above.
 
 So, the AI should be ideally able to extract and label features. And further successfully identify a particular design style/ a probability of nearest possible styles for the piece of furniture. Hence finally be able to then deduce a style for the supplied image. This should be the ultimate aim for the AI Furniture Classifier. These two intents are clarified and elaborated below with illustrations.
 

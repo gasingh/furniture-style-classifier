@@ -8,11 +8,11 @@ Final project for the Building AI course.
 
 ___
 
-This documentation is a collection of my general interest towards building a furniture style classifier, a general introduction to Neural Networks, their general architecture, their historical evolution including the MNIST dataset, LeNet and then the backpropagation algorithms by Hinton et al, and then the more recent advacements in the field: AlexNet, and the CIFAR-10, and ImageNet databases. Further some key aspects of a Convolutional Neural Network (CNN) are also studied. In the process, I also researched the internet to look for various useful resources to understand the subject in more detail. The research document also looks into the aspect of Copyrights in the light of AI technologies. The document concludes by listing some limitations of CNNs and a look into ways of deploying CNNs as mobile phone apps.
+_This documentation is a collection of my general interest towards building a furniture style classifier, a general introduction to Neural Networks, their general architecture, their historical evolution including the MNIST dataset, LeNet and then the backpropagation algorithms by Hinton et al, and then the more recent advacements in the field: AlexNet, and the CIFAR-10, and ImageNet databases. Further some key aspects of a Convolutional Neural Network (CNN) are also studied. In the process, I also researched the internet to look for various useful resources to understand the subject in more detail. The research document also looks into the aspect of Copyrights in the light of AI technologies. The document concludes by listing some limitations of CNNs and a look into ways of deploying CNNs as mobile phone apps._
 
-A break-down of this document can be seen in the "Table of Contents" section below.
+_A break-down of this document can be seen in the "Table of Contents" section below._
 
-<details> <summary> <i>Table of Contents</i> </summary>
+<details> <summary> <i> <b> Table of Contents </b> </i> </summary>
 <br>
 The "Furniture Sytle Classifier" project is documented as a self-initiated knowledge reearch around the topic of image-based CNNs. The documentation is compiled in snippets over the course of two months, evolving into the current format. Each "Section" is supported with a "Literature Review" which delves deep into the relevant topic. 
   <br> <br>
@@ -58,7 +58,7 @@ ___
 
 
 ## Story and Motivation
-The idea for the project emerged during a walk in London, during a weekend.
+The idea for the project emerged during a walk in London, during a weekend in October 2024.
 
 I was wandering around in the streets of London, and stumbled across a book outside a bookshop in a sale. It was a pictorial guide from the 1990s teaching people how to identify furniture styles. The book is meant as a concise resource for curators, furniture collectors, and connoisseurs, as well as students of history and decorative arts. The book provide one page descriptions and images for 36 styles ranging from 1600s to 1900s. Almost instantly, I was fascinated by the idea that if a person can be trained to read a book and learn to identify furniture styles, can an AI do it as well? 
 

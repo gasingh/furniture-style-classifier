@@ -87,11 +87,13 @@ So, the AI should be ideally able to extract and label features. And further suc
 
 Like so:
 
-_`Feature Extraction`: AI should be able to automatically extract, and label design identifying features from a furniture photograph!_ <br>
+_`Feature Extraction`_ <br>
+_AI should be able to automatically extract, and label design identifying features from a furniture photograph!_ <br>
 
 <img src= "https://github.com/gasingh/furniture-style-classifier/blob/main/IMG_20241219_113006.jpg" width="700"><br>
 
-_`Classification based on feature extraction`: AI solution should be able to associate a bunch of design features to a possible design style!_ <br>
+_`Classification based on feature extraction`_ <br>
+_AI solution should be able to associate a bunch of design features to a possible design style!_ <br>
 
 <img src= "https://github.com/gasingh/furniture-style-classifier/blob/main/IMG_20241219_112718_edit_91389329091262.jpg" width="700"><br>
 

@@ -9,7 +9,7 @@ Final project for the Building AI course.
 
 ## Summary
 
-_This is a documentation for building a `furniture style classifier`. Being able to estimate the historical style of a furniture chair type, by looking at an image. The technology to be employed for this endeavour is a `Convolutional Neural Network: CNN`._ 
+_This is a documentation for building a `Furniture Style Classifier`. Being able to estimate the historical style of a furniture chair type, by looking at an image. The technology to be employed for this endeavour is a `Convolutional Neural Network: CNN`._ 
 
 _This led me to look into the subject of Neural Networks more closely. This documentation contains a general introduction into Neural Networks, their general architecture, their historical evolution including the MNIST dataset (1994), LeNet NN architecture (1998), the backpropagation algorithm by Hinton et al (1983), and the more recent advacements in the field: AlexNet NN architecture (2012) designed by Alex Krizhevsky in collaboration with Ilya Sutskever and Geoffrey Hinton; and the CIFAR-10 database (2009) collected by Alex Krizhevsky, Vinod Nair, and Geoffrey Hinton; and the ImageNet database (2006) by Fei-Fei Li._
 

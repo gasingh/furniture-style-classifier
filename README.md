@@ -1066,7 +1066,16 @@ I found a few datasources online:
 
 A few interesting webpages which talk about and illustrate various futniture styles.
 
-What could be super cool is if the AI framework can spot and pickup furniture stylized elements from furniture images. Just like the book does! (Please refer to Section 1 above).
+What could be super cool is if the AI framework can spot and pickup furniture stylized elements inside a furniture image. Just like the book does! Please refer to Section: [Story & Motivation](https://github.com/gasingh/furniture-style-classifier/edit/main/README.md#story-and-motivation), above.
+
+So, the AI should be ideally able to label features, and successfully identify a particular design style/ a probability of nearest possible styles for the piece of furniture. Hence finally be able to then deduce a style for the supplied image. This should be the ultimate aim for the AI Furniture Classifier.
+
+Like so:
+
+![](https://github.com/gasingh/furniture-style-classifier/blob/main/IMG_20241219_112718_edit_91389329091262.jpg)
+<br>
+![](https://github.com/gasingh/furniture-style-classifier/blob/main/IMG_20241219_113006.jpg)
+<br>
 
 <details> <summary> Literature Review 07: Stylization References </summary>
 
